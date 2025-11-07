@@ -1,0 +1,914 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- required meta -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- #favicon -->
+    <link
+      rel="shortcut icon"
+      href="/assets/images/favicon.png"
+      type="image/x-icon"
+    />
+    <!-- #title -->
+    <title> From Zero to Hero: Step-by-Step SEO for Skin Care
+      Clinics</title>
+    <!-- #keywords -->
+    <meta name="keywords" content="" />
+    <!-- #description -->
+    <meta
+      name="description"
+      content="Boost your skincare clinic's visibility with Stealth Digital's SEO strategies. Attract more patients, establish credibility, and grow your business online."
+    />
+
+    <link rel="canonical" href="https://www.stealthdigital.in/blog/seo-for-skin-care-clinic.html" />
+    
+    <meta property="og:title" content="From Zero to Hero: Step-by-Step SEO for Skin Care Clinics">
+    <meta property="og:description" content="Boost your skincare clinic's visibility with Stealth Digital's SEO strategies. Attract more patients, establish credibility, and grow your business online.">
+    <meta property="og:image" content="https://www.stealthdigital.in/assets/images/blog/blog-seo-skin-care-clinic-sq.webp">
+    <meta property="og:url" content="https://www.stealthdigital.in/blog/seo-for-skin-care-clinic.html">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Stealth Digital">
+    <!-- ==== css dependencies start ==== -->
+    <!-- bootstrap five css -->
+    <link
+      rel="stylesheet"
+      href="/assets/vendor/bootstrap/css/bootstrap.min.css"
+    />
+    <!-- glyphter css -->
+    <link rel="stylesheet" href="/assets/vendor/glyyphter/css/xpovio.css" />
+    <!-- font awesome six css -->
+    <link rel="stylesheet" href="/assets/vendor/font-awesome/css/all.css" />
+    <!-- nice select css -->
+    <link
+      rel="stylesheet"
+      href="/assets/vendor/nice-select/css/nice-select.css"
+    />
+    <!-- magnific popup css -->
+    <link
+      rel="stylesheet"
+      href="/assets/vendor/magnific-popup/css/magnific-popup.css"
+    />
+    <!-- slick css -->
+    <link rel="stylesheet" href="/assets/vendor/slick/css/slick.css" />
+    <!-- ==== / css dependencies end ==== -->
+    <!-- main css -->
+    <link rel="stylesheet" href="/assets/css/main.min.css" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Stealth Digital",
+  "url": "https://www.stealthdigital.in/",
+  "logo": "https://www.stealthdigital.in/assets/images/logo.png",
+  "sameAs": [
+    "https://www.facebook.com/StealthDigital.SD/",
+    "https://www.instagram.com/digital_marketing_stealth/",
+    "https://www.linkedin.com/company/stealth-digitaly/"
+  ]
+}
+</script>
+    <link rel="stylesheet" href="/assets/css/main.min.css" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Stealth Digital",
+  "url": "https://www.stealthdigital.in/",
+  "logo": "https://www.stealthdigital.in/assets/images/logo.png",
+  "sameAs": [
+    "https://www.facebook.com/StealthDigital.SD/",
+    "https://www.instagram.com/digital_marketing_stealth/",
+    "https://www.linkedin.com/company/stealth-digitaly/"
+  ]
+}
+</script>
+  </head>
+
+  <body>
+    <!--[if lte IE 9]>
+      <p class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="https://browsehappy.com/">upgrade your browser</a> to improve
+        your experience and security.
+      </p>
+    <![endif]-->
+
+    <div class="top-strip">
+      <div class="container">
+        <a href="tel:918700181135" class="top-strip-item">
+          <i class="fa-solid fa-phone-volume"></i> 918700181135
+        </a>
+
+        <a href="mailto:rishabh@stealthdigital.in" class="top-strip-item">
+          <i class="fa-solid fa-envelope"></i> rishabh@stealthdigital.in
+        </a>
+      </div>
+    </div>
+    <div class="my-app">
+      <!-- ==== preloader start ==== -->
+      <div id="preloader">
+        <div id="loader"></div>
+      </div>
+      <!-- ==== / preloader end ==== -->
+      <!-- ==== mouse cursor drag start ==== -->
+      <div class="mouseCursor cursor-outer"></div>
+      <div class="mouseCursor cursor-inner">
+        <span>Drag</span>
+      </div>
+      <!-- ==== / mouse cursor drag end ==== -->
+      <!-- ==== header start ==== -->
+      <header class="header">
+        <div class="primary-navbar secondary--navbar">
+          <div class="container">
+            <div class="row">
+              <div class="col-12">
+                <nav class="navbar p-0">
+                  <div class="navbar__logo">
+                    <a href="/" aria-label="go to home">
+                      <img
+                        src="/assets/images/logo.png"
+                        alt="Stealth Digital Logo"
+                      />
+                    </a>
+                  </div>
+                  <div class="navbar__options">
+                    <div class="navbar__menu">
+                      <ul>
+                        <li class="navbar__item">
+                          <a href="/">Home</a>
+                        </li>
+                        <li class="navbar__item">
+                          <a href="../about-us.html">About Us</a>
+                        </li>
+                        <li
+                          class="navbar__item navbar__item--has-children nav-fade"
+                        >
+                          <a
+                            href="javascript:void(0)"
+                            aria-label="dropdown menu"
+                            class="navbar__dropdown-label"
+                            >Services</a
+                          >
+                          <ul class="navbar__sub-menu">
+                            <li>
+                              <a href="../search-engine-marketing.html"
+                                >Search Engine Marketing</a
+                              >
+                            </li>
+                            <li>
+                              <a href="../search-engine-optimization.html"
+                                >Search Engine Optimization</a
+                              >
+                            </li>
+                            <li>
+                              <a href="../social-media-marketing.html"
+                                >Social Media Marketing</a
+                              >
+                            </li>
+                            <li>
+                              <a href="../content-marketing.html"
+                                >Content Marketing</a
+                              >
+                            </li>
+                            <li>
+                              <a href="../website-design-and-development.html"
+                                >Website Design & Development</a
+                              >
+                            </li>
+                          </ul>
+                        </li>
+                        <li class="navbar__item">
+                          <a href="../blog.html">Blogs</a>
+                        </li>
+                        <li class="navbar__item">
+                          <a href="../contact-us.html">Contact Us</a>
+                        </li>
+                      </ul>
+                    </div>
+                    <button
+                      class="open-offcanvas-nav d-flex"
+                      aria-label="toggle mobile menu"
+                      title="open offcanvas menu"
+                    ></button>
+                  </div>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <div class="offcanvas-nav">
+        <div class="offcanvas-menu">
+          <nav class="offcanvas-menu__wrapper">
+            <div class="offcanvas-menu__header nav-fade">
+              <div class="logo">
+                <a href="/">
+                  <img
+                    src="/assets/images/logo.png"
+                    alt="Stealth Digital Logo"
+                    title="Stealth Digital"
+                  />
+                </a>
+              </div>
+              <a
+                href="javascript:void(0)"
+                aria-label="close offcanvas menu"
+                class="close-offcanvas-menu"
+              >
+                <i class="fa-light fa-xmark-large"></i>
+              </a>
+            </div>
+            <div class="offcanvas-menu__list">
+              <div class="navbar__menu">
+                <ul>
+                  <li class="navbar__item nav-fade">
+                    <a href="/">Home</a>
+                  </li>
+                  <li class="navbar__item navbar__item--has-children nav-fade">
+                    <a
+                      href="javascript:void(0)"
+                      aria-label="dropdown menu"
+                      class="navbar__dropdown-label"
+                      >Services</a
+                    >
+
+                    <ul class="navbar__sub-menu">
+                      <li>
+                        <a href="../search-engine-marketing.html"
+                          >Search Engine Marketing</a
+                        >
+                      </li>
+                      <li>
+                        <a href="../search-engine-optimization.html"
+                          >Search Engine Optimization</a
+                        >
+                      </li>
+                      <li>
+                        <a href="../content-marketing.html">Content Marketing</a>
+                      </li>
+                      <li>
+                        <a href="../social-media-marketing.html"
+                          >Social Media Marketing</a
+                        >
+                      </li>
+                      <li>
+                        <a href="../website-design-and-development.html"
+                          >Website Design & Development</a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="navbar__item nav-fade">
+                    <a href="../about-us.html">About Us</a>
+                  </li>
+                  <li class="navbar__item nav-fade"> <a href="../blog.html">Blogs</a></li>
+                   
+                  
+                </ul>
+              </div>
+            </div>
+            <div class="offcanvas-menu__options nav-fade">
+              <div class="offcanvas__mobile-options d-flex">
+                <a href="../contact-us.html" class="btn btn--secondary"
+                  >Let's Talk</a
+                >
+              </div>
+            </div>
+            <div
+              style="
+                display: flex;
+                justify-content: space-between;
+                padding-left: 1.5rem;
+                flex-wrap: wrap;
+                gap: 2rem;
+              "
+            >
+              <a href="mailto:rishabh@stealthdigital.in"
+                >Email : rishabh@stealthdigital.in</a
+              >
+
+              <a href="tel:918700181135">Call Us : 918700181135</a>
+            </div>
+            <div class="offcanvas-menu__social social nav-fade">
+              <a
+                href="https://www.facebook.com/people/Stealth-Digital-SD/61560966751733/"
+                target="_blank"
+                aria-label="share us on facebook"
+              >
+                <i class="fa-brands fa-facebook-f"></i>
+              </a>
+
+              <a
+                href="https://www.linkedin.com/company/stealth-digitaly/"
+                target="_blank"
+                aria-label="share us on linkedin"
+              >
+                <i class="fa-brands fa-linkedin-in"></i>
+              </a>
+              <a
+                href="https://www.instagram.com/digital_marketing_stealth/"
+                target="_blank"
+                aria-label="share us on instagram"
+              >
+                <i class="fa-brands fa-instagram"></i>
+              </a>
+            </div>
+          </nav>
+        </div>
+      </div>
+      <!-- ==== / header end ==== -->
+      <div id="smooth-wrapper">
+        <div id="smooth-content">
+          <!-- ==== main start ==== -->
+          <main>
+            <!-- ==== banner start ==== -->
+            <section
+              class="cmn-banner bg-img"
+              data-background="/assets/images/banner/cmn-banner-bg.png"
+            >
+              <div class="container">
+                <div class="row gaper align-items-center">
+                  <div class="col-12">
+                    <div class="text-center text-lg-start">
+                      <h2 class="title title-anim">
+                        SEO for Skin Care Clinics
+                      </h2>
+                      <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                          <li class="breadcrumb-item">
+                            <a href="/">
+                              <i class="fa-solid fa-house"></i>
+                              Home
+                            </a>
+                          </li>
+                          <li class="breadcrumb-item">
+                            <a href="../blog.html">
+                              <i class="fa-solid fa-book"></i>
+                              Blog
+                            </a>
+                          </li>
+                          <li
+                            class="breadcrumb-item active"
+                            aria-current="page"
+                          >
+                            Choosing the Right SEO Agency
+                          </li>
+                        </ol>
+                      </nav>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+
+            <!-- ==== / banner end ==== -->
+            <!-- ==== blog details start ==== -->
+            <section class="section blog-main blog-details fade-wrapper">
+              <div class="container">
+                <div class="row gaper">
+                  <div class="col-12 col-xl-10 m-auto">
+                    <div class="blog-details__content">
+                      <div class="bd-thumb fade-top">
+                        <img
+                          src="/assets/images/blog/blog-skin-care.webp"
+                          alt="skin-care-image poster"
+                          style="border-radius: 10px"
+                        />
+                      </div>
+                      <div class="bd-content">
+                        <div class="bd-meta">
+                          <div class="meta__left">
+                            <p>
+                              <strong>Written by :</strong>
+                              Stealth Digital
+                            </p>
+                            <span></span>
+                            <p>10/09/2024</p>
+                          </div>
+                        </div>
+                        <div class="bd-content-info">
+                          <h1 class="h4">
+                            From Zero to Hero: Step-by-Step SEO for Skin Care
+                            Clinics
+                          </h1>
+                          <div class="paragraph">
+                            <p style=" color: #c1c1c1;">
+                              In today’s digital age, having a strong online
+                              presence is crucial for any business, and skincare
+                              clinics are no exception. Search Engine
+                              Optimization (SEO) is one of the most powerful
+                              ways to drive organic traffic to your website and
+                              stand out in a competitive market. Leveraging SEO
+                              services is crucial for attracting new patients
+                              and establishing yourself as an industry leader if
+                              you want to go from zero to hero in your skincare
+                              clinic's SEO journey. In this blog, we will guide
+                              you to boost your clinic’s visibility, attract
+                              more clients, and grow your business.
+                            </p>
+                            <h2 class="h4"  style="padding: 0px; text-align: left">What is SEO?</h2>
+                            <p style=" color: #c1c1c1;">
+                              SEO stands for Search Engine Optimization. It's a
+                              set of strategies and techniques aimed at
+                              improving a website's visibility in search engine
+                              results pages (SERPs) like Google, Bing, or Yahoo.
+                              When you search for something online, the search
+                              engine algorithm ranks websites based on their
+                              relevance and quality. SEO helps your website rank
+                              higher in these search results, making it more
+                              likely to be seen by potential customers.
+                            </p>
+                          </div>
+                          <h2 class="h4" style="padding: 0px; text-align: left">
+                            Understanding the Importance of SEO for Skin Care
+                            Clinics
+                          </h2>
+                          <p style=" color: #c1c1c1;">
+                            SEO (Search Engine Optimization) is the practice of
+                            improving your website's visibility in search engine
+                            results pages (SERPs) like Google. For skin care
+                            clinics, effective SEO can help you to:
+                          </p>
+                          <ul style=" color: #c1c1c1;">
+                            <li style=" color: #c1c1c1;"   style=" color: #c1c1c1;">
+                              Attract more patients - Rank higher in search
+                              results for relevant keywords, making it easier
+                              for potential patients to find your clinic.
+                            </li>
+                            <li   style=" color: #c1c1c1;">
+                              Establish credibility - Demonstrate your expertise
+                              and authority in the field of skincare.
+                            </li  style=" color: #c1c1c1;">
+                            <li>
+                              Build trust - Showcase positive reviews and
+                              testimonials from satisfied patients.
+                            </li>
+                            <li style=" color: #c1c1c1;">
+                              Increase website traffic - Drive organic traffic
+                              to your website, leading to more inquiries and
+                              appointments.
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                      <!-- <div class="bd-group">
+                        <img src="/assets/images/news/group-one.png" alt="Image" class="fade-top" />
+                        <img src="/assets/images/news/group-two.png" alt="Image" class="fade-top" />
+                      </div> -->
+                      <div class="bd-content">
+                        <div class="bd-content__alt">
+                          <h2 class="h4" style="padding: 0px; text-align: left">
+                            Choosing the Right SEO Agency in Delhi NCR
+                          </h2>
+                          <p >
+                            When selecting an SEO agency in Delhi NCR, consider
+                            the following factors:
+                          </p>
+                          <ul>
+                            <li>
+                              Experience: Look for an <a href="https://stealthdigital.in/seo.html" style="text-decoration: underline;">SEO services</a> agency with a
+                              proven track record of success in the healthcare
+                              industry.
+                            </li>
+                            <li>
+                              Expertise: Ensure they have a deep understanding
+                              of SEO best practices and local search algorithms.
+                            </li>
+                            <li>
+                              Results-oriented approach: Choose an agency that
+                              focuses on delivering measurable results and
+                              achieving your specific goals.
+                            </li>
+                            <li>
+                              Transparent communication: Look for an agency that
+                              provides regular updates and is responsive to your
+                              needs.
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="bd-quote">
+                        <blockquote>
+                          <q class="light-title-lg">
+                            Effective SEO strategies can take your skincare
+                            clinic from zero to hero, making you the go-to
+                            choice for potential patients.
+                          </q>
+                        </blockquote>
+                      </div>
+                      <div class="bd-content">
+                        <div class="bd-content__alt mt-0">
+                          <h2 class="h4" style="padding: 0px; text-align: left">
+                            Key SEO Strategies for Skin Care Clinics
+                          </h2>
+                          <p>1. <strong>Keyword Research:</strong></p>
+                          <ul>
+                            <li>
+                              Identify relevant keywords that potential patients
+                              might use when searching for skincare services in
+                              Delhi NCR.
+                            </li>
+                            <li>
+                              Use tools like Google Keyword Planner or SEMrush
+                              to discover popular keywords and their search
+                              volume.
+                            </li>
+                            <li>
+                              Incorporate these keywords naturally into your
+                              website content, including headings, subheadings,
+                              and body text.
+                            </li>
+                          </ul>
+                          <p>2. <strong>On-Page Optimization:</strong></p>
+                          <ul>
+                            <li>
+                              Optimize your website's content, meta tags, and
+                              headings to improve search engine visibility.
+                            </li>
+                            <li>
+                              Create high-quality, informative blog posts and
+                              articles about skincare tips, treatments, and
+                              conditions.
+                            </li>
+                            <li>Make sure your website loads quickly.</li>
+                          </ul>
+                          <p>3. <strong>Local SEO:</strong></p>
+                          <ul>
+                            <li>
+                              Ensure that your Google My Business listing is
+                              complete and correct by adding information about
+                              your clinic.
+                            </li>
+                            <li>
+                              Build local citations by listing your business on
+                              relevant online directories and directories.
+                            </li>
+                          </ul>
+                          <p>4. <strong>Link Building:</strong></p>
+                          <ul>
+                            <li>
+                              Acquire high-quality backlinks from reputable
+                              websites in the healthcare industry.
+                            </li>
+                            <li>
+                              Build relationships with other local businesses
+                              and collaborate on content or promotions.
+                            </li>
+                            <li>
+                              Encourage patients to share your content on social
+                              media.
+                            </li>
+                          </ul>
+                          <p>5. <strong>Content Marketing:</strong></p>
+                          <ul>
+                            <li>
+                              Provide insightful and useful material that draws
+                              in and keeps the interest of your target audience.
+                            </li>
+                            <li>
+                              Create a content calendar to guarantee regular
+                              releases.
+                            </li>
+                            <li>
+                              Use digital marketing strategies and social media
+                              to promote your content.
+                            </li>
+                            <p>By following effective SEO strategies, skincare clinics can significantly improve their online visibility, attract more patients, and establish themselves as industry leaders. By conducting thorough keyword research, optimising website content, prioritizing local SEO, building high-quality backlinks, creating valuable content, and measuring SEO success, clinics can boost their online presence and achieve their business goals. <a href="https://stealthdigital.in" style="text-decoration: underline;">StealthDigital</a>  can provide expert SEO services to help skin care clinics achieve these objectives and maximise their online success.
+                            </p>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="bd-tags">
+                        <!-- <div class="tags-left">
+                          <p>Tags:</p>
+                          <div class="tags-content">
+                            <a >SEO</a>
+                            <a >Skincare</a>
+                            <a >Digital Marketing</a>
+                          </div>
+                        </div> -->
+                        <div class="tags-right">
+                          <p>Share:</p>
+                          <ul class="social">
+                              <!-- Facebook Share -->
+                              <li>
+                                  <a href="javascript:void(0);" onclick="shareOnFacebook()" aria-label="Share on Facebook" title="Share on Facebook">
+                                      <i class="fa-brands fa-facebook"></i>
+                                  </a>
+                              </li>
+                      
+                              <!-- LinkedIn Share -->
+                              <li>
+                                  <a href="javascript:void(0);" onclick="shareOnLinkedIn()" aria-label="Share on LinkedIn" title="Share on LinkedIn">
+                                      <i class="fa-brands fa-linkedin"></i>
+                                  </a>
+                              </li>
+                      
+                              <!-- Instagram (link to profile or app) -->
+                              <li>
+                                  <a href="javascript:void(0);" onclick="shareOnInstagram()" aria-label="Share on Instagram" title="Share on Instagram">
+                                      <i class="fa-brands fa-instagram"></i>
+                                  </a>
+                              </li>
+                          </ul>
+                      </div>
+                      </div>
+                    </div>
+
+                  
+                  </div>
+                </div>
+              </div>
+            </section>
+            <!-- ==== / blog details end ==== -->
+          </main>
+          <!-- ==== / main end ==== -->
+          <!-- ==== footer start ==== -->
+          <footer
+            class="footer section pb-0"
+            data-background="/assets/images/footer/footer-bg.png"
+          >
+            <div class="container">
+              <div class="row gaper">
+                <div class="col-12 col-lg-5 col-xl-6">
+                  <div class="footer__single">
+                    <a href="/" class="logo">
+                      <img
+                        src="/assets/images/logo.png"
+                        alt="Stealth Digital Logo"
+                      />
+                    </a>
+                    <div class="footer__single-meta">
+                      <a
+                        href="https://maps.app.goo.gl/V4wAodQUjrUmepMMA"
+                        target="_blank"
+                      >
+                        <i class="fa-sharp fa-solid fa-location-dot"></i>
+                        304, Best Sky Tower, Netaji Subhash Place, Pitampura,
+                        Delhi, 110034
+                      </a>
+                      <a href="tel:918700181135">
+                        <i class="fa-sharp fa-solid fa-phone-volume"></i>
+                        918700181135
+                      </a>
+                      <a href="mailto:rishabh@stealthdigital.in">
+                        <i class="fa-sharp fa-solid fa-envelope"></i>
+                        rishabh@stealthdigital.in
+                      </a>
+                    </div>
+                    <div class="footer__cta text-start">
+                      <a href="contact-us.html" class="btn btn--secondary"
+                        >Book an appointment</a
+                      >
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-12 col-lg-2 col-xl-2">
+                  <div class="footer__single">
+                    <div class="footer__single-intro">
+                      <h5>Discover</h5>
+                    </div>
+                    <div class="footer__single-content">
+                      <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="../about-us.html">About Us</a></li>
+                        <li>
+                          <a href="../search-engine-marketing.html">Services</a>
+                        </li>
+                        <li><a href="../blog.html">Blogs</a></li>
+                        <li><a href="../contact-us.html">Contact Us</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-12 col-lg-5 col-xl-4">
+                  <div class="footer__single">
+                    <div class="footer__single-intro">
+                      <h5>Subscribe to Our Newsletter</h5>
+                    </div>
+                    <div class="footer__single-content">
+                      <p>
+                        Stay updated with the latest digital marketing trends
+                        and strategies. Subscribe to our newsletter for insights
+                        and tips.
+                      </p>
+                      <div class="footer__single-form">
+                        <form id="newsletterForm" action="#" method="post">
+                          <div class="input-email">
+                            <input
+                              type="email"
+                              name="subscribe-news"
+                              id="subscribeNews"
+                              placeholder="Enter Your Email"
+                              required
+                            />
+                            <button type="submit" class="subscribe">
+                              <i class="fa-sharp fa-solid fa-paper-plane"></i>
+                            </button>
+                          </div>
+                          <!-- Thank you message -->
+                          <div
+                            id="thankYouMessage"
+                            style="
+                              display: none;
+
+                              margin-top: 10px;
+                            "
+                          >
+                            Thank you for subscribing !
+                          </div>
+                        </form>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-12">
+                  <div class="footer__copyright">
+                    <div class="row align-items-center gaper">
+                      <div class="col-12 col-lg-8">
+                        <div
+                          class="footer__copyright-text text-center text-lg-start"
+                        >
+                          <p>
+                            Copyright &copy;
+                            <span id="copyYear"></span>
+                            by Stealth Digital. All Rights Reserved
+                          </p>
+                        </div>
+                      </div>
+                      <div class="col-12 col-lg-4">
+                        <div
+                          class="social justify-content-center justify-content-lg-end"
+                        >
+                          <a
+                            href="https://www.facebook.com/people/Stealth-Digital-SD/61560966751733/"
+                            target="_blank"
+                          >
+                            <i class="fa-brands fa-facebook-f"></i>
+                          </a>
+                          <!-- <a href="https://www.twitter.com/" target="_blank">
+                                    <i class="fa-brands fa-twitter"></i>
+                                  </a> -->
+                          <a
+                            href="https://www.linkedin.com/company/stealth-digitaly/"
+                            target="_blank"
+                          >
+                            <i class="fa-brands fa-linkedin-in"></i>
+                          </a>
+                          <a
+                            href="https://www.instagram.com/digital_marketing_stealth/"
+                            target="_blank"
+                          >
+                            <i class="fa-brands fa-instagram"></i>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </footer>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Stealth Digital",
+  "image": "https://www.stealthdigital.in/assets/images/logo.png",
+  "url": "https://www.stealthdigital.in/",
+  "telephone": "+91-87001 81135",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "304, Best Sky Tower, Netaji Subhash Place",
+    "addressLocality": "Delhi",
+    "postalCode": "110034",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 28.6922865,
+    "longitude": 77.14901069999999
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "09:30",
+    "closes": "19:00"
+  },
+  "sameAs": [
+    "https://www.facebook.com/StealthDigital.SD/",
+    "https://www.instagram.com/digital_marketing_stealth/",
+    "https://www.linkedin.com/company/stealth-digitaly/"
+  ] 
+}
+</script>
+          <!-- ==== / footer end ==== -->
+        </div>
+      </div>
+      <!-- ==== scroll to top start ==== -->
+      <button
+        class="progress-wrap"
+        aria-label="scroll indicator"
+        title="go to top"
+      >
+        <span></span>
+        <svg
+          class="progress-circle svg-content"
+          width="100%"
+          height="100%"
+          viewBox="-1 -1 102 102"
+        >
+          <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+        </svg>
+      </button>
+      <!-- ==== / scroll to top end ==== -->
+    </div>
+    <!-- ==== js dependencies start ==== -->
+    <!-- jquery -->
+    <script src="/assets/vendor/jquery/jquery-3.7.0.min.js"></script>
+    <!-- bootstrap five js -->
+    <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- nice select js -->
+    <script src="/assets/vendor/nice-select/js/jquery.nice-select.min.js"></script>
+    <!-- magnific popup js -->
+    <script src="/assets/vendor/magnific-popup/js/jquery.magnific-popup.min.js"></script>
+    <!-- slick js -->
+    <script src="/assets/vendor/slick/js/slick.min.js"></script>
+    <!-- image loaded js -->
+    <script src="/assets/vendor/images-loaded/imagesloaded.pkgd.min.js"></script>
+    <!-- isotope js -->
+    <script src="/assets/vendor/isotope/isotope.pkgd.min.js"></script>
+    <!-- chroma js -->
+    <script src="/assets/vendor/gsap/chroma.min.js"></script>
+    <!-- splittext js -->
+    <script src="/assets/vendor/gsap/SplitText.min.js"></script>
+    <!-- scrollsmoother js -->
+    <script src="/assets/vendor/gsap/ScrollSmoother.min.js"></script>
+    <!-- scrollto js -->
+    <script src="/assets/vendor/gsap/ScrollToPlugin.min.js"></script>
+    <!-- scrolltrigger js -->
+    <script src="/assets/vendor/gsap/ScrollTrigger.min.js"></script>
+    <!-- gsap js -->
+    <script src="/assets/vendor/gsap/gsap.min.js"></script>
+    <!-- vanilla tilt js -->
+    <script src="/assets/vendor/vanilla-tilt/tilt.jquery.js"></script>
+    <!-- ==== / js dependencies end ==== -->
+    <!-- plugins js -->
+    <script src="/assets/js/plugins.js"></script>
+    <!-- main js -->
+    <script src="/assets/js/main.js"></script>
+    <!-- function for the shareable link of social media handles -->
+    <script>
+      // URL to be shared
+      const blogUrl = "https://www.stealthdigital.in/blog/seo-for-restaurant.html";
+  
+      // Function for sharing on Facebook
+      function shareOnFacebook() {
+          const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(blogUrl)}`;
+          window.open(facebookUrl, '_blank', 'width=600,height=800');
+      }
+  
+      // Function for sharing on LinkedIn
+      function shareOnLinkedIn() {
+          const linkedinUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(blogUrl)}`;
+          window.open(linkedinUrl, '_blank', 'width=600,height=800');
+      }
+  
+      // Function for Instagram (Copy to Clipboard)
+     // Function for Instagram (Copy to Clipboard)
+    function shareOnInstagram() {
+        // Check if clipboard API is available
+        if (navigator.clipboard) {
+            navigator.clipboard.writeText(blogUrl).then(function() {
+                alert("Blog URL copied to clipboard. You can paste it in your Instagram bio or Stories.");
+            }).catch(function(err) {
+                console.error("Failed to copy text: ", err);
+                alert("Oops! Something went wrong while copying the URL.");
+            });
+        } else {
+            // Fallback if clipboard API isn't supported
+            console.error("Clipboard API is not supported by this browser.");
+            alert("Your browser does not support the Clipboard API. Please copy the URL manually.");
+        }
+    
+      }
+  </script>
+  </body>
+</html>

@@ -1,0 +1,814 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- required meta -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- #favicon -->
+    <link
+      rel="shortcut icon"
+      href="/assets/images/favicon.png"
+      type="image/x-icon"
+    />
+    <!-- #title -->
+    <title>
+      How Can Social Media Help Your Skincare Business Grow Faster?
+    </title>
+    <!-- #keywords -->
+    <meta name="keywords" content="" />
+    <!-- #description -->
+    <meta
+      name="description"
+      content="Discover how Stealth Digital can accelerate your skincare business growth through enhanced customer engagement, brand awareness, and effective sales strategies."      
+    />
+
+    <link rel="canonical" href="https://www.stealthdigital.in/blog/social-media-for-skin-care-business.html" />
+
+    <meta property="og:title" content="How Can Social Media Help Your Skincare Business Grow Faster?">
+    <meta property="og:description" content="Discover how to leverage social media for your skincare business growth. Learn key strategies to boost engagement, increase brand awareness, and drive sales through effective social media marketing with Stealth Digital.">
+    <meta property="og:image" content="https://www.stealthdigital.in/assets/images/blog/blog-smm-skin-care-clinic-sq.webp">
+    <meta property="og:url" content="https://www.stealthdigital.in/blog/social-media-for-skin-care-business.html">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Stealth Digital">
+    <!-- ==== css dependencies start ==== -->
+    <!-- bootstrap five css -->
+    <link
+      rel="stylesheet"
+      href="/assets/vendor/bootstrap/css/bootstrap.min.css"
+    />
+    <!-- glyphter css -->
+    <link rel="stylesheet" href="/assets/vendor/glyyphter/css/xpovio.css" />
+    <!-- font awesome six css -->
+    <link rel="stylesheet" href="/assets/vendor/font-awesome/css/all.css" />
+    <!-- nice select css -->
+    <link
+      rel="stylesheet"
+      href="/assets/vendor/nice-select/css/nice-select.css"
+    />
+    <!-- magnific popup css -->
+    <link
+      rel="stylesheet"
+      href="/assets/vendor/magnific-popup/css/magnific-popup.css"
+    />
+    <!-- slick css -->
+    <link rel="stylesheet" href="/assets/vendor/slick/css/slick.css" />
+    <!-- ==== / css dependencies end ==== -->
+    <!-- main css -->
+    <link rel="stylesheet" href="/assets/css/main.min.css" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Stealth Digital",
+  "url": "https://www.stealthdigital.in/",
+  "logo": "https://www.stealthdigital.in/assets/images/logo.png",
+  "sameAs": [
+    "https://www.facebook.com/StealthDigital.SD/",
+    "https://www.instagram.com/digital_marketing_stealth/",
+    "https://www.linkedin.com/company/stealth-digitaly/"
+  ]
+}
+</script>
+  </head>
+
+  <body>
+    <!--[if lte IE 9]>
+      <p class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="https://browsehappy.com/">upgrade your browser</a> to improve
+        your experience and security.
+      </p>
+    <![endif]-->
+
+    <div class="top-strip">
+      <div class="container">
+        <a href="tel:918700181135" class="top-strip-item">
+          <i class="fa-solid fa-phone-volume"></i> 918700181135
+        </a>
+
+        <a href="mailto:rishabh@stealthdigital.in" class="top-strip-item">
+          <i class="fa-solid fa-envelope"></i> rishabh@stealthdigital.in
+        </a>
+      </div>
+    </div>
+    <div class="my-app">
+      <!-- ==== preloader start ==== -->
+      <div id="preloader">
+        <div id="loader"></div>
+      </div>
+      <!-- ==== / preloader end ==== -->
+      <!-- ==== mouse cursor drag start ==== -->
+      <div class="mouseCursor cursor-outer"></div>
+      <div class="mouseCursor cursor-inner">
+        <span>Drag</span>
+      </div>
+      <!-- ==== / mouse cursor drag end ==== -->
+      <!-- ==== header start ==== -->
+      <header class="header">
+        <div class="primary-navbar secondary--navbar">
+          <div class="container">
+            <div class="row">
+              <div class="col-12">
+                <nav class="navbar p-0">
+                  <div class="navbar__logo">
+                    <a href="/" aria-label="go to home">
+                      <img
+                        src="/assets/images/logo.png"
+                        alt="Stealth Digital Logo"
+                      />
+                    </a>
+                  </div>
+                  <div class="navbar__options">
+                    <div class="navbar__menu">
+                      <ul>
+                        <li class="navbar__item">
+                          <a href="/">Home</a>
+                        </li>
+                        <li class="navbar__item">
+                          <a href="../about-us.html">About Us</a>
+                        </li>
+                        <li
+                          class="navbar__item navbar__item--has-children nav-fade"
+                        >
+                          <a
+                            href="javascript:void(0)"
+                            aria-label="dropdown menu"
+                            class="navbar__dropdown-label"
+                            >Services</a
+                          >
+                          <ul class="navbar__sub-menu">
+                            <li>
+                              <a href="../search-engine-marketing.html"
+                                >Search Engine Marketing</a
+                              >
+                            </li>
+                            <li>
+                              <a href="../search-engine-optimization.html"
+                                >Search Engine Optimization</a
+                              >
+                            </li>
+                            <li>
+                              <a href="../social-media-marketing.html"
+                                >Social Media Marketing</a
+                              >
+                            </li>
+                            <li>
+                              <a href="../content-marketing.html"
+                                >Content Marketing</a
+                              >
+                            </li>
+                            <li>
+                              <a href="../website-design-and-development.html"
+                                >Website Design & Development</a
+                              >
+                            </li>
+                          </ul>
+                        </li>
+                        <li class="navbar__item">
+                          <a href="../blog.html">Blogs</a>
+                        </li>
+                        <li class="navbar__item">
+                          <a href="../contact-us.html">Contact Us</a>
+                        </li>
+                      </ul>
+                    </div>
+                    <button
+                      class="open-offcanvas-nav d-flex"
+                      aria-label="toggle mobile menu"
+                      title="open offcanvas menu"
+                    ></button>
+                  </div>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <div class="offcanvas-nav">
+        <div class="offcanvas-menu">
+          <nav class="offcanvas-menu__wrapper">
+            <div class="offcanvas-menu__header nav-fade">
+              <div class="logo">
+                <a href="/">
+                  <img
+                    src="/assets/images/logo.png"
+                    alt="Stealth Digital Logo"
+                    title="Stealth Digital"
+                  />
+                </a>
+              </div>
+              <a
+                href="javascript:void(0)"
+                aria-label="close offcanvas menu"
+                class="close-offcanvas-menu"
+              >
+                <i class="fa-light fa-xmark-large"></i>
+              </a>
+            </div>
+            <div class="offcanvas-menu__list">
+              <div class="navbar__menu">
+                <ul>
+                  <li class="navbar__item nav-fade">
+                    <a href="/">Home</a>
+                  </li>
+                  <li class="navbar__item navbar__item--has-children nav-fade">
+                    <a
+                      href="javascript:void(0)"
+                      aria-label="dropdown menu"
+                      class="navbar__dropdown-label"
+                      >Services</a
+                    >
+
+                    <ul class="navbar__sub-menu">
+                      <li>
+                        <a href="../search-engine-marketing.html"
+                          >Search Engine Marketing</a
+                        >
+                      </li>
+                      <li>
+                        <a href="../search-engine-optimization.html"
+                          >Search Engine Optimization</a
+                        >
+                      </li>
+                      <li>
+                        <a href="../content-marketing.html">Content Marketing</a>
+                      </li>
+                      <li>
+                        <a href="../social-media-marketing.html"
+                          >Social Media Marketing</a
+                        >
+                      </li>
+                      <li>
+                        <a href="../website-design-and-development.html"
+                          >Website Design & Development</a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="navbar__item nav-fade">
+                    <a href="../about-us.html">About Us</a>
+                  </li>
+                  <li class="navbar__item nav-fade">
+                    <a href="../blog.html">Blogs</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="offcanvas-menu__options nav-fade">
+              <div class="offcanvas__mobile-options d-flex">
+                <a href="../contact-us.html" class="btn btn--secondary"
+                  >Let's Talk</a
+                >
+              </div>
+            </div>
+            <div
+              style="
+                display: flex;
+                justify-content: space-between;
+                padding-left: 1.5rem;
+                flex-wrap: wrap;
+                gap: 2rem;
+              "
+            >
+              <a href="mailto:rishabh@stealthdigital.in"
+                >Email : rishabh@stealthdigital.in</a
+              >
+
+              <a href="tel:918700181135">Call Us : 918700181135</a>
+            </div>
+            <div class="offcanvas-menu__social social nav-fade">
+              <a
+                href="https://www.facebook.com/people/Stealth-Digital-SD/61560966751733/"
+                target="_blank"
+                aria-label="share us on facebook"
+              >
+                <i class="fa-brands fa-facebook-f"></i>
+              </a>
+
+              <a
+                href="https://www.linkedin.com/company/stealth-digitaly/"
+                target="_blank"
+                aria-label="share us on linkedin"
+              >
+                <i class="fa-brands fa-linkedin-in"></i>
+              </a>
+              <a
+                href="https://www.instagram.com/digital_marketing_stealth/"
+                target="_blank"
+                aria-label="share us on instagram"
+              >
+                <i class="fa-brands fa-instagram"></i>
+              </a>
+            </div>
+          </nav>
+        </div>
+      </div>
+      <!-- ==== / header end ==== -->
+      <div id="smooth-wrapper">
+        <div id="smooth-content">
+          <!-- ==== main start ==== -->
+          <main>
+            <!-- ==== banner start ==== -->
+            <section
+              class="cmn-banner bg-img"
+              data-background="/assets/images/banner/cmn-banner-bg.png"
+            >
+              <div class="container">
+                <div class="row gaper align-items-center">
+                  <div class="col-12">
+                    <div class="text-center text-lg-start">
+                      <h2 class="title title-anim">Social Media for Skin Care Business</h2>
+                      <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                          <li class="breadcrumb-item">
+                            <a href="/">
+                              <i class="fa-solid fa-house"></i>
+                              Home
+                            </a>
+                          </li>
+                          <li class="breadcrumb-item">
+                            <a href="../blog.html">
+                              <i class="fa-solid fa-book"></i>
+                              Blog
+                            </a>
+                          </li>
+                          <li
+                            class="breadcrumb-item active"
+                            aria-current="page"
+                          >
+                            Choosing the Right SMM Agency
+                          </li>
+                        </ol>
+                      </nav>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+
+            <!-- ==== / banner end ==== -->
+            <!-- ==== blog details start ==== -->
+            <section class="section blog-main blog-details fade-wrapper">
+                <div class="container">
+                    <div class="row gaper">
+                        <div class="col-12 col-xl-10 m-auto">
+                            <div class="blog-details__content">
+                                <div class="bd-thumb fade-top">
+                                    <img src="/assets/images/blog/blog-smm-skin-care-clinic.png" alt="Social Media for Skincare Business" />
+                                </div>
+                                <div class="bd-content">
+                                    <div class="bd-meta">
+                                        <div class="meta__left">
+                                            <p>
+                                                <strong>Written by :</strong>
+                                                Stealth Digital
+                                            </p>
+                                            <span></span>
+                                            <p>01/10/2024</p>
+                                        </div>
+                                    </div>
+                                    <div class="bd-content-info">
+                                        <h1 class="h4">
+                                            How Can Social Media Help Your Skincare Business Grow Faster?
+                                        </h1>
+                                        <div class="paragraph">
+                                            <p style="color: #c1c1c1">
+                                                In today's age, social media has become an indispensable tool for businesses across various industries. For skincare businesses, it offers a unique opportunity to connect directly with their target audience, build brand awareness, and drive sales. By understanding and effectively utilising social media platforms, skincare businesses can significantly accelerate their growth and reach new heights.
+                                            </p>
+                                            <p style="color: #c1c1c1">
+                                                This blog post will explore how social media can help your skincare business grow faster, providing valuable insights and strategies to maximise your online presence.
+                                            </p>
+                                        </div>
+                                        <h2 class="h4" style="padding: 0px; text-align: left">Why Social Media is Essential for Skin Care Businesses</h2>
+                                        <p style="color: #c1c1c1">
+                                            Social media has become an integral part of modern marketing strategies, and skincare businesses are no exception. So, here are some essential points to remember that how social media is impacting your business:
+                                        </p>
+                                        <ul>
+                                            <li style="color: #c1c1c1">Direct Connection with Customers: Social media platforms provide a direct channel to communicate with your target audience. You can engage in conversations, address concerns, and build relationships.</li>
+                                            <li style="color: #c1c1c1">Brand Awareness: By posting high-quality content, you can increase your brand visibility and reach a wider audience.</li>
+                                            <li style="color: #c1c1c1">Customer Engagement: Social media allows you to interact with your customers, gather feedback, and foster loyalty.</li>
+                                            <li style="color: #c1c1c1">Customer Acquisition: Through targeted advertising and engaging content, you can attract new customers and drive sales.</li>
+                                            <li style="color: #c1c1c1">Educational Platform: Share valuable skincare tips, product information, and tutorials to establish yourself as an industry expert.</li>
+                                            <li style="color: #c1c1c1">Competitive Advantage: By effectively utilising social media, you can differentiate your skincare business from competitors and gain a competitive edge.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="bd-content">
+                                    <div class="bd-content__alt">
+                                        <h4 class="h4">
+                                            Choosing Right Social Media Platform for Skincare Business
+                                        </h4>
+                                        <p style="color: #c1c1c1">
+                                            With numerous social media platforms available, it's essential to select the ones that best align with your skincare brand and target audience. So, here is the breakdown of some platforms with their potential benefits:
+                                        </p>
+                                        <h5>Instagram:</h5>
+                                        <p style="color: #c1c1c1">
+                                            Instagram is an ideal platform for skincare businesses due to its visual focus and strong community. It allows for showcasing products, before-and-after photos, and behind-the-scenes content. Additionally, Instagram's active community of skincare enthusiasts provides a great opportunity for engagement and interaction.
+                                        </p>
+                                        <h5>Facebook:</h5>
+                                        <p style="color: #c1c1c1">
+                                            Facebook offers a diverse audience and strong advertising capabilities, making it a valuable platform for skincare businesses. You can target specific demographics and interests with effective ad campaigns, and connect with like-minded individuals by creating or joining skincare-related groups.
+                                        </p>
+                                        <h5>Pinterest:</h5>
+                                        <p style="color: #c1c1c1">
+                                            Pinterest is a popular visual search platform that allows skincare businesses to showcase their products through visually appealing content. It's a great place to connect with users seeking skincare inspiration and ideas, and the save feature encourages users to save your content for future reference.
+                                        </p>
+                                        <h5>YouTube:</h5>
+                                        <p style="color: #c1c1c1">
+                                            YouTube is a popular video platform that allows skincare businesses to create educational videos, tutorials, and product reviews. By sharing longer-form content, you can provide in-depth information and build trust with your audience. Additionally, optimising your videos for search engines can help you reach a wider audience and increase visibility.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="bd-quote">
+                                    <blockquote>
+                                        <q class="light-title-lg">
+                                            Social media is essential for skincare brands to find & engage their audience and ultimately drive sales.
+                                        </q>
+                                    </blockquote>
+                                </div>
+                                <div class="bd-content">
+                                    <div class="bd-content__alt mt-0">
+                                        <h4 class="h4">
+                                            Some strategies by which Social Media will Grow Business
+                                        </h4>
+                                        <ol>
+                                            <p><strong>1. Identify Your Target Audience</strong>
+                                                <ul>
+                                                    <li>Demographics: Understand the age, gender, location, and interests of your ideal customer.</li>
+                                                    <li>Psychographics: Determine their lifestyle, values, and preferences.</li>
+                                                </ul>
+                                            </p>
+                                            <p><strong>2. Choose the Right Platforms</strong>
+                                                <ul>
+                                                    <li>Research: Identify the platforms where your target audience is most active.</li>
+                                                    <li>Popular Options: Instagram, Facebook, and Pinterest are often popular choices for skincare businesses.</li>
+                                                </ul>
+                                            </p>
+                                            <p><strong>3. Create High-Quality Content</strong>
+                                                <ul>
+                                                    <li>Educational Content: Share tips, tutorials, and information about skincare products and ingredients.</li>
+                                                    <li>Behind the Scenes: Give your followers a glimpse into your brand's story and culture.</li>
+                                                </ul>
+                                            </p>
+                                            <p><strong>4. Engage with Your Audience</strong>
+                                                <ul>
+                                                    <li>Respond to Questions: Interact with your followers by responding to questions and messages.</li>
+                                                    <li>Ask Questions: Start conversations by asking your audience questions.</li>
+                                                </ul>
+                                            </p>
+                                            <p><strong>5. Utilise Visuals</strong>
+                                                <ul>
+                                                    <li>High-Quality Images: Use professional-quality photos and videos to showcase your products.</li>
+                                                    <li>Instagram Stories: Share behind-the-scenes glimpses, product demos, and quick tips.</li>
+                                                    <li>Create Shorts: Use youtube short videos to capture attention and go viral.</li>
+                                                </ul>
+                                            </p>
+                                            <p><strong>6. Collaborate with Influencers</strong>
+                                                <ul>
+                                                    <li>Identify Important Figures: Partner with influencers who align with your brand values and target audience.</li>
+                                                    <li>Sponsored Content: Collaborate on sponsored posts, reviews, or giveaways.</li>
+                                                </ul>
+                                            </p>
+                                            <p> <strong>7. Run Targeted Ads</strong>
+                                                <ul>
+                                                    <li>Facebook Ads: Target specific demographics and interests with precision.</li>
+                                                    <li>Instagram Ads: Utilise visually appealing ads to capture attention.</li>
+                                                    <li>Google Ads: Reach potential customers searching for skincare products or services.</li>
+                                                </ul>
+                                            </p>
+                                            <p> <strong>8. Track and Analyse Your Performance</strong>
+                                                <ul>
+                                                    <li>Analytics: Use platform-specific analytics to track engagement, reach, and conversions.</li>
+                                                    <li>Adjust Your Strategy: Make data-driven decisions to optimise your social media campaigns.</li>
+                                                </ul>
+                                            </p>
+                                        </ol>
+                                        <p>
+                                          Social media is essential for skincare brands to find & engage their audience and ultimately drive sales. Skincare businesses can also place products in front of a broader audience using Instagram, Facebook, Pinterest and YouTube
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="bd-tags">
+                                    <div class="tags-right">
+                                        <p>Share:</p>
+                                        <ul class="social">
+                                            <!-- Facebook Share -->
+                                            <li>
+                                                <a href="javascript:void(0);" onclick="shareOnFacebook()" aria-label="Share on Facebook" title="Share on Facebook">
+                                                    <i class="fa-brands fa-facebook"></i>
+                                                </a>
+                                            </li>
+                                    
+                                            <!-- LinkedIn Share -->
+                                            <li>
+                                                <a href="javascript:void(0);" onclick="shareOnLinkedIn()" aria-label="Share on LinkedIn" title="Share on LinkedIn">
+                                                    <i class="fa-brands fa-linkedin"></i>
+                                                </a>
+                                            </li>
+                                    
+                                            <!-- Instagram (link to profile or app) -->
+                                            <li>
+                                                <a href="javascript:void(0);" onclick="shareOnInstagram()" aria-label="Share on Instagram" title="Share on Instagram">
+                                                    <i class="fa-brands fa-instagram"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- ==== / blog details end ==== -->
+          </main>
+          <!-- ==== / main end ==== -->
+          <!-- ==== footer start ==== -->
+          <footer
+            class="footer section pb-0"
+            data-background="/assets/images/footer/footer-bg.png"
+          >
+            <div class="container">
+              <div class="row gaper">
+                <div class="col-12 col-lg-5 col-xl-6">
+                  <div class="footer__single">
+                    <a href="/" class="logo">
+                      <img
+                        src="/assets/images/logo.png"
+                        alt="Stealth Digital Logo"
+                      />
+                    </a>
+                    <div class="footer__single-meta">
+                      <a
+                        href="https://maps.app.goo.gl/V4wAodQUjrUmepMMA"
+                        target="_blank"
+                      >
+                        <i class="fa-sharp fa-solid fa-location-dot"></i>
+                        304, Best Sky Tower, Netaji Subhash Place, Pitampura,
+                        Delhi, 110034
+                      </a>
+                      <a href="tel:918700181135">
+                        <i class="fa-sharp fa-solid fa-phone-volume"></i>
+                        918700181135
+                      </a>
+                      <a href="mailto:rishabh@stealthdigital.in">
+                        <i class="fa-sharp fa-solid fa-envelope"></i>
+                        rishabh@stealthdigital.in
+                      </a>
+                    </div>
+                    <div class="footer__cta text-start">
+                      <a href="../contact-us.html" class="btn btn--secondary"
+                        >Book an appointment</a
+                      >
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-12 col-lg-2 col-xl-2">
+                  <div class="footer__single">
+                    <div class="footer__single-intro">
+                      <h5>Discover</h5>
+                    </div>
+                    <div class="footer__single-content">
+                      <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="../about-us.html">About Us</a></li>
+                        <li>
+                          <a href="../search-engine-marketing.html">Services</a>
+                        </li>
+                        <li><a href="../blog.html">Blogs</a></li>
+                        <li><a href="../contact-us.html">Contact Us</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-12 col-lg-5 col-xl-4">
+                  <div class="footer__single">
+                    <div class="footer__single-intro">
+                      <h5>Subscribe to Our Newsletter</h5>
+                    </div>
+                    <div class="footer__single-content">
+                      <p>
+                        Stay updated with the latest digital marketing trends
+                        and strategies. Subscribe to our newsletter for insights
+                        and tips.
+                      </p>
+                      <div class="footer__single-form">
+                        <form id="newsletterForm" action="#" method="post">
+                          <div class="input-email">
+                            <input
+                              type="email"
+                              name="subscribe-news"
+                              id="subscribeNews"
+                              placeholder="Enter Your Email"
+                              required
+                            />
+                            <button type="submit" class="subscribe">
+                              <i class="fa-sharp fa-solid fa-paper-plane"></i>
+                            </button>
+                          </div>
+                          <!-- Thank you message -->
+                          <div
+                            id="thankYouMessage"
+                            style="
+                              display: none;
+
+                              margin-top: 10px;
+                            "
+                          >
+                            Thank you for subscribing !
+                          </div>
+                        </form>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-12">
+                  <div class="footer__copyright">
+                    <div class="row align-items-center gaper">
+                      <div class="col-12 col-lg-8">
+                        <div
+                          class="footer__copyright-text text-center text-lg-start"
+                        >
+                          <p>
+                            Copyright &copy;
+                            <span id="copyYear"></span>
+                            by Stealth Digital. All Rights Reserved
+                          </p>
+                        </div>
+                      </div>
+                      <div class="col-12 col-lg-4">
+                        <div
+                          class="social justify-content-center justify-content-lg-end"
+                        >
+                          <a
+                            href="https://www.facebook.com/people/Stealth-Digital-SD/61560966751733/"
+                            target="_blank"
+                          >
+                            <i class="fa-brands fa-facebook-f"></i>
+                          </a>
+                          <!-- <a href="https://www.twitter.com/" target="_blank">
+                                    <i class="fa-brands fa-twitter"></i>
+                                  </a> -->
+                          <a
+                            href="https://www.linkedin.com/company/stealth-digitaly/"
+                            target="_blank"
+                          >
+                            <i class="fa-brands fa-linkedin-in"></i>
+                          </a>
+                          <a
+                            href="https://www.instagram.com/digital_marketing_stealth/"
+                            target="_blank"
+                          >
+                            <i class="fa-brands fa-instagram"></i>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </footer>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Stealth Digital",
+  "image": "https://www.stealthdigital.in/assets/images/logo.png",
+  "url": "https://www.stealthdigital.in/",
+  "telephone": "+91-87001 81135",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "304, Best Sky Tower, Netaji Subhash Place",
+    "addressLocality": "Delhi",
+    "postalCode": "110034",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 28.6922865,
+    "longitude": 77.14901069999999
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "09:30",
+    "closes": "19:00"
+  },
+  "sameAs": [
+    "https://www.facebook.com/StealthDigital.SD/",
+    "https://www.instagram.com/digital_marketing_stealth/",
+    "https://www.linkedin.com/company/stealth-digitaly/"
+  ] 
+}
+</script>
+          <!-- ==== / footer end ==== -->
+        </div>
+      </div>
+      <!-- ==== scroll to top start ==== -->
+      <button
+        class="progress-wrap"
+        aria-label="scroll indicator"
+        title="go to top"
+      >
+        <span></span>
+        <svg
+          class="progress-circle svg-content"
+          width="100%"
+          height="100%"
+          viewBox="-1 -1 102 102"
+        >
+          <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+        </svg>
+      </button>
+      <!-- ==== / scroll to top end ==== -->
+    </div>
+    <!-- ==== js dependencies start ==== -->
+    <!-- jquery -->
+    <script src="/assets/vendor/jquery/jquery-3.7.0.min.js"></script>
+    <!-- bootstrap five js -->
+    <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- nice select js -->
+    <script src="/assets/vendor/nice-select/js/jquery.nice-select.min.js"></script>
+    <!-- magnific popup js -->
+    <script src="/assets/vendor/magnific-popup/js/jquery.magnific-popup.min.js"></script>
+    <!-- slick js -->
+    <script src="/assets/vendor/slick/js/slick.min.js"></script>
+    <!-- image loaded js -->
+    <script src="/assets/vendor/images-loaded/imagesloaded.pkgd.min.js"></script>
+    <!-- isotope js -->
+    <script src="/assets/vendor/isotope/isotope.pkgd.min.js"></script>
+    <!-- chroma js -->
+    <script src="/assets/vendor/gsap/chroma.min.js"></script>
+    <!-- splittext js -->
+    <script src="/assets/vendor/gsap/SplitText.min.js"></script>
+    <!-- scrollsmoother js -->
+    <script src="/assets/vendor/gsap/ScrollSmoother.min.js"></script>
+    <!-- scrollto js -->
+    <script src="/assets/vendor/gsap/ScrollToPlugin.min.js"></script>
+    <!-- scrolltrigger js -->
+    <script src="/assets/vendor/gsap/ScrollTrigger.min.js"></script>
+    <!-- gsap js -->
+    <script src="/assets/vendor/gsap/gsap.min.js"></script>
+    <!-- vanilla tilt js -->
+    <script src="/assets/vendor/vanilla-tilt/tilt.jquery.js"></script>
+    <!-- ==== / js dependencies end ==== -->
+    <!-- plugins js -->
+    <script src="/assets/js/plugins.js"></script>
+    <!-- main js -->
+    <script src="/assets/js/main.js"></script>
+
+    <!-- function for the shareable link of social media handles -->
+    <script>
+      // URL to be shared
+      const blogUrl = "https://www.stealthdigital.in/blog/social-media-for-skin-care-business.html";
+  
+      // Function for sharing on Facebook
+      function shareOnFacebook() {
+          const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(blogUrl)}`;
+          window.open(facebookUrl, '_blank', 'width=600,height=400');
+      }
+  
+      // Function for sharing on LinkedIn
+      function shareOnLinkedIn() {
+          const linkedinUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(blogUrl)}`;
+          window.open(linkedinUrl, '_blank', 'width=600,height=400');
+      }
+  
+      // Function for Instagram (Copy to Clipboard)
+     // Function for Instagram (Copy to Clipboard)
+    
+     function shareOnInstagram() {
+        // Check if clipboard API is available
+        if (navigator.clipboard) {
+            navigator.clipboard.writeText(blogUrl).then(function() {
+                alert("Blog URL copied to clipboard. You can paste it in your Instagram bio or Stories.");
+            }).catch(function(err) {
+                console.error("Failed to copy text: ", err);
+                alert("Oops! Something went wrong while copying the URL.");
+            });
+        } else {
+            // Fallback if clipboard API isn't supported
+            console.error("Clipboard API is not supported by this browser.");
+            alert("Your browser does not support the Clipboard API. Please copy the URL manually.");
+        }
+      }
+  </script>
+    
+  </body>
+</html>

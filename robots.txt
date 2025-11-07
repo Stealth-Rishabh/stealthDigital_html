@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stealthdigital.in/?sitemapindex.xml
+Sitemap: https://stealthdigital.in/?sitemap131.xml
+Sitemap: https://stealthdigital.in/?sitemap254.xml
+Sitemap: https://stealthdigital.in/?sitemap1000.xml
+Sitemap: https://stealthdigital.in/?sitemap695.xml
+Sitemap: https://stealthdigital.in/?sitemap369.xml
+Sitemap: https://stealthdigital.in/pages.php?sitemap702.xml

@@ -1,0 +1,730 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- required meta -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- #favicon -->
+    <link
+      rel="shortcut icon"
+      href="/assets/images/favicon.png"
+      type="image/x-icon"
+    />
+    <!-- #title -->
+   
+
+    <title>Best PPC Services Agency in Delhi NCR for Every Business Need | Stealth Digital</title>
+    
+    <!-- #keywords -->
+    <meta name="keywords" content="PPC services, Pay-Per-Click advertising, digital marketing, Delhi NCR, online advertising, lead generation, ROI optimization">
+  
+    <!-- #description -->
+    <meta name="description" content="Looking for the best PPC services agency in Delhi NCR? Get expert support, personalized campaigns, and measurable results to boost your business’s growth and ROI.">
+  
+    <link rel="canonical" href="https://www.stealthdigital.in/blog/best-ppc-services-agency-delhi-ncr.html">
+  
+    <meta property="og:title" content="Best PPC Services Agency in Delhi NCR for Every Business Need">
+    <meta property="og:description" content="Looking for the best PPC services agency in Delhi NCR? Get expert support, personalized campaigns, and measurable results to boost your business’s growth and ROI.">
+    <meta property="og:image" content="https://www.stealthdigital.in/assets/images/blog/blog-ppc-services.webp">
+    <meta property="og:url" content="https://www.stealthdigital.in/blog/best-ppc-services-agency-delhi-ncr.html">
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="Stealth Digital" />
+    <!-- ==== css dependencies start ==== -->
+    <!-- bootstrap five css -->
+    <link
+      rel="stylesheet"
+      href="/assets/vendor/bootstrap/css/bootstrap.min.css"
+    />
+    <!-- glyphter css -->
+    <link rel="stylesheet" href="/assets/vendor/glyyphter/css/xpovio.css" />
+    <!-- font awesome six css -->
+    <link rel="stylesheet" href="/assets/vendor/font-awesome/css/all.css" />
+    <!-- nice select css -->
+    <link
+      rel="stylesheet"
+      href="/assets/vendor/nice-select/css/nice-select.css"
+    />
+    <!-- magnific popup css -->
+    <link
+      rel="stylesheet"
+      href="/assets/vendor/magnific-popup/css/magnific-popup.css"
+    />
+    <!-- slick css -->
+    <link rel="stylesheet" href="/assets/vendor/slick/css/slick.css" />
+    <!-- ==== / css dependencies end ==== -->
+    <!-- main css -->
+    <link rel="stylesheet" href="/assets/css/main.min.css" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Stealth Digital",
+        "url": "https://www.stealthdigital.in/",
+        "logo": "https://www.stealthdigital.in/assets/images/logo.png",
+        "sameAs": [
+          "https://www.facebook.com/StealthDigital.SD/",
+          "https://www.instagram.com/digital_marketing_stealth/",
+          "https://www.linkedin.com/company/stealth-digitaly/"
+        ]
+      }
+    </script>
+  </head>
+
+  <body>
+    <!-- ... (header and navigation code remains the same) ... -->
+    <div class="top-strip">
+        <div class="container">
+          <a href="tel:918700181135" class="top-strip-item">
+            <i class="fa-solid fa-phone-volume"></i> 918700181135
+          </a>
+  
+          <a href="mailto:rishabh@stealthdigital.in" class="top-strip-item">
+            <i class="fa-solid fa-envelope"></i> rishabh@stealthdigital.in
+          </a>
+        </div>
+      </div>
+      <div class="my-app">
+        <!-- ==== preloader start ==== -->
+        <div id="preloader">
+          <div id="loader"></div>
+        </div>
+        <!-- ==== / preloader end ==== -->
+        <!-- ==== mouse cursor drag start ==== -->
+        <div class="mouseCursor cursor-outer"></div>
+        <div class="mouseCursor cursor-inner">
+          <span>Drag</span>
+        </div>
+        <!-- ==== / mouse cursor drag end ==== -->
+        <!-- ==== header start ==== -->
+        <header class="header">
+          <div class="primary-navbar secondary--navbar">
+            <div class="container">
+              <div class="row">
+                <div class="col-12">
+                  <nav class="navbar p-0">
+                    <div class="navbar__logo">
+                      <a href="/" aria-label="go to home">
+                        <img
+                          src="/assets/images/logo.png"
+                          alt="Stealth Digital Logo"
+                        />
+                      </a>
+                    </div>
+                    <div class="navbar__options">
+                      <div class="navbar__menu">
+                        <ul>
+                          <li class="navbar__item">
+                            <a href="/">Home</a>
+                          </li>
+                          <li class="navbar__item">
+                            <a href="../about-us.html">About Us</a>
+                          </li>
+                          <li
+                            class="navbar__item navbar__item--has-children nav-fade"
+                          >
+                            <a
+                              href="javascript:void(0)"
+                              aria-label="dropdown menu"
+                              class="navbar__dropdown-label"
+                              >Services</a
+                            >
+                            <ul class="navbar__sub-menu">
+                              <li>
+                                <a href="../search-engine-marketing.html"
+                                  >Search Engine Marketing</a
+                                >
+                              </li>
+                              <li>
+                                <a href="../search-engine-optimization.html"
+                                  >Search Engine Optimization</a
+                                >
+                              </li>
+                              <li>
+                                <a href="../social-media-marketing.html"
+                                  >Social Media Marketing</a
+                                >
+                              </li>
+                              <li>
+                                <a href="../content-marketing.html"
+                                  >Content Marketing</a
+                                >
+                              </li>
+                              <li>
+                                <a href="../website-design-and-development.html"
+                                  >Website Design & Development</a
+                                >
+                              </li>
+                            </ul>
+                          </li>
+                          <li class="navbar__item">
+                            <a href="../blog.html">Blogs</a>
+                          </li>
+                          <li class="navbar__item">
+                            <a href="../contact-us.html">Contact Us</a>
+                          </li>
+                        </ul>
+                      </div>
+                      <button
+                        class="open-offcanvas-nav d-flex"
+                        aria-label="toggle mobile menu"
+                        title="open offcanvas menu"
+                      ></button>
+                    </div>
+                  </nav>
+                </div>
+              </div>
+            </div>
+          </div>
+        </header>
+  
+        <div class="offcanvas-nav">
+          <div class="offcanvas-menu">
+            <nav class="offcanvas-menu__wrapper">
+              <div class="offcanvas-menu__header nav-fade">
+                <div class="logo">
+                  <a href="/">
+                    <img
+                      src="/assets/images/logo.png"
+                      alt="Stealth Digital Logo"
+                      title="Stealth Digital"
+                    />
+                  </a>
+                </div>
+                <a
+                  href="javascript:void(0)"
+                  aria-label="close offcanvas menu"
+                  class="close-offcanvas-menu"
+                >
+                  <i class="fa-light fa-xmark-large"></i>
+                </a>
+              </div>
+              <div class="offcanvas-menu__list">
+                <div class="navbar__menu">
+                  <ul>
+                    <li class="navbar__item nav-fade">
+                      <a href="/">Home</a>
+                    </li>
+                    <li class="navbar__item navbar__item--has-children nav-fade">
+                      <a
+                        href="javascript:void(0)"
+                        aria-label="dropdown menu"
+                        class="navbar__dropdown-label"
+                        >Services</a
+                      >
+  
+                      <ul class="navbar__sub-menu">
+                        <li>
+                          <a href="../search-engine-marketing.html"
+                            >Search Engine Marketing</a
+                          >
+                        </li>
+                        <li>
+                          <a href="../search-engine-optimization.html"
+                            >Search Engine Optimization</a
+                          >
+                        </li>
+                        <li>
+                          <a href="../content-marketing.html"
+                            >Content Marketing</a
+                          >
+                        </li>
+                        <li>
+                          <a href="../social-media-marketing.html"
+                            >Social Media Marketing</a
+                          >
+                        </li>
+                        <li>
+                          <a href="../website-design-and-development.html"
+                            >Website Design & Development</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="navbar__item nav-fade">
+                      <a href="../about-us.html">About Us</a>
+                    </li>
+                    <li class="navbar__item nav-fade">
+                      <a href="../blog.html">Blogs</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="offcanvas-menu__options nav-fade">
+                <div class="offcanvas__mobile-options d-flex">
+                  <a href="../contact-us.html" class="btn btn--secondary"
+                    >Let's Talk</a
+                  >
+                </div>
+              </div>
+              <div
+                style="
+                  display: flex;
+                  justify-content: space-between;
+                  padding-left: 1.5rem;
+                  flex-wrap: wrap;
+                  gap: 2rem;
+                "
+              >
+                <a href="mailto:rishabh@stealthdigital.in"
+                  >Email : rishabh@stealthdigital.in</a
+                >
+  
+                <a href="tel:918700181135">Call Us : 918700181135</a>
+              </div>
+              <div class="offcanvas-menu__social social nav-fade">
+                <a
+                  href="https://www.facebook.com/people/Stealth-Digital-SD/61560966751733/"
+                  target="_blank"
+                  aria-label="share us on facebook"
+                >
+                  <i class="fa-brands fa-facebook-f"></i>
+                </a>
+  
+                <a
+                  href="https://www.linkedin.com/company/stealth-digitaly/"
+                  target="_blank"
+                  aria-label="share us on linkedin"
+                >
+                  <i class="fa-brands fa-linkedin-in"></i>
+                </a>
+                <a
+                  href="https://www.instagram.com/digital_marketing_stealth/"
+                  target="_blank"
+                  aria-label="share us on instagram"
+                >
+                  <i class="fa-brands fa-instagram"></i>
+                </a>
+              </div>
+            </nav>
+          </div>
+        </div>
+    <div id="smooth-wrapper">
+      <div id="smooth-content">
+        <main>
+          <!-- ==== banner start ==== -->
+          <section class="cmn-banner bg-img" data-background="/assets/images/banner/cmn-banner-bg.png">
+            <div class="container">
+                <div class="row gaper align-items-center">
+                    <div class="col-12">
+                        <div class="text-center text-lg-start">
+                            <h2 class="title title-anim">Digital Marketing Services</h2>
+                            <h2 class="title title-anim">PPC Services</h2>
+                            <nav aria-label="breadcrumb">
+                                <ol class="breadcrumb">
+                                    <li class="breadcrumb-item">
+                                        <a href="/">
+                                            <i class="fa-solid fa-house"></i>
+                                            Home
+                                        </a>
+                                    </li>
+                                    <li class="breadcrumb-item">
+                                        <a href="../blog.html">
+                                            <i class="fa-solid fa-book"></i>
+                                            Blog
+                                        </a>
+                                    </li>
+                                    <li class="breadcrumb-item active" aria-current="page">
+                                        <a href="/blog/best-ppc-services-agency-delhi-ncr.html">
+                                            <i class="fa-solid fa-blog"></i>
+                                            Best PPC Services Agency in Delhi NCR for Every Business Need
+                                        </a>
+                                    </li>
+                                </ol>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+          <!-- ==== / banner end ==== -->
+
+          <!-- ==== blog details start ==== -->
+
+          <section class="section blog-main blog-details fade-wrapper">
+            <div class="container">
+                <div class="row gaper">
+                    <div class="col-12 col-xl-10 m-auto">
+                        <div class="blog-details__content">
+                            <div class="bd-thumb fade-top">
+                                <img src="/assets/images/blog/blog-ppc-services.webp" alt="Best PPC Services Agency in Delhi NCR for Every Business Need">
+                            </div>
+                            <div class="bd-content">
+                                <div class="bd-meta">
+                                    <div class="meta__left">
+                                        <p><strong style="color: white">Written by :</strong> Stealth Digital</p>
+                                        <span></span>
+                                        <p>08/11/2024</p>
+                                    </div>
+                                </div>
+                                <div class="bd-content-info">
+                                    <h1 class="h4">Best PPC Services Agency in Delhi NCR for Every Business Need</h1>
+                                    <div class="paragraph">
+                                        <p style="color: #c1c1c1">
+                                            PPC (Pay-Per-Click) advertising turns out to be the most impactful and result-oriented strategy when it comes to driving instant traffic, generating quality leads, and optimising returns on investments. Whether it is a budding enterprise looking to grow in its locality or an existing firm seeking to expand its reach, the search for the best PPC services agency in Delhi NCR can be very important. The right agency will not only ensure that your expenditure on advertisements is put to better use but will also ensure that your brand is positioned to meet every potential customer across the spectrum of the sales funnel. In this article, we’ll explore why we should choose a professional PPC services agency in Delhi NCR and why it is essential for businesses today.
+                                        </p>
+                                        <h2 class="h4">Why Invest in PPC Services?</h2>
+                                        <p style="color: #c1c1c1">
+                                            An approach to digital marketing where advertisers pay only when a potential customer clicks the ad is known as PPC advertising, and it is a highly strategic and cost-effective approach. In such services, one can use Google Ads, Bing Ads, and social media networks to target one’s audience based on their age, gender, interests, location, or what they are searching for at that particular time and even more. Benefits of a solid PPC campaign include:
+                                        </p>
+                                        <ul style="color: #c1c1c1">
+                                            <li><strong>Immediate Results:</strong> Unlike organic marketing, PPC delivers results quickly by putting your brand at the top of search engine results.</li>
+                                            <li><strong>Measurable and Trackable:</strong> PPC allows for data-driven adjustments, helping you maximise ROI and make real-time improvements.</li>
+                                            <li><strong>Targeted Reach:</strong> PPC services enable you to reach specific audiences based on search intent, geography, language, and more.</li>
+                                            <li><strong>Enhanced Brand Visibility:</strong> A professional PPC services agency in Delhi NCR can enhance brand recognition across various platforms.</li>
+                                        </ul>
+                                        <h2 class="h4 mt-4">Choosing the Right PPC Services Agency in Delhi NCR</h2>
+                                        <p style="color: #c1c1c1">
+                                            Digital marketing agencies do not have a similar quality and experience. The best PPC services agency in Delhi has the necessary expertise, skills, equipment, and support to craft bespoke Pay-Per-Click strategies in line with the set objectives of the client’s business. Some of these include the following:
+                                        </p>
+                                        <h3 class="h4">Expertise in PPC Management and Optimization</h3>
+                                        <p style="color: #c1c1c1">
+                                            Seek for a PPC focused team agency based in Delhi NCR. They should have worked within a budget across various platforms, optimising keywords and utilising different types of bidding tactics. An experienced agency should be able to deliver your ads to the targeted audience without wasting any budget.
+                                        </p>
+                                        <h3 class="h4">Proven Track Record in the Delhi NCR Market</h3>
+                                        <p style="color: #c1c1c1">
+                                            Each territory has its own unique forces that drive the market. For instance, a PPC services agency in Delhi NCR that has been in the region long enough will know what the customers want, who the competitors are and how best to reach the particular audience.
+                                        </p>
+                                        <h3 class="h4">Comprehensive Digital Marketing Services</h3>
+                                        <p style="color: #c1c1c1">
+                                            Top agencies do not limit themselves to pay per click ads alone. They offer a range of digital advertising techniques that include, but not limited to, social media, search engine optimization (SEO) as well as, content marketing. It is easy to implement all aspects of the marketing strategy under one roof, where all channels cooperate with each other, thanks to the availability of a full-fledged integral marketing agency.
+                                        </p>
+                                        <h3 class="h4">Data-Driven Strategy with Transparent Reporting</h3>
+                                        <p style="color: #c1c1c1">
+                                            A credible PPC service agency in Delhi NCR will always ensure data transparency. They provide extensive reporting and analytics to enable you track every paisa spent. Such agencies must provide regular performance assessments, feedback, and recommendations for subsequent campaigns.
+                                        </p>
+                                        <h3 class="h4">Specialisation in Search Engine Marketing (SEM)</h3>
+                                        <p style="color: #c1c1c1">
+                                            Search Engine Marketing (SEM) is one of the components of PPC. An <a href="https://www.stealthdigital.in/blog/what-is-sem-and-how-it-grows-your-business.html" style="color: white; text-decoration: underline "> SEM services agency</a> with good experience which is located in the Delhi NCR will take care of all aspects of searching such as keyword research to competitor, advertisements creating and bidding. They will do everything possible to look at the changes and modifications.
+                                        </p>
+                                        <h2 class="h4">Top Services Offered by Leading PPC Services Agencies in Delhi NCR</h2>
+                                        <p style="color: #c1c1c1">
+                                            The most outstanding PPC service provider agencies in Delhi NCR do not just offer sponsorships. These firms provide comprehensive solutions and leave no stone unturned in the field of PPC to make sure that your business enjoys the results that it aims for. Essential services entail:
+                                        </p>
+                                        <h3 class="h4">Keyword Research and Strategy</h3>
+                                        <p style="color: #c1c1c1">
+                                            The right kind of keywords is the most quintessential factor in any PPC campaign that yields maximum results. The agency will research on the most appropriate keywords which can lead and are commonly used by potential consumers availing products or services remotely similar to yours. They aim at and encourage both high intent and long tail keywords that embrace users in different purchasing phases.
+                                        </p>
+                                        <h3 class="h4">Ad Creation and Testing</h3>
+                                        <p style="color: #c1c1c1">
+                                            Ad clicks ensure appropriate advertisements are crafted which requires proficient ad copy. A/B variations offered by best PPC services agencies to check ad performance differences. From coming up with the right persuasive copy to choosing the relevant images, they will do all; making sure every aspect corresponds to your brand and message.
+                                        </p>
+                                        <h3 class="h4">Landing Page Optimization</h3>
+                                        <p style="color: #c1c1c1">
+                                            The effectiveness of PPC adverts relies heavily on a landing page where users will be directed to. Most often than not, a digital marketing company that specialises in PPC will offer landing pages optimization in order to increase conversions. This entails modifying the look and feel of the page, enhancing the content, and reducing load hours in order to keep the visitors engaged.
+                                        </p>
+                                        <h3 class="h4">Bid Management and Budget Optimization</h3>
+                                        <p style="color: #c1c1c1">
+                                            In order to keep within budgetary constraints, it becomes imperative to manage the bids expertly in order to enhance visibility. As experts in budget management, the elite PPC bureaus increase and decrease the bidding in a quest for the best possible outcome of the advertising campaign. They carry out frequent maintenance and optimization, in order to ensure that the ROI for each of the campaigns is maximised.
+                                        </p>
+                                        <h3 class="h4">Conversion Tracking and Analytics</h3>
+                                        <p style="color: #c1c1c1">
+                                            An experienced PPC services agency in Delhi NCR will provide sophisticated advanced conversion tracking. This is essential in understanding the effectiveness of each campaign and even which keywords are performing the best and why there are gaps. They’ll advise you on the best way forward using insights derived from CTR, CPC, and conversion rates.
+                                        </p>
+                                        <h2 class="h4">Benefits of Partnering with the Best PPC Services Agency in Delhi NCR</h2>
+                                        <p style="color: #c1c1c1">
+                                            By choosing the best PPC services agency in Delhi, you’re setting up your business for success. Here’s what you can expect:
+                                        </p>
+                                        <ul style="color: #c1c1c1; list-style: circle; margin-left: 15px;">
+                                            <li><strong>Expert Support and Industry Knowledge:</strong> These agencies bring years of industry experience to the table. They know how to navigate the PPC landscape to deliver optimised campaigns tailored to your business needs.</li>
+                                            <li><strong>Personalised and Scalable Campaigns:</strong> Leading agencies offer flexibility, adapting campaigns to your budget and goals, which is especially beneficial for businesses of all sizes.</li>
+                                            <li><strong>Increased Lead Generation and Sales:</strong> The ultimate goal of PPC campaigns is to drive targeted traffic, leading to increased conversions and sales. A well-crafted campaign can help you reach more customers actively looking for products or services like yours.</li>
+                                            <li><strong>Continuous Improvement and Adaptability:</strong> Digital marketing is ever-evolving. A competent PPC services agency in Delhi NCR will continually monitor your campaigns and make improvements based on the latest market trends, algorithms, and customer behaviour.</li>
+                                        </ul>
+                                        <h2 class="h4 mt-5" >Why Choose a Digital Marketing Agency That Offers Full PPC and SEM Services?</h2>
+                                        <p style="color: #c1c1c1">
+                                            Choosing a full-service digital marketing agency allows you to incorporate your PPC strategy with other digital marketing strategies to your advantage. For example, PPC advertisement campaigns may run in conjunction with SEO practices for organic visibility on search engines. Furthermore, social media marketing, email marketing, and content marketing services can complement your PPC campaigns by building the audience and engaging with them.
+                                        </p>
+                                        <h2 class="h4">Top Features of a High-Quality  SEM Services Agency in Delhi NCR</h2>
+                                        <p style="color: #c1c1c1">
+                                            A reliable  <a href="https://www.stealthdigital.in/search-engine-marketing.html" style="color: white; text-decoration: underline ">SEM services agency</a>  in Delhi NCR should provide:
+                                        </p>
+                                        <ul style="color: #c1c1c1">
+                                            <li><strong>1. Customised Campaign Strategy:</strong> An effective SEM strategy is based on your industry, competition, and specific business goals. Look for agencies that offer tailored solutions rather than one-size-fits-all packages.</li>
+                                            <li><strong>2. Comprehensive Market Analysis:</strong> A good agency will start by analysing your competitors and market trends to position your brand strategically in search engine results.</li>
+                                            <li><strong>3. Constant Performance Monitoring:</strong> Through ongoing monitoring, an SEM agency can tweak keywords, ads, and bids to maximise results and keep your campaigns competitive.</li>
+                                            <li><strong>4. Brand-Specific Ad Targeting:</strong> The agency should understand your brand’s unique value propositions and create ads that reflect your brand’s voice and appeal to your target audience.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+        
+                            <div class="bd-tags">
+                                <div class="tags-right">
+                                    <p>Share:</p>
+                                    <ul class="social">
+                                        <li>
+                                            <a href="javascript:void(0);" onclick="shareOnFacebook()" aria-label="Share on Facebook" title="Share on Facebook">
+                                                <i class="fa-brands fa-facebook"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);" onclick="shareOnLinkedIn()" aria-label="Share on LinkedIn" title="Share on LinkedIn">
+                                                <i class="fa-brands fa-linkedin"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);" onclick="shareOnInstagram()" aria-label="Share on Instagram" title="Share on Instagram">
+                                                <i class="fa-brands fa-instagram"></i>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+          <!-- ==== / blog details end ==== -->
+        </main>
+        <!-- ==== footer start ==== -->
+        <footer
+          class="footer section pb-0"
+          data-background="/assets/images/footer/footer-bg.png"
+        >
+          <div class="container">
+            <div class="row gaper">
+              <div class="col-12 col-lg-5 col-xl-6">
+                <div class="footer__single">
+                  <a href="/" class="logo">
+                    <img
+                      src="/assets/images/logo.png"
+                      alt="Stealth Digital Logo"
+                    />
+                  </a>
+                  <div class="footer__single-meta">
+                    <a
+                      href="https://maps.app.goo.gl/V4wAodQUjrUmepMMA"
+                      target="_blank"
+                    >
+                      <i class="fa-sharp fa-solid fa-location-dot"></i>
+                      304, Best Sky Tower, Netaji Subhash Place, Pitampura,
+                      Delhi, 110034
+                    </a>
+                    <a href="tel:918700181135">
+                      <i class="fa-sharp fa-solid fa-phone-volume"></i>
+                      918700181135
+                    </a>
+                    <a href="mailto:rishabh@stealthdigital.in">
+                      <i class="fa-sharp fa-solid fa-envelope"></i>
+                      rishabh@stealthdigital.in
+                    </a>
+                  </div>
+                  <div class="footer__cta text-start">
+                    <a href="../contact-us.html" class="btn btn--secondary"
+                      >Book an appointment</a
+                    >
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-12 col-lg-2 col-xl-2">
+                <div class="footer__single">
+                  <div class="footer__single-intro">
+                    <h5>Discover</h5>
+                  </div>
+                  <div class="footer__single-content">
+                    <ul>
+                      <li><a href="/">Home</a></li>
+                      <li><a href="../about-us.html">About Us</a></li>
+                      <li>
+                        <a href="../search-engine-marketing.html">Services</a>
+                      </li>
+                      <li><a href="../blog.html">Blogs</a></li>
+                      <li><a href="../contact-us.html">Contact Us</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-12 col-lg-5 col-xl-4">
+                <div class="footer__single">
+                  <div class="footer__single-intro">
+                    <h5>Subscribe to Our Newsletter</h5>
+                  </div>
+                  <div class="footer__single-content">
+                    <p>
+                      Stay updated with the latest digital marketing trends and
+                      strategies. Subscribe to our newsletter for insights and
+                      tips.
+                    </p>
+                    <div class="footer__single-form">
+                      <form id="newsletterForm" action="#" method="post">
+                        <div class="input-email">
+                          <input
+                            type="email"
+                            name="subscribe-news"
+                            id="subscribeNews"
+                            placeholder="Enter Your Email"
+                            required
+                          />
+                          <button type="submit" class="subscribe">
+                            <i class="fa-sharp fa-solid fa-paper-plane"></i>
+                          </button>
+                        </div>
+                        <!-- Thank you message -->
+                        <div
+                          id="thankYouMessage"
+                          style="display: none; margin-top: 10px"
+                        >
+                          Thank you for subscribing !
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-12">
+                <div class="footer__copyright">
+                  <div class="row align-items-center gaper">
+                    <div class="col-12 col-lg-8">
+                      <div
+                        class="footer__copyright-text text-center text-lg-start"
+                      >
+                        <p>
+                          Copyright &copy;
+                          <span id="copyYear"></span>
+                          by Stealth Digital. All Rights Reserved
+                        </p>
+                      </div>
+                    </div>
+                    <div class="col-12 col-lg-4">
+                      <div
+                        class="social justify-content-center justify-content-lg-end"
+                      >
+                        <a
+                          href="https://www.facebook.com/people/Stealth-Digital-SD/61560966751733/"
+                          target="_blank"
+                        >
+                          <i class="fa-brands fa-facebook-f"></i>
+                        </a>
+                        <a
+                          href="https://www.linkedin.com/company/stealth-digitaly/"
+                          target="_blank"
+                        >
+                          <i class="fa-brands fa-linkedin-in"></i>
+                        </a>
+                        <a
+                          href="https://www.instagram.com/digital_marketing_stealth/"
+                          target="_blank"
+                        >
+                          <i class="fa-brands fa-instagram"></i>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </footer>
+        <!-- ==== / footer end ==== -->
+      </div>
+    </div>
+    <!-- ==== scroll to top start ==== -->
+    <button
+      class="progress-wrap"
+      aria-label="scroll indicator"
+      title="go to top"
+    >
+      <span></span>
+      <svg
+        class="progress-circle svg-content"
+        width="100%"
+        height="100%"
+        viewBox="-1 -1 102 102"
+      >
+        <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+      </svg>
+    </button>
+    <!-- ==== / scroll to top end ==== -->
+
+    <!-- ==== js dependencies start ==== -->
+    <!-- jquery -->
+    <script src="/assets/vendor/jquery/jquery-3.7.0.min.js"></script>
+    <!-- bootstrap five js -->
+    <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- nice select js -->
+    <script src="/assets/vendor/nice-select/js/jquery.nice-select.min.js"></script>
+    <!-- magnific popup js -->
+    <script src="/assets/vendor/magnific-popup/js/jquery.magnific-popup.min.js"></script>
+    <!-- slick js -->
+    <script src="/assets/vendor/slick/js/slick.min.js"></script>
+    <!-- image loaded js -->
+    <script src="/assets/vendor/images-loaded/imagesloaded.pkgd.min.js"></script>
+    <!-- isotope js -->
+    <script src="/assets/vendor/isotope/isotope.pkgd.min.js"></script>
+    <!-- chroma js -->
+    <script src="/assets/vendor/gsap/chroma.min.js"></script>
+    <!-- splittext js -->
+    <script src="/assets/vendor/gsap/SplitText.min.js"></script>
+    <!-- scrollsmoother js -->
+    <script src="/assets/vendor/gsap/ScrollSmoother.min.js"></script>
+    <!-- scrollto js -->
+    <script src="/assets/vendor/gsap/ScrollToPlugin.min.js"></script>
+    <!-- scrolltrigger js -->
+    <script src="/assets/vendor/gsap/ScrollTrigger.min.js"></script>
+    <!-- gsap js -->
+    <script src="/assets/vendor/gsap/gsap.min.js"></script>
+    <!-- vanilla tilt js -->
+    <script src="/assets/vendor/vanilla-tilt/tilt.jquery.js"></script>
+    <!-- ==== / js dependencies end ==== -->
+    <!-- plugins js -->
+    <script src="/assets/js/plugins.js"></script>
+    <!-- main js -->
+    <script src="/assets/js/main.js"></script>
+
+    <!-- function for the shareable link of social media handles -->
+    <script>
+      // URL to be shared
+      const blogUrl =
+        "https://www.stealthdigital.in/blog/why-every-business-needs-digital-marketing-services.html";
+
+      // Function for sharing on Facebook
+      function shareOnFacebook() {
+        const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
+          blogUrl
+        )}`;
+        window.open(facebookUrl, "_blank", "width=600,height=400");
+      }
+
+      // Function for sharing on LinkedIn
+      function shareOnLinkedIn() {
+        const linkedinUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(
+          blogUrl
+        )}`;
+        window.open(linkedinUrl, "_blank", "width=600,height=400");
+      }
+
+      // Function for Instagram (Copy to Clipboard)
+      function shareOnInstagram() {
+        if (navigator.clipboard) {
+          navigator.clipboard
+            .writeText(blogUrl)
+            .then(function () {
+              alert(
+                "Blog URL copied to clipboard. You can paste it in your Instagram bio or Stories."
+              );
+            })
+            .catch(function (err) {
+              console.error("Failed to copy text: ", err);
+              alert("Oops! Something went wrong while copying the URL.");
+            });
+        } else {
+          console.error("Clipboard API is not supported by this browser.");
+          alert(
+            "Your browser does not support the Clipboard API. Please copy the URL manually."
+          );
+        }
+      }
+    </script>
+  </body>
+</html>

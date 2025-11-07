@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- required meta -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- #favicon -->
+    <link
+      rel="shortcut icon"
+      href="/assets/images/favicon.png"
+      type="image/x-icon"
+    />
+    <!-- #title -->
+    <title>Why Your Business Needs a Mobile-First Strategy for Digital Marketing in 2025</title>
+    
+    <!-- #keywords -->
+    <meta name="keywords" content="mobile-first strategy, digital marketing 2025, mobile optimization, SEO, user experience, Stealth Digital">
+    
+    <!-- #description -->
+    <meta name="description" content="Boost your business with a mobile-first strategy in 2025. Improve SEO, user experience & conversions with Stealth Digital’s expert digital marketing services.
+    ">
+    
+    <link rel="canonical" href="https://www.stealthdigital.in/blog/mobile-first-strategy-digital-marketing.html">
+    
+    <!-- Open Graph tags -->
+    <meta property="og:title" content="Why Your Business Needs a Mobile-First Strategy for Digital Marketing in 2025">
+    <meta property="og:description" content="Boost your business with a mobile-first strategy in 2025. Improve SEO, user experience & conversions with Stealth Digital’s expert digital marketing services.
+    ">
+    <meta property="og:image" content="https://www.stealthdigital.in/assets/images/blog/blog-mobile-first-strategy.webp">
+    <meta property="og:url" content="https://www.stealthdigital.in/blog/mobile-first-strategy-digital-marketing.html">
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="Stealth Digital" />
+    
+    <!-- ==== css dependencies start ==== -->
+    <!-- bootstrap five css -->
+    <link
+      rel="stylesheet"
+      href="/assets/vendor/bootstrap/css/bootstrap.min.css"
+    />
+    <!-- glyphter css -->
+    <link rel="stylesheet" href="/assets/vendor/glyyphter/css/xpovio.css" />
+    <!-- font awesome six css -->
+    <link rel="stylesheet" href="/assets/vendor/font-awesome/css/all.css" />
+    <!-- nice select css -->
+    <link
+      rel="stylesheet"
+      href="/assets/vendor/nice-select/css/nice-select.css"
+    />
+    <!-- magnific popup css -->
+    <link
+      rel="stylesheet"
+      href="/assets/vendor/magnific-popup/css/magnific-popup.css"
+    />
+    <!-- slick css -->
+    <link rel="stylesheet" href="/assets/vendor/slick/css/slick.css" />
+    <!-- ==== / css dependencies end ==== -->
+    <!-- main css -->
+    <link rel="stylesheet" href="/assets/css/main.min.css" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Stealth Digital",
+        "url": "https://www.stealthdigital.in/",
+        "logo": "https://www.stealthdigital.in/assets/images/logo.png",
+        "sameAs": [
+          "https://www.facebook.com/StealthDigital.SD/",
+          "https://www.instagram.com/digital_marketing_stealth/",
+          "https://www.linkedin.com/company/stealth-digitaly/"
+        ]
+      }
+    </script>
+  </head>
+
+  <body>
+    <!-- ... (header and navigation code remains the same) ... -->
+    <div class="top-strip">
+        <div class="container">
+          <a href="tel:918700181135" class="top-strip-item">
+            <i class="fa-solid fa-phone-volume"></i> 918700181135
+          </a>
+
+          <a href="mailto:rishabh@stealthdigital.in" class="top-strip-item">
+            <i class="fa-solid fa-envelope"></i> rishabh@stealthdigital.in
+          </a>
+        </div>
+      </div>
+      <div class="my-app">
+        <!-- ==== preloader start ==== -->
+        <div id="preloader">
+          <div id="loader"></div>
+        </div>
+        <!-- ==== / preloader end ==== -->
+        <!-- ==== mouse cursor drag start ==== -->
+        <div class="mouseCursor cursor-outer"></div>
+        <div class="mouseCursor cursor-inner">
+          <span>Drag</span>
+        </div>
+        <!-- ==== / mouse cursor drag end ==== -->
+        <!-- ==== header start ==== -->
+        <header class="header">
+          <div class="primary-navbar secondary--navbar">
+            <div class="container">
+              <div class="row">
+                <div class="col-12">
+                  <nav class="navbar p-0">
+                    <div class="navbar__logo">
+                      <a href="/" aria-label="go to home">
+                        <img
+                          src="/assets/images/logo.png"
+                          alt="Stealth Digital Logo"
+                        />
+                      </a>
+                    </div>
+                    <div class="navbar__options">
+                      <div class="navbar__menu">
+                        <ul>
+                          <li class="navbar__item">
+                            <a href="/">Home</a>
+                          </li>
+                          <li class="navbar__item">
+                            <a href="../about-us.html">About Us</a>
+                          </li>
+                          <li
+                            class="navbar__item navbar__item--has-children nav-fade"
+                          >
+                            <a
+                              href="javascript:void(0)"
+                              aria-label="dropdown menu"
+                              class="navbar__dropdown-label"
+                              >Services</a
+                            >
+                            <ul class="navbar__sub-menu">
+                              <li>
+                                <a href="../search-engine-marketing.html"
+                                  >Search Engine Marketing</a
+                                >
+                              </li>
+                              <li>
+                                <a href="../search-engine-optimization.html"
+                                  >Search Engine Optimization</a
+                                >
+                              </li>
+                              <li>
+                                <a href="../social-media-marketing.html"
+                                  >Social Media Marketing</a
+                                >
+                              </li>
+                              <li>
+                                <a href="../content-marketing.html"
+                                  >Content Marketing</a
+                                >
+                              </li>
+                              <li>
+                                <a href="../website-design-and-development.html"
+                                  >Website Design & Development</a
+                                >
+                              </li>
+                            </ul>
+                          </li>
+                          <li class="navbar__item">
+                            <a href="../blog.html">Blogs</a>
+                          </li>
+                          <li class="navbar__item">
+                            <a href="../contact-us.html">Contact Us</a>
+                          </li>
+                        </ul>
+                      </div>
+                      <button
+                        class="open-offcanvas-nav d-flex"
+                        aria-label="toggle mobile menu"
+                        title="open offcanvas menu"
+                      ></button>
+                    </div>
+                  </nav>
+                </div>
+              </div>
+            </div>
+          </div>
+        </header>
+  
+        <div class="offcanvas-nav">
+          <div class="offcanvas-menu">
+            <nav class="offcanvas-menu__wrapper">
+              <div class="offcanvas-menu__header nav-fade">
+                <div class="logo">
+                  <a href="/">
+                    <img
+                      src="/assets/images/logo.png"
+                      alt="Stealth Digital Logo"
+                      title="Stealth Digital"
+                    />
+                  </a>
+                </div>
+                <a
+                  href="javascript:void(0)"
+                  aria-label="close offcanvas menu"
+                  class="close-offcanvas-menu"
+                >
+                  <i class="fa-light fa-xmark-large"></i>
+                </a>
+              </div>
+              <div class="offcanvas-menu__list">
+                <div class="navbar__menu">
+                  <ul>
+                    <li class="navbar__item nav-fade">
+                      <a href="/">Home</a>
+                    </li>
+                    <li class="navbar__item navbar__item--has-children nav-fade">
+                      <a
+                        href="javascript:void(0)"
+                        aria-label="dropdown menu"
+                        class="navbar__dropdown-label"
+                        >Services</a
+                      >
+
+                      <ul class="navbar__sub-menu">
+                        <li>
+                          <a href="../search-engine-marketing.html"
+                            >Search Engine Marketing</a
+                          >
+                        </li>
+                        <li>
+                          <a href="../search-engine-optimization.html"
+                            >Search Engine Optimization</a
+                          >
+                        </li>
+                        <li>
+                          <a href="../content-marketing.html"
+                            >Content Marketing</a
+                          >
+                        </li>
+                        <li>
+                          <a href="../social-media-marketing.html"
+                            >Social Media Marketing</a
+                          >
+                        </li>
+                        <li>
+                          <a href="../website-design-and-development.html"
+                            >Website Design & Development</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="navbar__item nav-fade">
+                      <a href="../about-us.html">About Us</a>
+                    </li>
+                    <li class="navbar__item nav-fade">
+                      <a href="../blog.html">Blogs</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="offcanvas-menu__options nav-fade">
+                <div class="offcanvas__mobile-options d-flex">
+                  <a href="../contact-us.html" class="btn btn--secondary"
+                    >Let's Talk</a
+                  >
+                </div>
+              </div>
+              <div
+                style="
+                  display: flex;
+                  justify-content: space-between;
+                  padding-left: 1.5rem;
+                  flex-wrap: wrap;
+                  gap: 2rem;
+                "
+              >
+                <a href="mailto:rishabh@stealthdigital.in"
+                  >Email : rishabh@stealthdigital.in</a
+                >
+
+                <a href="tel:918700181135">Call Us : 918700181135</a>
+              </div>
+              <div class="offcanvas-menu__social social nav-fade">
+                <a
+                  href="https://www.facebook.com/people/Stealth-Digital-SD/61560966751733/"
+                  target="_blank"
+                  aria-label="share us on facebook"
+                >
+                  <i class="fa-brands fa-facebook-f"></i>
+                </a>
+
+                <a
+                  href="https://www.linkedin.com/company/stealth-digitaly/"
+                  target="_blank"
+                  aria-label="share us on linkedin"
+                >
+                  <i class="fa-brands fa-linkedin-in"></i>
+                </a>
+                <a
+                  href="https://www.instagram.com/digital_marketing_stealth/"
+                  target="_blank"
+                  aria-label="share us on instagram"
+                >
+                  <i class="fa-brands fa-instagram"></i>
+                </a>
+              </div>
+            </nav>
+          </div>
+        </div>
+    <div id="smooth-wrapper">
+      <div id="smooth-content">
+        <main>
+          <!-- ==== banner start ==== -->
+          <section class="cmn-banner bg-img" data-background="/assets/images/banner/cmn-banner-bg.png">
+            <div class="container">
+                <div class="row gaper align-items-center">
+                    <div class="col-12">
+                        <div class="text-center text-lg-start">
+                            <h2 class="title title-anim">Mobile-First Strategy for Digital Marketing</h2>
+                            <nav aria-label="breadcrumb">
+                                <ol class="breadcrumb">
+                                    <li class="breadcrumb-item">
+                                        <a href="/">
+                                            <i class="fa-solid fa-house"></i>
+                                            Home
+                                        </a>
+                                    </li>
+                                    <li class="breadcrumb-item">
+                                        <a href="../blog.html">
+                                            <i class="fa-solid fa-book"></i>
+                                            Blog
+                                        </a>
+                                    </li>
+                                    <li class="breadcrumb-item active" aria-current="page">
+                                        <a href="/blog/mobile-first-strategy-digital-marketing.html">
+                                            <i class="fa-solid fa-blog"></i>
+                                            Why Your Business Needs a Mobile-First Strategy for Digital Marketing in 2025
+                                        </a>
+                                    </li>
+                                </ol>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+          </section>
+        
+          <!-- ==== / banner end ==== -->
+
+          <!-- ==== blog details start ==== -->
+
+          <section class="section blog-main blog-details fade-wrapper">
+            <div class="container">
+                <div class="row gaper">
+                    <div class="col-12 col-xl-10 m-auto">
+                        <div class="blog-details__content">
+                            <div class="bd-thumb fade-top">
+                                <img src="/assets/images/blog/blog-mobile-first-strategy.webp" alt="Why Your Business Needs a Mobile-First Strategy for Digital Marketing in 2025">
+                            </div>
+                            <div class="bd-content">
+                                <div class="bd-meta">
+                                    <div class="meta__left">
+                                        <p><strong style="color: white">Written by:</strong> Stealth Digital</p>
+                                        <span></span>
+                                        <p>12/02/2025</p>
+                                    </div>
+                                </div>
+                                <div class="bd-content-info">
+                                    <h1 class="h4">Why Your Business Needs a Mobile-First Strategy for Digital Marketing in 2025</h1>
+                                    <div class="paragraph">
+                                        <p style="color: #c1c1c1">
+                                            Mobile devices perform virtually all online functions in this digital age, a mobile-first strategy has become essential for any business. Now that smartphones have become the means for commercial success, companies placing emphasis on their mobile optimization will fare better than those who do not. As smartphone and tablet dependence rises, providing a mobile-friendly experience should become the priority for any organization aiming to be competitive. 
+                                        </p>
+                                        <p style="color: #c1c1c1">
+                                            This blog will look at why a mobile-first policy is vital to the digital marketing strategy of any business and how it will help the business grow toward 2025.
+                                        </p>
+
+                                        <h2 class="h4">The Rise of Mobile and Its Impact on Digital Marketing</h2>
+                                        <p style="color: #c1c1c1">
+                                            Smartphones changed how people used the Internet. According to current statistics, mobile devices now create over 50% of the world's web traffic. Predictions are that this trend will continue through 2025, with more and more users switching to mobile for nearly everything from shopping to socializing. With such a huge segment of the digital audience accessing mobile content, businesses that ignore mobile optimization will lose a great amount of opportunity. 
+                                        </p>
+                                        <p style="color: #c1c1c1">
+                                            To succeed in a mobile-driven world, a mobile-first strategy is perhaps the most important aspect. This means that everything—from the website to content to digital marketing—should be oriented for smartphone devices, making the user's journey completely seamless, irrespective of the platform they are on.
+                                        </p>
+
+                                        <h2 class="h4">Why a Mobile-First Strategy is Crucial for SEO Success in 2025</h2>
+                                        <p style="color: #c1c1c1">
+                                            In 2025, Google and other search engines will place greater emphasis on the rankings of sites based on their mobile-friendliness. In simple terms, all web pages will be indexed and ranked according to their mobile optimization, even for pages that are only desktop optimized. Google has already started the process of mobile indexing for sites that are not mobile-friendly. This change directly affects your <a href="https://www.stealthdigital.in/search-engine-optimization.html" style="color: white; text-decoration: underline;" target="_blank">SEO services in Delhi NCR</a> because it increases the importance of having a mobile-friendly website. 
+                                        </p>
+                                        <p style="color: #c1c1c1">
+                                            By enabling the mobile-first approach, you improve your SEO, but also your customer's user experience (UX). As a larger part of the population continues to use mobile devices to search for relevant information, products, and services, businesses that offer an easy and responsive mobile platform will enjoy higher engagement, improved click through rates (CTR), and increased conversions.
+                                        </p>
+
+                                        <h2 class="h4 mb-3">Benefits of a Mobile-First Strategy for Digital Marketing</h2>
+                                        <h3 class="h5">1. Improved User Experience (UX)</h3>
+                                        <p style="color: #c1c1c1">
+                                            Modern websites should be responsive, multi-tasking, and completely anywhere capable including mobile. Not adhering to these mobile standards leaves behind slower loading pages, unnecessary navigation, and annoying content. Let us now introduce responsive website design which is where the device's different size adapt making it User Experiences more smoother.
+                                        </p>
+                                        <p style="color: #c1c1c1">
+                                            Adopting a mobile first strategy puts user experience into the center of your strategy, which directly leads to higher levels of engagement. This means less bounce rate, and even a greater likelihood of conversion. Whether the objective is to purchase a product, subscribe to a newsletter, or directly contact the business, there are no barriers and mobile sites make Users' lives easier.
+                                        </p>
+
+                                        <h3 class="h5">2. Increased Visibility in Search Rankings</h3>
+                                        <p style="color: #c1c1c1">
+                                            Mobile pages are prioritized with Google's mobile first indexing, meaning that websites that are mobile-friendly rank higher. This change has made it essential for businesses to adapt a mobile-first approach if they want to keep or improve their rankings. If you want to sustain your business's visibility on search engine results pages (SERPs) in 2025, a mobile optimized site will put you ahead of the competition. 
+                                        </p>
+                                        <p style="color: #c1c1c1">
+                                            When you work with an SEO services agency (such as Stealth Digital), you can trust us that your website will be in compliance with the new mobile optimization guidelines, which will give you a better position in search results and more traffic.
+                                        </p>
+
+                                        <h3 class="h5">3. Better Engagement with Mobile Users</h3>
+                                        <p style="color: #c1c1c1">
+                                            As more people use their mobile devices for shopping, social media, and informational browsing, marketers need to adopt mobile-first marketing strategies. A mobile-first approach allows marketers to reach their target audience at the most appropriate place, which in this case is on their smartphones.
+                                        </p>
+                                        <p style="color: #c1c1c1">
+                                            Focusing on mobile enables the company to develop marketing strategies that are in line with the needs of mobile users. This can be achieved using mobile targeted ads, responsive emails, and video campaigns designed for mobile phones. A mobile-first strategy guarantees marketers that the needs of their audience are being met.
+                                        </p>
+
+                                        <h3 class="h5">4. Higher Conversion Rates</h3>
+                                        <p style="color: #c1c1c1">
+                                            A mobile-first strategy has a significant effect on your conversion rates. Research indicates that websites designed with mobile users in mind achieve higher conversion rates, as they offer a more seamless and enjoyable shopping experience. Whether it's making a purchase, submitting a form, or downloading an app, a mobile-friendly website simplifies the process for visitors, encouraging them to take action.
+                                        </p>
+
+                                        <h3 class="h5">5. Future-Proofing Your Business</h3>
+                                        <p style="color: #c1c1c1">
+                                            As mobile usage keeps rising, companies that focus on a mobile-first approach will be in a stronger position to outpace their competitors. By 2025, offering mobile-friendly experiences will be crucial, especially with new technologies like 5G enhancing mobile internet speeds and connectivity. 
+                                        </p>
+                                        <p style="color: #c1c1c1">
+                                            By adopting a mobile-first strategy today, you are preparing your business for the future and making sure you stay competitive in the constantly changing digital world.
+                                        </p>
+
+                                        <h2 class="h4">How Stealth Digital Can Help Your Business with a Mobile-First Strategy</h2>
+                                        <p style="color: #c1c1c1">
+                                            As a top <a href="https://www.stealthdigital.in/search-engine-marketing.html" style="color: white; text-decoration: underline;" target="_blank">digital marketing agency in Delhi</a>, Stealth Digital focuses on assisting businesses in creating mobile-first websites that deliver results. Our team of specialists recognizes the significance of Responsive Website Design and SEO optimization for mobile users, and we collaborate closely with clients to formulate strategies that enhance mobile performance.
+                                        </p>
+
+                                        <h3 class="h5">Mobile-Friendly Website Design</h3>
+                                        <p style="color: #c1c1c1">
+                                            One of the main crucial steps for adopting a mobile-first strategy is creating a Responsive Website Design. Stealth Digital (<a href="https://www.stealthdigital.in/website-design-and-development.html" style="color: white; text-decoration: underline;" target="_blank">Website Design Services</a>) focus on ensuring that your website functions smoothly for all devices. From mobile phones to tablets and desktops, we optimize your website to offer an exceptional user experience no matter the platform.
+                                        </p>
+
+                                        <h3 class="h5">Mobile-Optimized SEO Services</h3>
+                                        <p style="color: #c1c1c1">
+                                            Our SEO services in Delhi NCR focus on mobile optimization to help your website rank higher on search engines. We ensure that your website is fast, easy to navigate, and mobile-friendly, giving you an edge over competitors who haven't prioritized mobile optimization.
+                                        </p>
+
+                                        <h3 class="h5">Comprehensive Digital Marketing Services</h3>
+                                        <p style="color: #c1c1c1">
+                                            A mobile-first strategy goes beyond mobile-friendly websites. Stealth Digital offers a range of digital marketing services for mobile users, including mobile advertising, social media marketing, and email campaigns specially optimized for mobile devices. Using focused mobile marketing methods, we assist you in successfully interacting with your audience and increasing conversions.
+                                        </p>
+
+                                        <h3 class="h5">Mobile-First Approach with Nurturing Strategies</h3>
+                                        <p style="color: #c1c1c1">
+                                            At Stealth Digital, we recognize that embracing a mobile-first approach is a commitment for the long term. We offer continuous support and growth strategies to help your business stay competitive in 2025. With ongoing SEO optimization, performance monitoring, and design enhancements, we make sure your mobile strategy adapts to the latest trends.
+                                        </p>
+                                        
+                                        <h2 class="h4">Conclusion</h2>
+                                        <p style="color: #c1c1c1">
+                                            As we approach 2025, adopting a mobile-first strategy is no longer optional for businesses aiming to stay competitive in the digital landscape. From improving SEO rankings to enhancing user experience and increasing conversions, the benefits of a mobile-first approach are undeniable. Partnering with an experienced SEO services agency in Delhi NCR like Stealth Digital can help you implement a successful mobile-first strategy that aligns with your business goals and ensures sustainable growth in the years to come.
+                                        </p>
+                                        <p style="color: #c1c1c1">
+                                            Start building your mobile-friendly website today and stay ahead of the curve in 2025's digital marketing revolution.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bd-tags">
+                                <div class="tags-right">
+                                    <p>Share:</p>
+                                    <ul class="social">
+                                        <li>
+                                            <a href="javascript:void(0);" onclick="shareOnFacebook()" aria-label="Share on Facebook" title="Share on Facebook">
+                                                <i class="fa-brands fa-facebook"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);" onclick="shareOnLinkedIn()" aria-label="Share on LinkedIn" title="Share on LinkedIn">
+                                                <i class="fa-brands fa-linkedin"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);" onclick="shareOnInstagram()" aria-label="Share on Instagram" title="Share on Instagram">
+                                                <i class="fa-brands fa-instagram"></i>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+          <!-- ==== / blog details end ==== -->
+        </main>
+        <!-- ==== footer start ==== -->
+        <footer
+          class="footer section pb-0"
+          data-background="/assets/images/footer/footer-bg.png"
+        >
+          <div class="container">
+            <div class="row gaper">
+              <div class="col-12 col-lg-5 col-xl-6">
+                <div class="footer__single">
+                  <a href="/" class="logo">
+                    <img
+                      src="/assets/images/logo.png"
+                      alt="Stealth Digital Logo"
+                    />
+                  </a>
+                  <div class="footer__single-meta">
+                    <a
+                      href="https://maps.app.goo.gl/V4wAodQUjrUmepMMA"
+                      target="_blank"
+                    >
+                      <i class="fa-sharp fa-solid fa-location-dot"></i>
+                      304, Best Sky Tower, Netaji Subhash Place, Pitampura,
+                      Delhi, 110034
+                    </a>
+                    <a href="tel:918700181135">
+                      <i class="fa-sharp fa-solid fa-phone-volume"></i>
+                      918700181135
+                    </a>
+                    <a href="mailto:rishabh@stealthdigital.in">
+                      <i class="fa-sharp fa-solid fa-envelope"></i>
+                      rishabh@stealthdigital.in
+                    </a>
+                  </div>
+                  <div class="footer__cta text-start">
+                    <a href="../contact-us.html" class="btn btn--secondary"
+                      >Book an appointment</a
+                    >
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-12 col-lg-2 col-xl-2">
+                <div class="footer__single">
+                  <div class="footer__single-intro">
+                    <h5>Discover</h5>
+                  </div>
+                  <div class="footer__single-content">
+                    <ul>
+                      <li><a href="/">Home</a></li>
+                      <li><a href="../about-us.html">About Us</a></li>
+                      <li>
+                        <a href="../search-engine-marketing.html">Services</a>
+                      </li>
+                      <li><a href="../blog.html">Blogs</a></li>
+                      <li><a href="../contact-us.html">Contact Us</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-12 col-lg-5 col-xl-4">
+                <div class="footer__single">
+                  <div class="footer__single-intro">
+                    <h5>Subscribe to Our Newsletter</h5>
+                  </div>
+                  <div class="footer__single-content">
+                    <p>
+                      Stay updated with the latest digital marketing trends and
+                      strategies. Subscribe to our newsletter for insights and
+                      tips.
+                    </p>
+                    <div class="footer__single-form">
+                      <form id="newsletterForm" action="#" method="post">
+                        <div class="input-email">
+                          <input
+                            type="email"
+                            name="subscribe-news"
+                            id="subscribeNews"
+                            placeholder="Enter Your Email"
+                            required
+                          />
+                          <button type="submit" class="subscribe">
+                            <i class="fa-sharp fa-solid fa-paper-plane"></i>
+                          </button>
+                        </div>
+                        <!-- Thank you message -->
+                        <div
+                          id="thankYouMessage"
+                          style="display: none; margin-top: 10px"
+                        >
+                          Thank you for subscribing!
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-12">
+                <div class="footer__copyright">
+                  <div class="row align-items-center gaper">
+                    <div class="col-12 col-lg-8">
+                      <div
+                        class="footer__copyright-text text-center text-lg-start"
+                      >
+                        <p>
+                          Copyright &copy;
+                          <span id="copyYear"></span>
+                          by Stealth Digital. All Rights Reserved
+                        </p>
+                      </div>
+                    </div>
+                    <div class="col-12 col-lg-4">
+                      <div
+                        class="social justify-content-center justify-content-lg-end"
+                      >
+                        <a
+                          href="https://www.facebook.com/people/Stealth-Digital-SD/61560966751733/"
+                          target="_blank"
+                        >
+                          <i class="fa-brands fa-facebook-f"></i>
+                        </a>
+                        <a
+                          href="https://www.linkedin.com/company/stealth-digitaly/"
+                          target="_blank"
+                        >
+                          <i class="fa-brands fa-linkedin-in"></i>
+                        </a>
+                        <a
+                          href="https://www.instagram.com/digital_marketing_stealth/"
+                          target="_blank"
+                        >
+                          <i class="fa-brands fa-instagram"></i>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </footer>
+        <!-- ==== / footer end ==== -->
+      </div>
+    </div>
+    <!-- ==== scroll to top start ==== -->
+    <button
+      class="progress-wrap"
+      aria-label="scroll indicator"
+      title="go to top"
+    >
+      <span></span>
+      <svg
+        class="progress-circle svg-content"
+        width="100%"
+        height="100%"
+        viewBox="-1 -1 102 102"
+      >
+        <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+      </svg>
+    </button>
+    <!-- ==== / scroll to top end ==== -->
+
+    <!-- ==== js dependencies start ==== -->
+    <!-- jquery -->
+    <script src="/assets/vendor/jquery/jquery-3.7.0.min.js"></script>
+    <!-- bootstrap five js -->
+    <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- nice select js -->
+    <script src="/assets/vendor/nice-select/js/jquery.nice-select.min.js"></script>
+    <!-- magnific popup js -->
+    <script src="/assets/vendor/magnific-popup/js/jquery.magnific-popup.min.js"></script>
+    <!-- slick js -->
+    <script src="/assets/vendor/slick/js/slick.min.js"></script>
+    <!-- image loaded js -->
+    <script src="/assets/vendor/images-loaded/imagesloaded.pkgd.min.js"></script>
+    <!-- isotope js -->
+    <script src="/assets/vendor/isotope/isotope.pkgd.min.js"></script>
+    <!-- chroma js -->
+    <script src="/assets/vendor/gsap/chroma.min.js"></script>
+    <!-- splittext js -->
+    <script src="/assets/vendor/gsap/SplitText.min.js"></script>
+    <!-- scrollsmoother js -->
+    <script src="/assets/vendor/gsap/ScrollSmoother.min.js"></script>
+    <!-- scrollto js -->
+    <script src="/assets/vendor/gsap/ScrollToPlugin.min.js"></script>
+    <!-- scrolltrigger js -->
+    <script src="/assets/vendor/gsap/ScrollTrigger.min.js"></script>
+    <!-- gsap js -->
+    <script src="/assets/vendor/gsap/gsap.min.js"></script>
+    <!-- vanilla tilt js -->
+    <script src="/assets/vendor/vanilla-tilt/tilt.jquery.js"></script>
+    <!-- ==== / js dependencies end ==== -->
+    <!-- plugins js -->
+    <script src="/assets/js/plugins.js"></script>
+    <!-- main js -->
+    <script src="/assets/js/main.js"></script>
+
+    <!-- function for the shareable link of social media handles -->
+    <script>
+      // URL to be shared
+      const blogUrl =
+        "https://www.stealthdigital.in/blog/mobile-first-strategy-digital-marketing.html";
+
+      // Function for sharing on Facebook
+      function shareOnFacebook() {
+        const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
+          blogUrl
+        )}`;
+        window.open(facebookUrl, "_blank", "width=600,height=400");
+      }
+
+      // Function for sharing on LinkedIn
+      function shareOnLinkedIn() {
+        const linkedinUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(
+          blogUrl
+        )}`;
+        window.open(linkedinUrl, "_blank", "width=600,height=400");
+      }
+
+      // Function for Instagram (Copy to Clipboard)
+      function shareOnInstagram() {
+        if (navigator.clipboard) {
+          navigator.clipboard
+            .writeText(blogUrl)
+            .then(function () {
+              alert(
+                "Blog URL copied to clipboard. You can paste it in your Instagram bio or Stories."
+              );
+            })
+            .catch(function (err) {
+              console.error("Failed to copy text: ", err);
+              alert("Oops! Something went wrong while copying the URL.");
+            });
+        } else {
+          console.error("Clipboard API is not supported by this browser.");
+          alert(
+            "Your browser does not support the Clipboard API. Please copy the URL manually."
+          );
+        }
+      }
+    </script>
+  </body>
+</html>

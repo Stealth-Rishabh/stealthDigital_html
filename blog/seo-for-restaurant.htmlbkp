@@ -1,0 +1,1067 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- required meta -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- #favicon -->
+    <link
+      rel="shortcut icon"
+      href="/assets/images/favicon.png"
+      type="image/x-icon"
+    />
+    <!-- #title -->
+    <title>
+      Choosing the Right SEO Agency for Your Restaurant Business: Key Factors to
+      Consider
+    </title>
+    <!-- #keywords -->
+    <meta name="keywords" content="" />
+    <!-- #description -->
+    <meta
+      name="description"
+      content="Choose the right SEO agency for your restaurant with expert tips on local strategies, communication, and tailored services for optimal online visibility."
+    />
+
+    <link
+      rel="canonical"
+      href="https://www.stealthdigital.in/blog/seo-for-restaurant.html"
+    />
+
+    <meta
+      property="og:title"
+      content="Choosing the Right SEO Agency for Your Restaurant Business: Key Factors to Consider"
+    />
+    <meta
+      property="og:description"
+      content="Choose the right SEO agency for your restaurant with expert tips on local strategies, communication, and tailored services for optimal online visibility."
+    />
+    <meta
+      property="og:image"
+      content="https://www.stealthdigital.in/assets/images/blog/blog-seo-res-sq.webp"
+    />
+    <meta
+      property="og:url"
+      content="https://www.stealthdigital.in/blog/seo-for-restaurant.html"
+    />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="Stealth Digital" />
+    <!-- ==== css dependencies start ==== -->
+    <!-- bootstrap five css -->
+
+    <link
+      rel="stylesheet"
+      href="/assets/vendor/bootstrap/css/bootstrap.min.css"
+    />
+    <!-- glyphter css -->
+    <link rel="stylesheet" href="/assets/vendor/glyyphter/css/xpovio.css" />
+    <!-- font awesome six css -->
+    <link rel="stylesheet" href="/assets/vendor/font-awesome/css/all.css" />
+    <!-- nice select css -->
+    <link
+      rel="stylesheet"
+      href="/assets/vendor/nice-select/css/nice-select.css"
+    />
+    <!-- magnific popup css -->
+    <link
+      rel="stylesheet"
+      href="/assets/vendor/magnific-popup/css/magnific-popup.css"
+    />
+    <!-- slick css -->
+    <link rel="stylesheet" href="/assets/vendor/slick/css/slick.css" />
+    <!-- ==== / css dependencies end ==== -->
+    <!-- main css -->
+    <link rel="stylesheet" href="/assets/css/main.min.css" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Stealth Digital",
+        "url": "https://www.stealthdigital.in/",
+        "logo": "https://www.stealthdigital.in/assets/images/logo.png",
+        "sameAs": [
+          "https://www.facebook.com/StealthDigital.SD/",
+          "https://www.instagram.com/digital_marketing_stealth/",
+          "https://www.linkedin.com/company/stealth-digitaly/"
+        ]
+      }
+    </script>
+  </head>
+
+  <body>
+    <!--[if lte IE 9]>
+      <p class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="https://browsehappy.com/">upgrade your browser</a> to improve
+        your experience and security.
+      </p>
+    <![endif]-->
+
+    <div class="top-strip">
+      <div class="container">
+        <a href="tel:918700181135" class="top-strip-item">
+          <i class="fa-solid fa-phone-volume"></i> 918700181135
+        </a>
+
+        <a href="mailto:rishabh@stealthdigital.in" class="top-strip-item">
+          <i class="fa-solid fa-envelope"></i> rishabh@stealthdigital.in
+        </a>
+      </div>
+    </div>
+    <div class="my-app">
+      <!-- ==== preloader start ==== -->
+      <div id="preloader">
+        <div id="loader"></div>
+      </div>
+      <!-- ==== / preloader end ==== -->
+      <!-- ==== mouse cursor drag start ==== -->
+      <div class="mouseCursor cursor-outer"></div>
+      <div class="mouseCursor cursor-inner">
+        <span>Drag</span>
+      </div>
+      <!-- ==== / mouse cursor drag end ==== -->
+      <!-- ==== header start ==== -->
+      <header class="header">
+        <div class="primary-navbar secondary--navbar">
+          <div class="container">
+            <div class="row">
+              <div class="col-12">
+                <nav class="navbar p-0">
+                  <div class="navbar__logo">
+                    <a href="/" aria-label="go to home">
+                      <img
+                        src="/assets/images/logo.png"
+                        alt="Stealth Digital Logo"
+                      />
+                    </a>
+                  </div>
+                  <div class="navbar__options">
+                    <div class="navbar__menu">
+                      <ul>
+                        <li class="navbar__item">
+                          <a href="/">Home</a>
+                        </li>
+                        <li class="navbar__item">
+                          <a href="../about-us.html">About Us</a>
+                        </li>
+                        <li
+                          class="navbar__item navbar__item--has-children nav-fade"
+                        >
+                          <a
+                            href="javascript:void(0)"
+                            aria-label="dropdown menu"
+                            class="navbar__dropdown-label"
+                            >Services</a
+                          >
+                          <ul class="navbar__sub-menu">
+                            <li>
+                              <a href="../search-engine-marketing.html"
+                                >Search Engine Marketing</a
+                              >
+                            </li>
+                            <li>
+                              <a href="../search-engine-optimization.html"
+                                >Search Engine Optimization</a
+                              >
+                            </li>
+                            <li>
+                              <a href="../social-media-marketing.html"
+                                >Social Media Marketing</a
+                              >
+                            </li>
+                            <li>
+                              <a href="../content-marketing.html"
+                                >Content Marketing</a
+                              >
+                            </li>
+                            <li>
+                              <a href="../website-design-and-development.html"
+                                >Website Design & Development</a
+                              >
+                            </li>
+                          </ul>
+                        </li>
+                        <li class="navbar__item">
+                          <a href="../blog.html">Blogs</a>
+                        </li>
+                        <li class="navbar__item">
+                          <a href="../contact-us.html">Contact Us</a>
+                        </li>
+                      </ul>
+                    </div>
+                    <button
+                      class="open-offcanvas-nav d-flex"
+                      aria-label="toggle mobile menu"
+                      title="open offcanvas menu"
+                    ></button>
+                  </div>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <div class="offcanvas-nav">
+        <div class="offcanvas-menu">
+          <nav class="offcanvas-menu__wrapper">
+            <div class="offcanvas-menu__header nav-fade">
+              <div class="logo">
+                <a href="/">
+                  <img
+                    src="/assets/images/logo.png"
+                    alt="Stealth Digital Logo"
+                    title="Stealth Digital"
+                  />
+                </a>
+              </div>
+              <a
+                href="javascript:void(0)"
+                aria-label="close offcanvas menu"
+                class="close-offcanvas-menu"
+              >
+                <i class="fa-light fa-xmark-large"></i>
+              </a>
+            </div>
+            <div class="offcanvas-menu__list">
+              <div class="navbar__menu">
+                <ul>
+                  <li class="navbar__item nav-fade">
+                    <a href="/">Home</a>
+                  </li>
+                  <li class="navbar__item navbar__item--has-children nav-fade">
+                    <a
+                      href="javascript:void(0)"
+                      aria-label="dropdown menu"
+                      class="navbar__dropdown-label"
+                      >Services</a
+                    >
+
+                    <ul class="navbar__sub-menu">
+                      <li>
+                        <a href="../search-engine-marketing.html"
+                          >Search Engine Marketing</a
+                        >
+                      </li>
+                      <li>
+                        <a href="../search-engine-optimization.html"
+                          >Search Engine Optimization</a
+                        >
+                      </li>
+                      <li>
+                        <a href="../content-marketing.html"
+                          >Content Marketing</a
+                        >
+                      </li>
+                      <li>
+                        <a href="../social-media-marketing.html"
+                          >Social Media Marketing</a
+                        >
+                      </li>
+                      <li>
+                        <a href="../website-design-and-development.html"
+                          >Website Design & Development</a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="navbar__item nav-fade">
+                    <a href="../about-us.html">About Us</a>
+                  </li>
+                  <li class="navbar__item nav-fade">
+                    <a href="../blog.html">Blogs</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="offcanvas-menu__options nav-fade">
+              <div class="offcanvas__mobile-options d-flex">
+                <a href="../contact-us.html" class="btn btn--secondary"
+                  >Let's Talk</a
+                >
+              </div>
+            </div>
+            <div
+              style="
+                display: flex;
+                justify-content: space-between;
+                padding-left: 1.5rem;
+                flex-wrap: wrap;
+                gap: 2rem;
+              "
+            >
+              <a href="mailto:rishabh@stealthdigital.in"
+                >Email : rishabh@stealthdigital.in</a
+              >
+
+              <a href="tel:918700181135">Call Us : 918700181135</a>
+            </div>
+            <div class="offcanvas-menu__social social nav-fade">
+              <a
+                href="https://www.facebook.com/people/Stealth-Digital-SD/61560966751733/"
+                target="_blank"
+                aria-label="share us on facebook"
+              >
+                <i class="fa-brands fa-facebook-f"></i>
+              </a>
+
+              <a
+                href="https://www.linkedin.com/company/stealth-digitaly/"
+                target="_blank"
+                aria-label="share us on linkedin"
+              >
+                <i class="fa-brands fa-linkedin-in"></i>
+              </a>
+              <a
+                href="https://www.instagram.com/digital_marketing_stealth/"
+                target="_blank"
+                aria-label="share us on instagram"
+              >
+                <i class="fa-brands fa-instagram"></i>
+              </a>
+            </div>
+          </nav>
+        </div>
+      </div>
+      <!-- ==== / header end ==== -->
+      <div id="smooth-wrapper">
+        <div id="smooth-content">
+          <!-- ==== main start ==== -->
+          <main>
+            <!-- ==== banner start ==== -->
+            <section
+              class="cmn-banner bg-img"
+              data-background="/assets/images/banner/cmn-banner-bg.png"
+            >
+              <div class="container">
+                <div class="row gaper align-items-center">
+                  <div class="col-12">
+                    <div class="text-center text-lg-start">
+                      <h2 class="title title-anim">SEO for Your Restaurant</h2>
+                      <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                          <li class="breadcrumb-item">
+                            <a href="/">
+                              <i class="fa-solid fa-house"></i>
+                              Home
+                            </a>
+                          </li>
+                          <li class="breadcrumb-item">
+                            <a href="../blog.html">
+                              <i class="fa-solid fa-book"></i>
+                              Blog
+                            </a>
+                          </li>
+                          <li
+                            class="breadcrumb-item active"
+                            aria-current="page"
+                          >
+                            Choosing the Right SEO Agency
+                          </li>
+                        </ol>
+                      </nav>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+
+            <!-- ==== / banner end ==== -->
+            <!-- ==== blog details start ==== -->
+            <section class="section blog-main blog-details fade-wrapper">
+              <div class="container">
+                <div class="row gaper">
+                  <div class="col-12 col-xl-10 m-auto">
+                    <div class="blog-details__content">
+                      <div class="bd-thumb fade-top">
+                        <img
+                          src="/assets/images/blog/blog-seo-res.webp"
+                          alt="SEO for Restaurant Business"
+                        />
+                      </div>
+                      <div class="bd-content">
+                        <div class="bd-meta">
+                          <div class="meta__left">
+                            <p>
+                              <strong>Written by :</strong>
+                              Stealth Digital
+                            </p>
+                            <span></span>
+                            <p>16/08/2024</p>
+                          </div>
+                        </div>
+                        <div class="bd-content-info">
+                          <h1 class="h4">
+                            Choosing the Right SEO Agency for Your Restaurant
+                            Business: Key Factors to Consider
+                          </h1>
+                          <div class="paragraph">
+                            <p style="color: #c1c1c1">
+                              When it comes to growing your restaurant business,
+                              SEO (Search Engine Optimization) plays a crucial
+                              role in increasing online visibility and
+                              attracting potential customers. A well-executed
+                              SEO strategy can help your restaurant rank higher
+                              in search engine results, driving more traffic to
+                              your website and ultimately boosting your bottom
+                              line.
+                            </p>
+                            <h2 class="h4">What is Restaurant SEO?</h2>
+                            <p style="color: #c1c1c1">
+                              Restaurant SEO is a specialized form of Search
+                              Engine Optimization (SEO) tailored specifically
+                              for the restaurant industry. It involves
+                              optimizing a restaurant's website and online
+                              presence to improve its visibility in search
+                              engine results pages when potential customers
+                              search for relevant keywords related to food,
+                              dining, and local eateries.
+                            </p>
+                            <p style="color: #c1c1c1">
+                              By effectively implementing restaurant SEO
+                              strategies, you can increase your online
+                              visibility, attract more customers, and boost your
+                              restaurant's overall success.
+                            </p>
+                          </div>
+                          <h4 class="h4">
+                            Role of SEO in Restaurant Marketing
+                          </h4>
+                          <p>
+                            SEO plays an important role in restaurant digital
+                            marketing by:
+                          </p>
+                          <ul>
+                            <li style="color: #c1c1c1">
+                              Increasing Online Visibility: SEO helps your
+                              restaurant appear higher in search engine results
+                              pages (SERPs) when potential customers search for
+                              relevant keywords, making it easier for them to
+                              find you.
+                            </li>
+                            <li style="color: #c1c1c1">
+                              Driving Targeted Traffic: By optimizing for
+                              relevant keywords, you can attract customers who
+                              are actively seeking restaurants like yours,
+                              leading to more qualified leads and conversions.
+                            </li>
+                            <li style="color: #c1c1c1">
+                              Enhancing Local SEO: For restaurants with physical
+                              locations, local SEO is essential. It helps your
+                              restaurant appear in local search results, making
+                              it easier for people in your area to find you.
+                            </li>
+                            <li style="color: #c1c1c1">
+                              Improving User Experience: SEO often involves
+                              improving your website's structure, content, and
+                              user experience, making it easier for customers to
+                              navigate and find the information they need.
+                            </li>
+                            <li style="color: #c1c1c1">
+                              Building Brand Awareness: A strong SEO strategy
+                              can help build brand awareness and reputation, as
+                              it positions your restaurant as an authority in
+                              your local market.
+                            </li>
+                            <li style="color: #c1c1c1">
+                              Providing a Cost-Effective Marketing Solution:
+                              Compared to traditional advertising methods, SEO
+                              can be a more cost-effective way to reach
+                              potential customers.
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="bd-content">
+                        <div class="bd-content__alt">
+                          <h4 class="h4">
+                            How to Find Best SEO Services for Restaurants in
+                            Delhi NCR
+                          </h4>
+                          <p style="color: #c1c1c1">
+                            Delhi NCR is a bustling metropolis with a thriving
+                            food industry. To ensure your restaurant stands out
+                            in the competitive landscape, effective SEO service
+                            is essential. Here's how to find the best SEO
+                            services tailored to your needs:
+                          </p>
+
+                          <p>1. <strong>Research and Referrals:</strong></p>
+
+                          <ul>
+                            <li>
+                              <em>Online Search:</em> Use search engines like
+                              Google to find SEO agencies in Delhi NCR. Look for
+                              terms like "restaurant SEO Delhi," "best SEO
+                              services for restaurants in Delhi," etc.
+                            </li>
+                            <li>
+                              <em>Industry Associations:</em> Check with local
+                              restaurant associations or chambers of commerce
+                              for recommendations.
+                            </li>
+                            <li>
+                              <em>Networking:</em> Connect with other restaurant
+                              owners or industry professionals who can share
+                              their experiences with SEO agencies.
+                            </li>
+                          </ul>
+
+                          <p>2. <strong>Evaluate Agency Expertise:</strong></p>
+                          <ul>
+                            <li>
+                              Look for agencies with a proven track record in
+                              the restaurant industry.
+                            </li>
+                            <li>
+                              Ensure the agency has expertise in local SEO.
+                            </li>
+                            <li>
+                              Review the agency's case studies to see their
+                              previous successes in optimizing restaurant
+                              websites.
+                            </li>
+                          </ul>
+
+                          <p>3. <strong>Assess SEO Strategies:</strong></p>
+                          <ul>
+                            <li>
+                              The agency should develop a tailored SEO strategy
+                              that aligns with your restaurant's specific goals.
+                            </li>
+                            <li>Conduct thorough keyword research.</li>
+                            <li>
+                              Focus on optimizing your website's content,
+                              structure, and technical aspects.
+                            </li>
+                            <li>
+                              Check if they have experience optimizing Google My
+                              Business listings.
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="bd-quote">
+                        <blockquote>
+                          <q class="light-title-lg">
+                            SEO is essential for any restaurant looking to
+                            thrive in a digital marketplace.
+                          </q>
+                        </blockquote>
+                      </div>
+                      <div class="bd-content">
+                        <div class="bd-content__alt mt-0">
+                          <h4 class="h4">
+                            Why Choose Stealth Digital SEO Digital Marketing
+                            Agency Services for Restaurants?
+                          </h4>
+                          <p>
+                            Stealth Digital
+                            <a
+                              href="https://stealthdigital.in/seo.html"
+                              style="text-decoration: underline"
+                              >SEO Services</a
+                            >
+                            could be a great choice for your restaurant's
+                            digital marketing needs due to several reasons:
+                          </p>
+                          <ul>
+                            <li>
+                              <strong>Industry Specialization:</strong> In-depth
+                              knowledge of the unique challenges faced by
+                              restaurants.
+                            </li>
+                            <li>
+                              <strong>Customized Approach:</strong> Tailored
+                              services to your restaurant's goals, budget, and
+                              target audience.
+                            </li>
+                            <li>
+                              <strong>Proven Track Record:</strong> A portfolio
+                              of successful restaurant clients.
+                            </li>
+                            <li>
+                              <strong>Local SEO Expertise:</strong>
+                              Understanding of local search algorithms for Delhi
+                              NCR.
+                            </li>
+                            <li>
+                              <strong>Data-Driven Approach:</strong> Uses data
+                              and analytics for informed strategies.
+                            </li>
+                            <li>
+                              <strong>Strong Communication:</strong> Open and
+                              transparent communication throughout the campaign.
+                            </li>
+                          </ul>
+                          <p>
+                            Stealth
+                            <a
+                              href="http://stealthdigital.in"
+                              style="text-decoration: underline"
+                              >Digital Marketing</a
+                            >
+                            SEO could be a strong choice for your restaurant's
+                            digital marketing needs due to its specialisation in
+                            the industry. As a Delhi NCR-based agency focused on
+                            restaurants, they likely possess a deep
+                            understanding of the unique challenges and
+                            opportunities faced by eateries in the region. This
+                            expertise can lead to more effective and targeted
+                            strategies.
+                          </p>
+                        </div>
+                      </div>
+                      <div class="bd-tags">
+                        <!-- <div class="tags-left">
+                          <p>Tags:</p>
+                          <div class="tags-content">
+                            <a href="../blog.html">SEO</a>
+                            <a href="../blog.html">Restaurant Marketing</a>
+                            <a href="../blog.html">Digital Marketing</a>
+                          </div>
+                        </div> -->
+                        <div class="tags-right">
+                          <p>Share:</p>
+                          <ul class="social">
+                            <!-- Facebook Share -->
+                            <li>
+                              <a
+                                href="javascript:void(0);"
+                                onclick="shareOnFacebook()"
+                                aria-label="Share on Facebook"
+                                title="Share on Facebook"
+                              >
+                                <i class="fa-brands fa-facebook"></i>
+                              </a>
+                            </li>
+
+                            <!-- LinkedIn Share -->
+                            <li>
+                              <a
+                                href="javascript:void(0);"
+                                onclick="shareOnLinkedIn()"
+                                aria-label="Share on LinkedIn"
+                                title="Share on LinkedIn"
+                              >
+                                <i class="fa-brands fa-linkedin"></i>
+                              </a>
+                            </li>
+
+                            <!-- Instagram (link to profile or app) -->
+                            <li>
+                              <a
+                                href="javascript:void(0);"
+                                onclick="shareOnInstagram()"
+                                aria-label="Share on Instagram"
+                                title="Share on Instagram"
+                              >
+                                <i class="fa-brands fa-instagram"></i>
+                              </a>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+
+                    <!-- <div class="blog-details__pagination">
+                      <div class="row gaper">
+                        <div class="col-md-6">
+                          <div class="single">
+                            <a href="../blog.html">
+                              <i class="fa-solid fa-arrow-left-long"></i>
+                              Previous Blog
+                            </a>
+                            <div class="latest-single">
+                              <div class="latest-thumb">
+                                <a href="blog-single.html">
+                                  <img
+                                    src="/assets/images/news/eleven.png"
+                                    alt="Image"
+                                  />
+                                </a>
+                              </div>
+                              <div class="latest-content">
+                                <p>10/01/2023</p>
+                                <p>
+                                  <a href="blog-single.html">
+                                    Guide dog shortage: The blind peo ple who
+                                    train their own guide
+                                  </a>
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-md-6">
+                          <div class="single single--alt">
+                            <a href="../blog.html">
+                              Next Blog
+                              <i class="fa-solid fa-arrow-right-long"></i>
+                            </a>
+                            <div class="latest-single">
+                              <div class="latest-thumb">
+                                <a href="blog-single.html">
+                                  <img
+                                    src="/assets/images/news/ten.png"
+                                    alt="Image"
+                                  />
+                                </a>
+                              </div>
+                              <div class="latest-content">
+                                <p>10/01/2023</p>
+                                <p>
+                                  <a href="blog-single.html">
+                                    Guide dog shortage: The blind peo ple who
+                                    train their own guide
+                                  </a>
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="section pb-0 comment-form fade-top">
+                        <div class="section__header">
+                          <h2 class="h2 text-start">Leave a comment</h2>
+                        </div>
+                        <form action="#" method="post">
+                          <div class="form-group-wrapper">
+                            <div class="form-group-single">
+                              <input
+                                type="text"
+                                name="comment-name"
+                                id="commentName"
+                                placeholder="Name"
+                              />
+                            </div>
+                            <div class="form-group-single">
+                              <input
+                                type="email"
+                                name="comment-email"
+                                id="commentemail"
+                                placeholder="Email"
+                              />
+                            </div>
+                          </div>
+                          <div class="form-group-single">
+                            <textarea
+                              name="comment-message"
+                              id="commentMessage"
+                              placeholder="Write Comment..."
+                            ></textarea>
+                          </div>
+                          <div class="cta__group">
+                            <button type="submit" class="btn btn--ocotonary">
+                              post comment
+                              <i class="fa-solid fa-arrow-right-long"></i>
+                            </button>
+                          </div>
+                        </form>
+                      </div>
+                    </div> -->
+                  </div>
+                </div>
+              </div>
+            </section>
+            <!-- ==== / blog details end ==== -->
+          </main>
+          <!-- ==== / main end ==== -->
+          <!-- ==== footer start ==== -->
+          <footer
+            class="footer section pb-0"
+            data-background="/assets/images/footer/footer-bg.png"
+          >
+            <div class="container">
+              <div class="row gaper">
+                <div class="col-12 col-lg-5 col-xl-6">
+                  <div class="footer__single">
+                    <a href="/" class="logo">
+                      <img
+                        src="/assets/images/logo.png"
+                        alt="Stealth Digital Logo"
+                      />
+                    </a>
+                    <div class="footer__single-meta">
+                      <a
+                        href="https://maps.app.goo.gl/V4wAodQUjrUmepMMA"
+                        target="_blank"
+                      >
+                        <i class="fa-sharp fa-solid fa-location-dot"></i>
+                        304, Best Sky Tower, Netaji Subhash Place, Pitampura,
+                        Delhi, 110034
+                      </a>
+                      <a href="tel:918700181135">
+                        <i class="fa-sharp fa-solid fa-phone-volume"></i>
+                        918700181135
+                      </a>
+                      <a href="mailto:rishabh@stealthdigital.in">
+                        <i class="fa-sharp fa-solid fa-envelope"></i>
+                        rishabh@stealthdigital.in
+                      </a>
+                    </div>
+                    <div class="footer__cta text-start">
+                      <a href="../contact-us.html" class="btn btn--secondary"
+                        >Book an appointment</a
+                      >
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-12 col-lg-2 col-xl-2">
+                  <div class="footer__single">
+                    <div class="footer__single-intro">
+                      <h5>Discover</h5>
+                    </div>
+                    <div class="footer__single-content">
+                      <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="../about-us.html">About Us</a></li>
+                        <li>
+                          <a href="../search-engine-marketing.html">Services</a>
+                        </li>
+                        <li><a href="../blog.html">Blogs</a></li>
+                        <li><a href="../contact-us.html">Contact Us</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-12 col-lg-5 col-xl-4">
+                  <div class="footer__single">
+                    <div class="footer__single-intro">
+                      <h5>Subscribe to Our Newsletter</h5>
+                    </div>
+                    <div class="footer__single-content">
+                      <p>
+                        Stay updated with the latest digital marketing trends
+                        and strategies. Subscribe to our newsletter for insights
+                        and tips.
+                      </p>
+                      <div class="footer__single-form">
+                        <form id="newsletterForm" action="#" method="post">
+                          <div class="input-email">
+                            <input
+                              type="email"
+                              name="subscribe-news"
+                              id="subscribeNews"
+                              placeholder="Enter Your Email"
+                              required
+                            />
+                            <button type="submit" class="subscribe">
+                              <i class="fa-sharp fa-solid fa-paper-plane"></i>
+                            </button>
+                          </div>
+                          <!-- Thank you message -->
+                          <div
+                            id="thankYouMessage"
+                            style="
+                              display: none;
+
+                              margin-top: 10px;
+                            "
+                          >
+                            Thank you for subscribing !
+                          </div>
+                        </form>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-12">
+                  <div class="footer__copyright">
+                    <div class="row align-items-center gaper">
+                      <div class="col-12 col-lg-8">
+                        <div
+                          class="footer__copyright-text text-center text-lg-start"
+                        >
+                          <p>
+                            Copyright &copy;
+                            <span id="copyYear"></span>
+                            by Stealth Digital. All Rights Reserved
+                          </p>
+                        </div>
+                      </div>
+                      <div class="col-12 col-lg-4">
+                        <div
+                          class="social justify-content-center justify-content-lg-end"
+                        >
+                          <a
+                            href="https://www.facebook.com/people/Stealth-Digital-SD/61560966751733/"
+                            target="_blank"
+                          >
+                            <i class="fa-brands fa-facebook-f"></i>
+                          </a>
+                          <!-- <a href="https://www.twitter.com/" target="_blank">
+                                    <i class="fa-brands fa-twitter"></i>
+                                  </a> -->
+                          <a
+                            href="https://www.linkedin.com/company/stealth-digitaly/"
+                            target="_blank"
+                          >
+                            <i class="fa-brands fa-linkedin-in"></i>
+                          </a>
+                          <a
+                            href="https://www.instagram.com/digital_marketing_stealth/"
+                            target="_blank"
+                          >
+                            <i class="fa-brands fa-instagram"></i>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </footer>
+
+          <script type="application/ld+json">
+            {
+              "@context": "https://schema.org",
+              "@type": "ProfessionalService",
+              "name": "Stealth Digital",
+              "image": "https://www.stealthdigital.in/assets/images/logo.png",
+              "url": "https://www.stealthdigital.in/",
+              "telephone": "+91-87001 81135",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "304, Best Sky Tower, Netaji Subhash Place",
+                "addressLocality": "Delhi",
+                "postalCode": "110034",
+                "addressCountry": "IN"
+              },
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 28.6922865,
+                "longitude": 77.14901069999999
+              },
+              "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday"
+                ],
+                "opens": "09:30",
+                "closes": "19:00"
+              },
+              "sameAs": [
+                "https://www.facebook.com/StealthDigital.SD/",
+                "https://www.instagram.com/digital_marketing_stealth/",
+                "https://www.linkedin.com/company/stealth-digitaly/"
+              ]
+            }
+          </script>
+          <!-- ==== / footer end ==== -->
+        </div>
+      </div>
+      <!-- ==== scroll to top start ==== -->
+      <button
+        class="progress-wrap"
+        aria-label="scroll indicator"
+        title="go to top"
+      >
+        <span></span>
+        <svg
+          class="progress-circle svg-content"
+          width="100%"
+          height="100%"
+          viewBox="-1 -1 102 102"
+        >
+          <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+        </svg>
+      </button>
+      <!-- ==== / scroll to top end ==== -->
+    </div>
+    <!-- ==== js dependencies start ==== -->
+    <!-- jquery -->
+    <script src="/assets/vendor/jquery/jquery-3.7.0.min.js"></script>
+    <!-- bootstrap five js -->
+    <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- nice select js -->
+    <script src="/assets/vendor/nice-select/js/jquery.nice-select.min.js"></script>
+    <!-- magnific popup js -->
+    <script src="/assets/vendor/magnific-popup/js/jquery.magnific-popup.min.js"></script>
+    <!-- slick js -->
+    <script src="/assets/vendor/slick/js/slick.min.js"></script>
+    <!-- image loaded js -->
+    <script src="/assets/vendor/images-loaded/imagesloaded.pkgd.min.js"></script>
+    <!-- isotope js -->
+    <script src="/assets/vendor/isotope/isotope.pkgd.min.js"></script>
+    <!-- chroma js -->
+    <script src="/assets/vendor/gsap/chroma.min.js"></script>
+    <!-- splittext js -->
+    <script src="/assets/vendor/gsap/SplitText.min.js"></script>
+    <!-- scrollsmoother js -->
+    <script src="/assets/vendor/gsap/ScrollSmoother.min.js"></script>
+    <!-- scrollto js -->
+    <script src="/assets/vendor/gsap/ScrollToPlugin.min.js"></script>
+    <!-- scrolltrigger js -->
+    <script src="/assets/vendor/gsap/ScrollTrigger.min.js"></script>
+    <!-- gsap js -->
+    <script src="/assets/vendor/gsap/gsap.min.js"></script>
+    <!-- vanilla tilt js -->
+    <script src="/assets/vendor/vanilla-tilt/tilt.jquery.js"></script>
+    <!-- ==== / js dependencies end ==== -->
+    <!-- plugins js -->
+    <script src="/assets/js/plugins.js"></script>
+    <!-- main js -->
+    <script src="/assets/js/main.js"></script>
+
+    <!-- function for the shareable link of social media handles -->
+    <script>
+      // URL to be shared
+      const blogUrl =
+        "https://www.stealthdigital.in/blog/seo-for-restaurant.html";
+
+      // Function for sharing on Facebook
+      function shareOnFacebook() {
+        const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
+          blogUrl
+        )}`;
+        window.open(facebookUrl, "_blank", "width=600,height=400");
+      }
+
+      // Function for sharing on LinkedIn
+      function shareOnLinkedIn() {
+        const linkedinUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(
+          blogUrl
+        )}`;
+        window.open(linkedinUrl, "_blank", "width=600,height=400");
+      }
+
+      // Function for Instagram (Copy to Clipboard)
+      // Function for Instagram (Copy to Clipboard)
+      function shareOnInstagram() {
+        // Check if clipboard API is available
+        if (navigator.clipboard) {
+          navigator.clipboard
+            .writeText(blogUrl)
+            .then(function () {
+              alert(
+                "Blog URL copied to clipboard. You can paste it in your Instagram bio or Stories."
+              );
+            })
+            .catch(function (err) {
+              console.error("Failed to copy text: ", err);
+              alert("Oops! Something went wrong while copying the URL.");
+            });
+        } else {
+          // Fallback if clipboard API isn't supported
+          console.error("Clipboard API is not supported by this browser.");
+          alert(
+            "Your browser does not support the Clipboard API. Please copy the URL manually."
+          );
+        }
+      }
+    </script>
+  </body>
+</html>

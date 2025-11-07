@@ -1,0 +1,787 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- required meta -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- #favicon -->
+    <link
+      rel="shortcut icon"
+      href="/assets/images/favicon.png"
+      type="image/x-icon"
+    />
+    <!-- #title -->
+    <title> Digital Marketing Services for Small and Large Businesses – Stealth Digital Guide</title>
+    <!-- #keywords -->
+    <meta
+      name="keywords"
+      content="Digital Marketing Services, Business Growth, Online Marketing, Digital Strategy, Marketing Agency Delhi NCR"
+    />
+    <!-- #description -->
+    <meta
+      name="description"
+      content="Discover how Stealth Digital's tailored digital marketing services help small and large businesses in Delhi NCR achieve growth and enhance online visibility."
+    />
+
+    <link
+      rel="canonical"
+      href="https://www.stealthdigital.in/blog/why-every-business-needs-digital-marketing-services.html"
+    />
+
+    <meta
+      property="og:title"
+      content=" Digital Marketing Services for Small and Large Businesses – Stealth Digital Guide "
+    />
+    <meta
+      property="og:description"
+      content="Discover how Stealth Digital's tailored digital marketing services help small and large businesses in Delhi NCR achieve growth and enhance online visibility."
+    />
+    <meta
+      property="og:image"
+      content="https://www.stealthdigital.in/assets/images/blog/blog-digital-marketing-services-sq.webp"
+    />
+    <meta
+      property="og:url"
+      content="https://www.stealthdigital.in/blog/why-every-business-needs-digital-marketing-services.html"
+    />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="Stealth Digital" />
+    <!-- ==== css dependencies start ==== -->
+    <!-- bootstrap five css -->
+    <link
+      rel="stylesheet"
+      href="/assets/vendor/bootstrap/css/bootstrap.min.css"
+    />
+    <!-- glyphter css -->
+    <link rel="stylesheet" href="/assets/vendor/glyyphter/css/xpovio.css" />
+    <!-- font awesome six css -->
+    <link rel="stylesheet" href="/assets/vendor/font-awesome/css/all.css" />
+    <!-- nice select css -->
+    <link
+      rel="stylesheet"
+      href="/assets/vendor/nice-select/css/nice-select.css"
+    />
+    <!-- magnific popup css -->
+    <link
+      rel="stylesheet"
+      href="/assets/vendor/magnific-popup/css/magnific-popup.css"
+    />
+    <!-- slick css -->
+    <link rel="stylesheet" href="/assets/vendor/slick/css/slick.css" />
+    <!-- ==== / css dependencies end ==== -->
+    <!-- main css -->
+    <link rel="stylesheet" href="/assets/css/main.min.css" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Stealth Digital",
+        "url": "https://www.stealthdigital.in/",
+        "logo": "https://www.stealthdigital.in/assets/images/logo.png",
+        "sameAs": [
+          "https://www.facebook.com/StealthDigital.SD/",
+          "https://www.instagram.com/digital_marketing_stealth/",
+          "https://www.linkedin.com/company/stealth-digitaly/"
+        ]
+      }
+    </script>
+  </head>
+
+  <body>
+    <!-- ... (header and navigation code remains the same) ... -->
+    <div class="top-strip">
+        <div class="container">
+          <a href="tel:918700181135" class="top-strip-item">
+            <i class="fa-solid fa-phone-volume"></i> 918700181135
+          </a>
+  
+          <a href="mailto:rishabh@stealthdigital.in" class="top-strip-item">
+            <i class="fa-solid fa-envelope"></i> rishabh@stealthdigital.in
+          </a>
+        </div>
+      </div>
+      <div class="my-app">
+        <!-- ==== preloader start ==== -->
+        <div id="preloader">
+          <div id="loader"></div>
+        </div>
+        <!-- ==== / preloader end ==== -->
+        <!-- ==== mouse cursor drag start ==== -->
+        <div class="mouseCursor cursor-outer"></div>
+        <div class="mouseCursor cursor-inner">
+          <span>Drag</span>
+        </div>
+        <!-- ==== / mouse cursor drag end ==== -->
+        <!-- ==== header start ==== -->
+        <header class="header">
+          <div class="primary-navbar secondary--navbar">
+            <div class="container">
+              <div class="row">
+                <div class="col-12">
+                  <nav class="navbar p-0">
+                    <div class="navbar__logo">
+                      <a href="/" aria-label="go to home">
+                        <img
+                          src="/assets/images/logo.png"
+                          alt="Stealth Digital Logo"
+                        />
+                      </a>
+                    </div>
+                    <div class="navbar__options">
+                      <div class="navbar__menu">
+                        <ul>
+                          <li class="navbar__item">
+                            <a href="/">Home</a>
+                          </li>
+                          <li class="navbar__item">
+                            <a href="../about-us.html">About Us</a>
+                          </li>
+                          <li
+                            class="navbar__item navbar__item--has-children nav-fade"
+                          >
+                            <a
+                              href="javascript:void(0)"
+                              aria-label="dropdown menu"
+                              class="navbar__dropdown-label"
+                              >Services</a
+                            >
+                            <ul class="navbar__sub-menu">
+                              <li>
+                                <a href="../search-engine-marketing.html"
+                                  >Search Engine Marketing</a
+                                >
+                              </li>
+                              <li>
+                                <a href="../search-engine-optimization.html"
+                                  >Search Engine Optimization</a
+                                >
+                              </li>
+                              <li>
+                                <a href="../social-media-marketing.html"
+                                  >Social Media Marketing</a
+                                >
+                              </li>
+                              <li>
+                                <a href="../content-marketing.html"
+                                  >Content Marketing</a
+                                >
+                              </li>
+                              <li>
+                                <a href="../website-design-and-development.html"
+                                  >Website Design & Development</a
+                                >
+                              </li>
+                            </ul>
+                          </li>
+                          <li class="navbar__item">
+                            <a href="../blog.html">Blogs</a>
+                          </li>
+                          <li class="navbar__item">
+                            <a href="../contact-us.html">Contact Us</a>
+                          </li>
+                        </ul>
+                      </div>
+                      <button
+                        class="open-offcanvas-nav d-flex"
+                        aria-label="toggle mobile menu"
+                        title="open offcanvas menu"
+                      ></button>
+                    </div>
+                  </nav>
+                </div>
+              </div>
+            </div>
+          </div>
+        </header>
+  
+        <div class="offcanvas-nav">
+          <div class="offcanvas-menu">
+            <nav class="offcanvas-menu__wrapper">
+              <div class="offcanvas-menu__header nav-fade">
+                <div class="logo">
+                  <a href="/">
+                    <img
+                      src="/assets/images/logo.png"
+                      alt="Stealth Digital Logo"
+                      title="Stealth Digital"
+                    />
+                  </a>
+                </div>
+                <a
+                  href="javascript:void(0)"
+                  aria-label="close offcanvas menu"
+                  class="close-offcanvas-menu"
+                >
+                  <i class="fa-light fa-xmark-large"></i>
+                </a>
+              </div>
+              <div class="offcanvas-menu__list">
+                <div class="navbar__menu">
+                  <ul>
+                    <li class="navbar__item nav-fade">
+                      <a href="/">Home</a>
+                    </li>
+                    <li class="navbar__item navbar__item--has-children nav-fade">
+                      <a
+                        href="javascript:void(0)"
+                        aria-label="dropdown menu"
+                        class="navbar__dropdown-label"
+                        >Services</a
+                      >
+  
+                      <ul class="navbar__sub-menu">
+                        <li>
+                          <a href="../search-engine-marketing.html"
+                            >Search Engine Marketing</a
+                          >
+                        </li>
+                        <li>
+                          <a href="../search-engine-optimization.html"
+                            >Search Engine Optimization</a
+                          >
+                        </li>
+                        <li>
+                          <a href="../content-marketing.html"
+                            >Content Marketing</a
+                          >
+                        </li>
+                        <li>
+                          <a href="../social-media-marketing.html"
+                            >Social Media Marketing</a
+                          >
+                        </li>
+                        <li>
+                          <a href="../website-design-and-development.html"
+                            >Website Design & Development</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="navbar__item nav-fade">
+                      <a href="../about-us.html">About Us</a>
+                    </li>
+                    <li class="navbar__item nav-fade">
+                      <a href="../blog.html">Blogs</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="offcanvas-menu__options nav-fade">
+                <div class="offcanvas__mobile-options d-flex">
+                  <a href="../contact-us.html" class="btn btn--secondary"
+                    >Let's Talk</a
+                  >
+                </div>
+              </div>
+              <div
+                style="
+                  display: flex;
+                  justify-content: space-between;
+                  padding-left: 1.5rem;
+                  flex-wrap: wrap;
+                  gap: 2rem;
+                "
+              >
+                <a href="mailto:rishabh@stealthdigital.in"
+                  >Email : rishabh@stealthdigital.in</a
+                >
+  
+                <a href="tel:918700181135">Call Us : 918700181135</a>
+              </div>
+              <div class="offcanvas-menu__social social nav-fade">
+                <a
+                  href="https://www.facebook.com/people/Stealth-Digital-SD/61560966751733/"
+                  target="_blank"
+                  aria-label="share us on facebook"
+                >
+                  <i class="fa-brands fa-facebook-f"></i>
+                </a>
+  
+                <a
+                  href="https://www.linkedin.com/company/stealth-digitaly/"
+                  target="_blank"
+                  aria-label="share us on linkedin"
+                >
+                  <i class="fa-brands fa-linkedin-in"></i>
+                </a>
+                <a
+                  href="https://www.instagram.com/digital_marketing_stealth/"
+                  target="_blank"
+                  aria-label="share us on instagram"
+                >
+                  <i class="fa-brands fa-instagram"></i>
+                </a>
+              </div>
+            </nav>
+          </div>
+        </div>
+    <div id="smooth-wrapper">
+      <div id="smooth-content">
+        <main>
+          <!-- ==== banner start ==== -->
+          <section
+            class="cmn-banner bg-img"
+            data-background="/assets/images/banner/cmn-banner-bg.png"
+          >
+            <div class="container">
+              <div class="row gaper align-items-center">
+                <div class="col-12">
+                  <div class="text-center text-lg-start">
+                    <h2 class="title title-anim">
+                      Digital Marketing Services
+                    </h2>
+                    <nav aria-label="breadcrumb">
+                      <ol class="breadcrumb">
+                        <li class="breadcrumb-item">
+                          <a href="/">
+                            <i class="fa-solid fa-house"></i>
+                            Home
+                          </a>
+                        </li>
+                        <li class="breadcrumb-item">
+                          <a href="../blog.html">
+                            <i class="fa-solid fa-book"></i>
+                            Blog
+                          </a>
+                        </li>
+                        <li class="breadcrumb-item active" aria-current="page">
+                            Why Every Business Needs Digital Marketing Services
+                        </li>
+                      </ol>
+                    </nav>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <!-- ==== / banner end ==== -->
+
+          <!-- ==== blog details start ==== -->
+          <section class="section blog-main blog-details fade-wrapper">
+            <div class="container">
+              <div class="row gaper">
+                <div class="col-12 col-xl-10 m-auto">
+                  <div class="blog-details__content">
+                    <div class="bd-thumb fade-top">
+                      <img
+                        src="/assets/images/blog/blog-digital-marketing-guide.webp"
+                        alt="Digital Marketing Services"
+                      />
+                    </div>
+                    <div class="bd-content">
+                      <div class="bd-meta">
+                        <div class="meta__left">
+                          <p>
+                            <strong style="color: white">Written by :</strong>
+                            Stealth Digital
+                          </p>
+                          <span></span>
+                          <p>01/15/2024</p>
+                        </div>
+                      </div>
+                      <div class="bd-content-info">
+                        <h1 class="h4">
+                          Digital Marketing Services for Small and Large Businesses – Stealth Digital Guide
+                        </h1>
+                        <div class="paragraph">
+                          <p style="color: #c1c1c1">
+                            In the current global economic era, defined by globalization and technological growth, digital marketing is an absolute necessity for all organisations, regardless of business size. The capacity to target clients and audiences online is crucial for the success of any business, regardless of size, whether it is a new, inventive startup or a large, established corporation. This is Stealth Digitals' guide to comprehending how digital marketing services can assist small and large organisations achieve their growth goals, with a focus on the services provided by a top digital marketing agency in Delhi NCR.
+                          </p>
+
+                          <h2 class="h4">Why Digital Marketing?</h2>
+                          <p style="color: #c1c1c1">
+                            Digital marketing involves leveraging the internet and online-based digital technologies to promote products and services. Unlike traditional marketing, it allows for precise targeting, real-time engagement, and measurable outcomes. With tools like SEO (Search Engine Optimization), SEM (Search Engine Marketing), social media marketing, email marketing, and content marketing, businesses can engage their audience in a way that traditional channels like TV and print simply cannot match.
+                          </p>
+
+                          <h2 class="h4 mt-10" style='margin-top: 2rem;'>
+                            Benefits of Digital Marketing for Small and Large Businesses
+                          </h2>
+                          
+                          <h3 class="h4 mt-10" style='margin-top: 2rem;'>
+                            Cost-effective for Small Businesses
+                          </h3>
+                          <p style="color: #c1c1c1">
+                            Small companies may have low marketing budgets. They may compete on a bigger stage thanks to digital marketing, which enables direct contact to particular target audiences without investing significant costs. For instance, a small bakery or boutique in Delhi NCR might effectively draw clients from nearby areas by utilising techniques like local SEO and social media advertising.
+                          </p>
+
+                          <h3 class="h4 mt-10" style='margin-top: 2rem;'>
+                            Scalability for Large Businesses
+                          </h3>
+                          <p style="color: #c1c1c1">
+                            Digital marketing provides larger organisations with the ability to expand their operations, interact with a worldwide audience, and strengthen their brand identification. For example, omnichannel marketing efforts across many digital platforms can maximise reach through customized customer engagement and analytics for a large retail chain.
+                          </p>
+
+                          <h2 class="h4 mt-10" style='margin-top: 2rem;'>
+                            Key Digital Marketing Services by Stealth Digital
+                          </h2>
+                          <p style="color: #c1c1c1">
+                            At Stealth Digital, we specialise in offering a wide range of <a href="https://www.stealthdigital.in/blog/why-every-business-needs-digital-marketing-services.html" style="color: white; text-decoration: underline;">digital marketing services</a>  tailored to both small and large businesses:
+                          </p>
+
+                          <h3 class="h4 mt-10" style='margin-top: 2rem;'>
+                            Search Engine Optimization (SEO)
+                          </h3>
+                          <p style="color: #c1c1c1">
+                            Being visible on search engines like google, youtube, and social media is essential for any business. With our advanced <a href="https://www.stealthdigital.in/search-engine-optimization.html" style="color: white; text-decoration: underline;">SEO services</a> , we ensure that your business ranks higher on search engine result pages (SERPs), driving organic traffic and boosting credibility.
+                          </p>
+
+                          <h3 class="h4 mt-10" style='margin-top: 2rem;'>
+                            Pay-Per-Click Advertising (PPC)
+                          </h3>
+                          <p style="color: #c1c1c1">
+                            PPC campaigns allow you to reach potential customers through paid ads. We design optimised campaigns, ensuring that every click brings you closer to converting leads into sales. This is especially useful for businesses looking for immediate results.
+                          </p>
+
+                          <h3 class="h4 mt-10" style='margin-top: 2rem;'>
+                            Social Media Marketing (SMM)
+                          </h3>
+                          <p style="color: #c1c1c1">
+                            Social media platforms are invaluable for engaging with your audience. From Facebook and Instagram to LinkedIn and Twitter, we create tailored strategies that resonate with your target audience and promote brands. Our <a href="https://www.stealthdigital.in/social-media-marketing.html" style="color: white; text-decoration: underline;">social media marketing services</a>  are designed to maximise engagement, ensuring your brand stands out and connects meaningfully with users across all channels.
+                          </p>
+
+                          <h3 class="h4 mt-10" style='margin-top: 2rem;'>
+                            Content Marketing
+                          </h3>
+                          <p style="color: #c1c1c1">
+                            Content is king. At Stealth Digital, we create compelling, informative, and SEO friendly content that draws your audience in and keeps them engaged.
+                          </p>
+
+                          <h3 class="h4 mt-10" style='margin-top: 2rem;'>
+                            Email Marketing
+                          </h3>
+                          <p style="color: #c1c1c1">
+                            Email remains one of the most effective channels for personalised customer engagement. We help design, execute, and optimise email marketing campaigns that convert leads into loyal customers.
+                          </p>
+
+                          <h3 class="h4 mt-10" style='margin-top: 2rem;'>
+                            Analytics and Reporting
+                          </h3>
+                          <p style="color: #c1c1c1">
+                            We use advanced analytics tools to track the performance of your campaigns. This allows us to optimise strategies in real time, ensuring the best possible return on investment (ROI) for your business.
+                          </p>
+
+                          <h2 class="h4 mt-10" style='margin-top: 2rem;'>
+                            Digital Marketing Services for Local Businesses in Delhi NCR
+                          </h2>
+                          <p style="color: #c1c1c1">
+                            As a <a href="https://www.stealthdigital.in/" style="color: white; text-decoration: underline;">Digital Marketing Services Agency in Delhi NCR</a> , we understand the unique characteristics of the local market. Whether you run a small business in South Delhi or a large enterprise in Gurgaon, our team is well-equipped to provide customised solutions that address your specific needs.
+                          </p>
+                          <p style="color: #c1c1c1">
+                            Stealth Digital, a leading digital marketing company in Delhi, offers a hands-on approach to help you navigate the competitive online landscape. With our deep understanding of the region, we help local businesses increase their visibility, attract more customers, and dominate their industries.
+                          </p>
+
+                          <h2 class="h4 mt-10" style='margin-top: 2rem;'>
+                            How Stealth Digital Stands Out
+                          </h2>
+                          <p style="color: #c1c1c1">
+                            It's essential to work together with the best digital marketing agency in a highly competitive field. Here's why you should always choose Stealth Digital:
+                          </p>
+                          <p style="color: #c1c1c1">
+                            <strong style="color: white;">1. Tailored Solutions:</strong> We don't believe in "one size fits all". Whether you're a startup or a large enterprise, we provide customised strategies that align with your business goals.<br>
+                            <strong style="color: white;">2. Data Driven Approach:</strong> Our decisions are backed by data. From keyword research to customer behaviour analysis, we use data insights to guide our strategies for maximum impact.<br>
+                            <strong style="color: white;">3. Industry Expertise:</strong> With years of experience in digital marketing services, we've helped numerous businesses across different industries thrive online.<br>
+                            <strong style="color: white;">4. Local Expertise:</strong> As a leading digital marketing company in Delhi NCR, we understand the local market dynamics, helping businesses tap into the right audience at the right time.
+                          </p>
+
+                          <h2 class="h4 mt-10" style='margin-top: 2rem;'>
+                            Conclusion
+                          </h2>
+                          <p style="color: #c1c1c1">
+                            In this competitive global economy, effective internet-based marketing is essential to the growth of any business, regardless of its size, age, or location. As an innovative digital marketing company in Delhi NCR, Stealth Digital offers practical solutions like email marketing, content marketing, SEM, SMM, and SEO. We strike a balance between knowledge and facts to ensure that every company, regardless of size, meets its growth objectives. Join together with Stealth Digital to take advantage of the digital environment, reach the proper audience, and increase your online presence.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="bd-tags">
+                      <div class="tags-right">
+                        <p>Share:</p>
+                        <ul class="social">
+                          <li>
+                            <a
+                              href="javascript:void(0);"
+                              onclick="shareOnFacebook()"
+                              aria-label="Share on Facebook"
+                              title="Share on Facebook"
+                            >
+                              <i class="fa-brands fa-facebook"></i>
+                            </a>
+                          </li>
+                          <li>
+                            <a
+                              href="javascript:void(0);"
+                              onclick="shareOnLinkedIn()"
+                              aria-label="Share on LinkedIn"
+                              title="Share on LinkedIn"
+                            >
+                              <i class="fa-brands fa-linkedin"></i>
+                            </a>
+                          </li>
+                          <li>
+                            <a
+                              href="javascript:void(0);"
+                              onclick="shareOnInstagram()"
+                              aria-label="Share on Instagram"
+                              title="Share on Instagram"
+                            >
+                              <i class="fa-brands fa-instagram"></i>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <!-- ==== / blog details end ==== -->
+        </main>
+        <!-- ==== footer start ==== -->
+        <footer
+          class="footer section pb-0"
+          data-background="/assets/images/footer/footer-bg.png"
+        >
+          <div class="container">
+            <div class="row gaper">
+              <div class="col-12 col-lg-5 col-xl-6">
+                <div class="footer__single">
+                  <a href="/" class="logo">
+                    <img
+                      src="/assets/images/logo.png"
+                      alt="Stealth Digital Logo"
+                    />
+                  </a>
+                  <div class="footer__single-meta">
+                    <a
+                      href="https://maps.app.goo.gl/V4wAodQUjrUmepMMA"
+                      target="_blank"
+                    >
+                      <i class="fa-sharp fa-solid fa-location-dot"></i>
+                      304, Best Sky Tower, Netaji Subhash Place, Pitampura,
+                      Delhi, 110034
+                    </a>
+                    <a href="tel:918700181135">
+                      <i class="fa-sharp fa-solid fa-phone-volume"></i>
+                      918700181135
+                    </a>
+                    <a href="mailto:rishabh@stealthdigital.in">
+                      <i class="fa-sharp fa-solid fa-envelope"></i>
+                      rishabh@stealthdigital.in
+                    </a>
+                  </div>
+                  <div class="footer__cta text-start">
+                    <a href="../contact-us.html" class="btn btn--secondary"
+                      >Book an appointment</a
+                    >
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-12 col-lg-2 col-xl-2">
+                <div class="footer__single">
+                  <div class="footer__single-intro">
+                    <h5>Discover</h5>
+                  </div>
+                  <div class="footer__single-content">
+                    <ul>
+                      <li><a href="/">Home</a></li>
+                      <li><a href="../about-us.html">About Us</a></li>
+                      <li>
+                        <a href="../search-engine-marketing.html">Services</a>
+                      </li>
+                      <li><a href="../blog.html">Blogs</a></li>
+                      <li><a href="../contact-us.html">Contact Us</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-12 col-lg-5 col-xl-4">
+                <div class="footer__single">
+                  <div class="footer__single-intro">
+                    <h5>Subscribe to Our Newsletter</h5>
+                  </div>
+                  <div class="footer__single-content">
+                    <p>
+                      Stay updated with the latest digital marketing trends and
+                      strategies. Subscribe to our newsletter for insights and
+                      tips.
+                    </p>
+                    <div class="footer__single-form">
+                      <form id="newsletterForm" action="#" method="post">
+                        <div class="input-email">
+                          <input
+                            type="email"
+                            name="subscribe-news"
+                            id="subscribeNews"
+                            placeholder="Enter Your Email"
+                            required
+                          />
+                          <button type="submit" class="subscribe">
+                            <i class="fa-sharp fa-solid fa-paper-plane"></i>
+                          </button>
+                        </div>
+                        <!-- Thank you message -->
+                        <div
+                          id="thankYouMessage"
+                          style="display: none; margin-top: 10px"
+                        >
+                          Thank you for subscribing !
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-12">
+                <div class="footer__copyright">
+                  <div class="row align-items-center gaper">
+                    <div class="col-12 col-lg-8">
+                      <div
+                        class="footer__copyright-text text-center text-lg-start"
+                      >
+                        <p>
+                          Copyright &copy;
+                          <span id="copyYear"></span>
+                          by Stealth Digital. All Rights Reserved
+                        </p>
+                      </div>
+                    </div>
+                    <div class="col-12 col-lg-4">
+                      <div
+                        class="social justify-content-center justify-content-lg-end"
+                      >
+                        <a
+                          href="https://www.facebook.com/people/Stealth-Digital-SD/61560966751733/"
+                          target="_blank"
+                        >
+                          <i class="fa-brands fa-facebook-f"></i>
+                        </a>
+                        <a
+                          href="https://www.linkedin.com/company/stealth-digitaly/"
+                          target="_blank"
+                        >
+                          <i class="fa-brands fa-linkedin-in"></i>
+                        </a>
+                        <a
+                          href="https://www.instagram.com/digital_marketing_stealth/"
+                          target="_blank"
+                        >
+                          <i class="fa-brands fa-instagram"></i>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </footer>
+        <!-- ==== / footer end ==== -->
+      </div>
+    </div>
+    <!-- ==== scroll to top start ==== -->
+    <button
+      class="progress-wrap"
+      aria-label="scroll indicator"
+      title="go to top"
+    >
+      <span></span>
+      <svg
+        class="progress-circle svg-content"
+        width="100%"
+        height="100%"
+        viewBox="-1 -1 102 102"
+      >
+        <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+      </svg>
+    </button>
+    <!-- ==== / scroll to top end ==== -->
+
+    <!-- ==== js dependencies start ==== -->
+    <!-- jquery -->
+    <script src="/assets/vendor/jquery/jquery-3.7.0.min.js"></script>
+    <!-- bootstrap five js -->
+    <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- nice select js -->
+    <script src="/assets/vendor/nice-select/js/jquery.nice-select.min.js"></script>
+    <!-- magnific popup js -->
+    <script src="/assets/vendor/magnific-popup/js/jquery.magnific-popup.min.js"></script>
+    <!-- slick js -->
+    <script src="/assets/vendor/slick/js/slick.min.js"></script>
+    <!-- image loaded js -->
+    <script src="/assets/vendor/images-loaded/imagesloaded.pkgd.min.js"></script>
+    <!-- isotope js -->
+    <script src="/assets/vendor/isotope/isotope.pkgd.min.js"></script>
+    <!-- chroma js -->
+    <script src="/assets/vendor/gsap/chroma.min.js"></script>
+    <!-- splittext js -->
+    <script src="/assets/vendor/gsap/SplitText.min.js"></script>
+    <!-- scrollsmoother js -->
+    <script src="/assets/vendor/gsap/ScrollSmoother.min.js"></script>
+    <!-- scrollto js -->
+    <script src="/assets/vendor/gsap/ScrollToPlugin.min.js"></script>
+    <!-- scrolltrigger js -->
+    <script src="/assets/vendor/gsap/ScrollTrigger.min.js"></script>
+    <!-- gsap js -->
+    <script src="/assets/vendor/gsap/gsap.min.js"></script>
+    <!-- vanilla tilt js -->
+    <script src="/assets/vendor/vanilla-tilt/tilt.jquery.js"></script>
+    <!-- ==== / js dependencies end ==== -->
+    <!-- plugins js -->
+    <script src="/assets/js/plugins.js"></script>
+    <!-- main js -->
+    <script src="/assets/js/main.js"></script>
+
+    <!-- function for the shareable link of social media handles -->
+    <script>
+      // URL to be shared
+      const blogUrl =
+        "https://www.stealthdigital.in/blog/why-every-business-needs-digital-marketing-services.html";
+
+      // Function for sharing on Facebook
+      function shareOnFacebook() {
+        const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
+          blogUrl
+        )}`;
+        window.open(facebookUrl, "_blank", "width=600,height=400");
+      }
+
+      // Function for sharing on LinkedIn
+      function shareOnLinkedIn() {
+        const linkedinUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(
+          blogUrl
+        )}`;
+        window.open(linkedinUrl, "_blank", "width=600,height=400");
+      }
+
+      // Function for Instagram (Copy to Clipboard)
+      function shareOnInstagram() {
+        if (navigator.clipboard) {
+          navigator.clipboard
+            .writeText(blogUrl)
+            .then(function () {
+              alert(
+                "Blog URL copied to clipboard. You can paste it in your Instagram bio or Stories."
+              );
+            })
+            .catch(function (err) {
+              console.error("Failed to copy text: ", err);
+              alert("Oops! Something went wrong while copying the URL.");
+            });
+        } else {
+          console.error("Clipboard API is not supported by this browser.");
+          alert(
+            "Your browser does not support the Clipboard API. Please copy the URL manually."
+          );
+        }
+      }
+    </script>
+  </body>
+</html>

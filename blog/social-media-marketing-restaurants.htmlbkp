@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- required meta -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- #favicon -->
+    <link
+      rel="shortcut icon"
+      href="/assets/images/favicon.png"
+      type="image/x-icon"
+    />
+    <!-- #title -->
+
+     <!-- #title -->
+     <title>How Social Media Can Help Your Restaurant</title>
+    
+     <!-- #keywords -->
+     <meta name="keywords" content="restaurant social media marketing, social media for restaurants, restaurant online presence, Delhi NCR restaurants, Stealth Digital">
+     
+     <!-- #description -->
+     <meta name="description" content="Boost your restaurant's visibility with expert Social Media Management Services by Stealth Digital. Stand out in Delhi NCR's crowded market and thrive online.">
+     
+     <link rel="canonical" href="https://www.stealthdigital.in/blog/social-media-marketing-restaurants.html">
+     
+     <!-- Open Graph tags -->
+     <meta property="og:title" content="How Social Media Can Help Your Restaurant Stand Out in a Crowded Market">
+     <meta property="og:description" content="Boost your restaurant's visibility with expert Social Media Management Services by Stealth Digital. Stand out in Delhi NCR's crowded market and thrive online.">
+     <meta property="og:image" content="https://www.stealthdigital.in/assets/images/blog/blog-social-media-restaurants.webp">
+     <meta property="og:url" content="https://www.stealthdigital.in/blog/social-media-marketing-restaurants.html">
+     <meta property="og:type" content="article" />
+     <meta property="og:site_name" content="Stealth Digital" />
+ 
+    <!-- ==== css dependencies start ==== -->
+    <!-- bootstrap five css -->
+    <link
+      rel="stylesheet"
+      href="/assets/vendor/bootstrap/css/bootstrap.min.css"
+    />
+    <!-- glyphter css -->
+    <link rel="stylesheet" href="/assets/vendor/glyyphter/css/xpovio.css" />
+    <!-- font awesome six css -->
+    <link rel="stylesheet" href="/assets/vendor/font-awesome/css/all.css" />
+    <!-- nice select css -->
+    <link
+      rel="stylesheet"
+      href="/assets/vendor/nice-select/css/nice-select.css"
+    />
+    <!-- magnific popup css -->
+    <link
+      rel="stylesheet"
+      href="/assets/vendor/magnific-popup/css/magnific-popup.css"
+    />
+    <!-- slick css -->
+    <link rel="stylesheet" href="/assets/vendor/slick/css/slick.css" />
+    <!-- ==== / css dependencies end ==== -->
+    <!-- main css -->
+    <link rel="stylesheet" href="/assets/css/main.min.css" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Stealth Digital",
+        "url": "https://www.stealthdigital.in/",
+        "logo": "https://www.stealthdigital.in/assets/images/logo.png",
+        "sameAs": [
+          "https://www.facebook.com/StealthDigital.SD/",
+          "https://www.instagram.com/digital_marketing_stealth/",
+          "https://www.linkedin.com/company/stealth-digitaly/"
+        ]
+      }
+    </script>
+  </head>
+
+  <body>
+    <!-- ... (header and navigation code remains the same) ... -->
+    <div class="top-strip">
+        <div class="container">
+          <a href="tel:918700181135" class="top-strip-item">
+            <i class="fa-solid fa-phone-volume"></i> 918700181135
+          </a>
+
+          <a href="mailto:rishabh@stealthdigital.in" class="top-strip-item">
+            <i class="fa-solid fa-envelope"></i> rishabh@stealthdigital.in
+          </a>
+        </div>
+      </div>
+      <div class="my-app">
+        <!-- ==== preloader start ==== -->
+        <div id="preloader">
+          <div id="loader"></div>
+        </div>
+        <!-- ==== / preloader end ==== -->
+        <!-- ==== mouse cursor drag start ==== -->
+        <div class="mouseCursor cursor-outer"></div>
+        <div class="mouseCursor cursor-inner">
+          <span>Drag</span>
+        </div>
+        <!-- ==== / mouse cursor drag end ==== -->
+        <!-- ==== header start ==== -->
+        <header class="header">
+          <div class="primary-navbar secondary--navbar">
+            <div class="container">
+              <div class="row">
+                <div class="col-12">
+                  <nav class="navbar p-0">
+                    <div class="navbar__logo">
+                      <a href="/" aria-label="go to home">
+                        <img
+                          src="/assets/images/logo.png"
+                          alt="Stealth Digital Logo"
+                        />
+                      </a>
+                    </div>
+                    <div class="navbar__options">
+                      <div class="navbar__menu">
+                        <ul>
+                          <li class="navbar__item">
+                            <a href="/">Home</a>
+                          </li>
+                          <li class="navbar__item">
+                            <a href="../about-us.html">About Us</a>
+                          </li>
+                          <li
+                            class="navbar__item navbar__item--has-children nav-fade"
+                          >
+                            <a
+                              href="javascript:void(0)"
+                              aria-label="dropdown menu"
+                              class="navbar__dropdown-label"
+                              >Services</a
+                            >
+                            <ul class="navbar__sub-menu">
+                              <li>
+                                <a href="../search-engine-marketing.html"
+                                  >Search Engine Marketing</a
+                                >
+                              </li>
+                              <li>
+                                <a href="../search-engine-optimization.html"
+                                  >Search Engine Optimization</a
+                                >
+                              </li>
+                              <li>
+                                <a href="../social-media-marketing.html"
+                                  >Social Media Marketing</a
+                                >
+                              </li>
+                              <li>
+                                <a href="../content-marketing.html"
+                                  >Content Marketing</a
+                                >
+                              </li>
+                              <li>
+                                <a href="../website-design-and-development.html"
+                                  >Website Design & Development</a
+                                >
+                              </li>
+                            </ul>
+                          </li>
+                          <li class="navbar__item">
+                            <a href="../blog.html">Blogs</a>
+                          </li>
+                          <li class="navbar__item">
+                            <a href="../contact-us.html">Contact Us</a>
+                          </li>
+                        </ul>
+                      </div>
+                      <button
+                        class="open-offcanvas-nav d-flex"
+                        aria-label="toggle mobile menu"
+                        title="open offcanvas menu"
+                      ></button>
+                    </div>
+                  </nav>
+                </div>
+              </div>
+            </div>
+          </div>
+        </header>
+  
+        <div class="offcanvas-nav">
+          <div class="offcanvas-menu">
+            <nav class="offcanvas-menu__wrapper">
+              <div class="offcanvas-menu__header nav-fade">
+                <div class="logo">
+                  <a href="/">
+                    <img
+                      src="/assets/images/logo.png"
+                      alt="Stealth Digital Logo"
+                      title="Stealth Digital"
+                    />
+                  </a>
+                </div>
+                <a
+                  href="javascript:void(0)"
+                  aria-label="close offcanvas menu"
+                  class="close-offcanvas-menu"
+                >
+                  <i class="fa-light fa-xmark-large"></i>
+                </a>
+              </div>
+              <div class="offcanvas-menu__list">
+                <div class="navbar__menu">
+                  <ul>
+                    <li class="navbar__item nav-fade">
+                      <a href="/">Home</a>
+                    </li>
+                    <li class="navbar__item navbar__item--has-children nav-fade">
+                      <a
+                        href="javascript:void(0)"
+                        aria-label="dropdown menu"
+                        class="navbar__dropdown-label"
+                        >Services</a
+                      >
+
+                      <ul class="navbar__sub-menu">
+                        <li>
+                          <a href="../search-engine-marketing.html"
+                            >Search Engine Marketing</a
+                          >
+                        </li>
+                        <li>
+                          <a href="../search-engine-optimization.html"
+                            >Search Engine Optimization</a
+                          >
+                        </li>
+                        <li>
+                          <a href="../content-marketing.html"
+                            >Content Marketing</a
+                          >
+                        </li>
+                        <li>
+                          <a href="../social-media-marketing.html"
+                            >Social Media Marketing</a
+                          >
+                        </li>
+                        <li>
+                          <a href="../website-design-and-development.html"
+                            >Website Design & Development</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="navbar__item nav-fade">
+                      <a href="../about-us.html">About Us</a>
+                    </li>
+                    <li class="navbar__item nav-fade">
+                      <a href="../blog.html">Blogs</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="offcanvas-menu__options nav-fade">
+                <div class="offcanvas__mobile-options d-flex">
+                  <a href="../contact-us.html" class="btn btn--secondary"
+                    >Let's Talk</a
+                  >
+                </div>
+              </div>
+              <div
+                style="
+                  display: flex;
+                  justify-content: space-between;
+                  padding-left: 1.5rem;
+                  flex-wrap: wrap;
+                  gap: 2rem;
+                "
+              >
+                <a href="mailto:rishabh@stealthdigital.in"
+                  >Email : rishabh@stealthdigital.in</a
+                >
+
+                <a href="tel:918700181135">Call Us : 918700181135</a>
+              </div>
+              <div class="offcanvas-menu__social social nav-fade">
+                <a
+                  href="https://www.facebook.com/people/Stealth-Digital-SD/61560966751733/"
+                  target="_blank"
+                  aria-label="share us on facebook"
+                >
+                  <i class="fa-brands fa-facebook-f"></i>
+                </a>
+
+                <a
+                  href="https://www.linkedin.com/company/stealth-digitaly/"
+                  target="_blank"
+                  aria-label="share us on linkedin"
+                >
+                  <i class="fa-brands fa-linkedin-in"></i>
+                </a>
+                <a
+                  href="https://www.instagram.com/digital_marketing_stealth/"
+                  target="_blank"
+                  aria-label="share us on instagram"
+                >
+                  <i class="fa-brands fa-instagram"></i>
+                </a>
+              </div>
+            </nav>
+          </div>
+        </div>
+    <div id="smooth-wrapper">
+      <div id="smooth-content">
+        <main>
+          <!-- ==== banner start ==== -->
+          <section class="cmn-banner bg-img" data-background="/assets/images/banner/cmn-banner-bg.png">
+            <div class="container">
+                <div class="row gaper align-items-center">
+                    <div class="col-12">
+                        <div class="text-center text-lg-start">
+                            <h2 class="title title-anim">How Social Media Can Help Your Restaurant Stand Out in a Crowded Market</h2>
+                            <nav aria-label="breadcrumb">
+                                <ol class="breadcrumb">
+                                    <li class="breadcrumb-item">
+                                        <a href="/">
+                                            <i class="fa-solid fa-house"></i>
+                                            Home
+                                        </a>
+                                    </li>
+                                    <li class="breadcrumb-item">
+                                        <a href="../blog.html">
+                                            <i class="fa-solid fa-book"></i>
+                                            Blog
+                                        </a>
+                                    </li>
+                                    <li class="breadcrumb-item active" aria-current="page">
+                                        <a href="/blog/social-media-marketing-restaurants.html">
+                                            <i class="fa-solid fa-blog"></i>
+                                            How Social Media Can Help Your Restaurant Stand Out in a Crowded Market
+                                        </a>
+                                    </li>
+                                </ol>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+          </section>
+        
+          <!-- ==== / banner end ==== -->
+
+          <!-- ==== blog details start ==== -->
+
+          <section class="section blog-main blog-details fade-wrapper">
+            <div class="container">
+                <div class="row gaper">
+                    <div class="col-12 col-xl-10 m-auto">
+                        <div class="blog-details__content">
+                            <div class="bd-thumb fade-top">
+                                <img src="/assets/images/blog/blog-social-media-restaurants.webp" alt="How Social Media Can Help Your Restaurant Stand Out in a Crowded Market">
+                            </div>
+                            <div class="bd-content">
+                                <div class="bd-meta">
+                                    <div class="meta__left">
+                                        <p><strong style="color: white">Written by:</strong> Stealth Digital</p>
+                                        <span></span>
+                                        <p>27/01/2025</p>
+                                    </div>
+                                </div>
+                                <div class="bd-content-info">
+                                    <h1 class="h4">How Social Media Can Help Your Restaurant Stand Out in a Crowded Market</h1>
+                                    <div class="paragraph">
+                                        <p style="color: #c1c1c1">
+                                            Mastering the restaurant business in the present day bets on something much bigger than just good food and top-class service. Especially in bustling metropolitan areas such as Delhi NCR, restaurants find themselves pampered for choice, with a restaurant available in every corner. While good quality food remains the foundation of any restaurant's success, establishing a strong online presence has become equally crucial.
+                                        </p>
+                                        <p style="color: #c1c1c1">
+                                            In this blog, we will get to know about how social media can help your restaurant rise above the competition in a crowded market and how partnership with the right experts can make a difference.
+                                        </p>
+
+                                        <h2 class="h4">Why Social Media is Crucial for Restaurants</h2>
+                                        <p style="color: #c1c1c1">
+                                            Social media has turned into a wide business practice that enables interaction with customers. It is not just about promotional activities where restaurants are using it now. It builds relationships between people through community based promotion where offerings are showcased. Despite having billions of active users globally on platforms such as Instagram, Facebook, and Twitter, a restaurant can cover a large number of customers on social media and efficiently manage competition.
+                                        </p>
+                                        <p style="color: #c1c1c1">
+                                            Here's how social media can help your restaurant thrive:
+                                        </p>
+
+                                        <h2 class="h4">1. Increase Brand Visibility</h2>
+                                        <p style="color: #c1c1c1">
+                                            With the right social media strategies, you can considerably increase the visibility of your brand over the various platforms. A drooling image of your signature dish on Instagram, or running a special offer on Facebook social media could help you out to reach such a large, diversified audience.
+                                        </p>
+
+                                        <h2 class="h4">2. Building a Community</h2>
+                                        <p style="color: #c1c1c1">
+                                            Restaurant can use social media in a much better and effective way to connect with customers in real-time. A little "comment back" or a reposting of user-generated links or photos in a contest or giveaway could also build a loyal audience around your establishment.
+                                        </p>
+
+                                        <h2 class="h4">3. Customer Reviews and Feedback</h2>
+                                        <p style="color: #c1c1c1">
+                                            Social media sites, such as Facebook and Google Reviews, provide platforms that allow visitors to pen down views for great similarity. The effect of positive reviews is unimaginable when one learns how they can grow customers' interest with thoughtful responses to negative reviews-correctly indicating how serious the brand treats improvement.
+                                        </p>
+
+                                        <h2 class="h4">4. Targeted Advertising</h2>
+                                        <p style="color: #c1c1c1">
+                                            Social network accounts can use such relevant features as targeting tools in connecting the restaurant with an optimal number of potential customers by localization, interests, behavior, and more. Restaurants may contact the food lovers in their locality or may attract customer interest by sharing new deals to people attending nearby events or visiting the nearest business from official accounts.
+                                        </p>
+
+                                        <h2 class="h4">How Stealth Digital Can Help Your Restaurant Stand Out</h2>
+                                        <p style="color: #c1c1c1">
+                                            In the huge ocean of social media, finding your path needs just a good kind of facts. Stealth Digital, with expertise in Social Media Services in Delhi NCR, can provide custom-made Social Media Management Services and SMM Services for Restaurants to boost the online presence of your restaurant. With many years of experience in the digital marketing field, Stealth Digital is ready to provide smart answers that show clear results.
+                                        </p>
+
+                                        <h2 class="h4">Custom Social Media Strategies for Restaurants</h2>
+                                        <p style="color: #c1c1c1">
+                                            According to Stealth Digital, knowing your restaurant's unique selling points is the first step in creating a strong online presence. Whether you have a fine dining status, a casual eatery, or a quick-food chain, they could create a customized approach that speaks to your target market. Their group of experts offers innovative answers, consisting of:
+                                        </p>
+                                        <ol>
+                                            <li><strong>1. Content Creation:</strong> Engaging visuals, videos, and posts that highlight your food, ambiance, and unique dining experiences.</li>
+                                            <li><strong>2. Hashtag Strategy:</strong> Effective use of hashtags to ensure your posts are discoverable by local diners.</li>
+                                            <li><strong>3. Engagement:</strong> Regular interaction with followers, responding to comments, and addressing inquiries promptly.</li>
+                                            <li><strong>4. Promotions:</strong> Designing special offers and giveaways that can be promoted through paid ads or organic posts.</li>
+                                        </ol>
+
+                                        <h2 class="h4 mt-5">Data-Driven Approach</h2>
+                                        <p style="color: #c1c1c1">
+                                            Stealth Digital's <a href="https://www.stealthdigital.in/blog/social-media-business-growth.html" style="color: #fff; text-decoration: underline; target="_blank"">SMM Services in Delhi NCR</a> focus on analyzing your restaurant's social media performance through data-driven insights. Strategies are optimized and engagement, follower growth, and website traffic are monitored for better results over time. This ensures that each campaign is optimized for maximum impact, resulting in increased client traffic, greater brand recognition and more loyal shoppers.
+                                        </p>
+
+                                        <h2 class="h4">The Role of Social Media Management Services</h2>
+                                        <p style="color: #c1c1c1">
+                                            Effective social media management goes far from posting pictures. A systematic approach involves strategic planning, content calendar creation, real time engagement, and analytics. Social Media Management Services by Stealth Digital are designed to relieve you of the time consuming tasks of running your restaurant's social media while ensuring it remains active and engaging.
+                                        </p>
+
+                                        <h2 class="h4 mt-5 mb-3">The SMM Services for Restaurant covers every aspect of social media marketing which includes:</h2>
+                                        <ol>
+                                            <li><strong>1. Profile Optimization:</strong> Keep your social media platforms fully optimized for search engines, with clear branding, appealing bio, and accurate location information.</li>
+                                            <li><strong>2. Content Planning & Creation:</strong> By posting high-quality content that highlights your restaurant's atmosphere, menu items, customer testimonials, and promotions.</li>
+                                            <li><strong>3. Monitoring & Engagement:</strong> Restaurants should keep an eye on customer comments, messages, and reviews and respond in a timely and professional manner.</li>
+                                            <li><strong>4. Advertising Campaigns:</strong> Running targeted ad campaigns that increase foot traffic and bookings, utilizing tools like Facebook Ads and Instagram promotions.</li>
+                                        </ol>
+
+                                        <h2 class="h4 mt-5 mb-3">Why Choose Stealth Digital for Your Restaurant's SMM Services?</h2>
+                                        <p style="color: #c1c1c1">
+                                            Stealth Digital distinguishes itself in the digital marketing arena through its systematic and results-oriented methodology. Here are the reasons why their <a href="https://www.stealthdigital.in/social-media-marketing.html" style="color: #fff; text-decoration: underline; target="_blank">SMM Services in Delhi NCR</a> are ideally suited for your restaurant:
+                                        </p>
+                                        <ol>
+                                            <li><strong>1. Expertise in Restaurant Marketing:</strong> Stealth Digital highlights the unique challenges and opportunities that exist in the restaurant industry. Their expertise lies in presenting your menu, setting up, and overall customer service to increase customer turn-over.</li>
+                                            <li><strong>2. Local Focus:</strong> Stealth Digital is based in Delhi NCR and has a reputation for devising effective hyper-local strategies to attract traffic from the surrounding area. These restaurants aid in capitalizing on the vibrant local food scene and strengthening their community connections.</li>
+                                            <li><strong>3. Data-Driven Results:</strong> Stealth Digital's use of advanced analytics tools enables them to monitor the performance of every campaign, driving action. They prioritize measurable outcomes to ensure that your restaurant's marketing budget is being spent effectively.</li>
+                                            <li><strong>4. Comprehensive Digital Marketing Services:</strong> Besides social media, Stealth Digital offers comprehensive <a href="https://www.stealthdigital.in/search-engine-marketing.html" style="color: #fff; text-decoration: underline; target="_blank">digital marketing services</a> that include SEO and paid advertising, as well as website design and development.</li>
+                                        </ol>
+
+                                        <h2 class="h4 mt-5 mb-3">Conclusion</h2>
+                                        <p style="color: #c1c1c1">
+                                            In a crowded restaurant space, social media is no longer a luxury, it's a must have. Whether you want to increase brand visibility, engage with customers or drive traffic to your restaurant, a social media strategy is mandatory. Partner with Stealth Digital for Social Media Management Services and make your restaurant stand out in the Delhi NCR food scene. With our expertise and data driven approach your restaurant will not only survive but thrive in this digital age.
+                                        </p>
+                                        <p style="color: #c1c1c1">
+                                            If you're ready to take your restaurant's social media presence to the next level, contact Stealth Digital today and discover how their SMM Services for Restaurants can help you grow and succeed.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bd-tags">
+                                <div class="tags-right">
+                                    <p>Share:</p>
+                                    <ul class="social">
+                                        <li>
+                                            <a href="javascript:void(0);" onclick="shareOnFacebook()" aria-label="Share on Facebook" title="Share on Facebook">
+                                                <i class="fa-brands fa-facebook"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);" onclick="shareOnLinkedIn()" aria-label="Share on LinkedIn" title="Share on LinkedIn">
+                                                <i class="fa-brands fa-linkedin"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);" onclick="shareOnInstagram()" aria-label="Share on Instagram" title="Share on Instagram">
+                                                <i class="fa-brands fa-instagram"></i>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+          <!-- ==== / blog details end ==== -->
+        </main>
+        <!-- ==== footer start ==== -->
+        <footer
+          class="footer section pb-0"
+          data-background="/assets/images/footer/footer-bg.png"
+        >
+          <div class="container">
+            <div class="row gaper">
+              <div class="col-12 col-lg-5 col-xl-6">
+                <div class="footer__single">
+                  <a href="/" class="logo">
+                    <img
+                      src="/assets/images/logo.png"
+                      alt="Stealth Digital Logo"
+                    />
+                  </a>
+                  <div class="footer__single-meta">
+                    <a
+                      href="https://maps.app.goo.gl/V4wAodQUjrUmepMMA"
+                      target="_blank"
+                    >
+                      <i class="fa-sharp fa-solid fa-location-dot"></i>
+                      304, Best Sky Tower, Netaji Subhash Place, Pitampura,
+                      Delhi, 110034
+                    </a>
+                    <a href="tel:918700181135">
+                      <i class="fa-sharp fa-solid fa-phone-volume"></i>
+                      918700181135
+                    </a>
+                    <a href="mailto:rishabh@stealthdigital.in">
+                      <i class="fa-sharp fa-solid fa-envelope"></i>
+                      rishabh@stealthdigital.in
+                    </a>
+                  </div>
+                  <div class="footer__cta text-start">
+                    <a href="../contact-us.html" class="btn btn--secondary"
+                      >Book an appointment</a
+                    >
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-12 col-lg-2 col-xl-2">
+                <div class="footer__single">
+                  <div class="footer__single-intro">
+                    <h5>Discover</h5>
+                  </div>
+                  <div class="footer__single-content">
+                    <ul>
+                      <li><a href="/">Home</a></li>
+                      <li><a href="../about-us.html">About Us</a></li>
+                      <li>
+                        <a href="../search-engine-marketing.html">Services</a>
+                      </li>
+                      <li><a href="../blog.html">Blogs</a></li>
+                      <li><a href="../contact-us.html">Contact Us</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-12 col-lg-5 col-xl-4">
+                <div class="footer__single">
+                  <div class="footer__single-intro">
+                    <h5>Subscribe to Our Newsletter</h5>
+                  </div>
+                  <div class="footer__single-content">
+                    <p>
+                      Stay updated with the latest digital marketing trends and
+                      strategies. Subscribe to our newsletter for insights and
+                      tips.
+                    </p>
+                    <div class="footer__single-form">
+                      <form id="newsletterForm" action="#" method="post">
+                        <div class="input-email">
+                          <input
+                            type="email"
+                            name="subscribe-news"
+                            id="subscribeNews"
+                            placeholder="Enter Your Email"
+                            required
+                          />
+                          <button type="submit" class="subscribe">
+                            <i class="fa-sharp fa-solid fa-paper-plane"></i>
+                          </button>
+                        </div>
+                        <!-- Thank you message -->
+                        <div
+                          id="thankYouMessage"
+                          style="display: none; margin-top: 10px"
+                        >
+                          Thank you for subscribing!
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-12">
+                <div class="footer__copyright">
+                  <div class="row align-items-center gaper">
+                    <div class="col-12 col-lg-8">
+                      <div
+                        class="footer__copyright-text text-center text-lg-start"
+                      >
+                        <p>
+                          Copyright &copy;
+                          <span id="copyYear"></span>
+                          by Stealth Digital. All Rights Reserved
+                        </p>
+                      </div>
+                    </div>
+                    <div class="col-12 col-lg-4">
+                      <div
+                        class="social justify-content-center justify-content-lg-end"
+                      >
+                        <a
+                          href="https://www.facebook.com/people/Stealth-Digital-SD/61560966751733/"
+                          target="_blank"
+                        >
+                          <i class="fa-brands fa-facebook-f"></i>
+                        </a>
+                        <a
+                          href="https://www.linkedin.com/company/stealth-digitaly/"
+                          target="_blank"
+                        >
+                          <i class="fa-brands fa-linkedin-in"></i>
+                        </a>
+                        <a
+                          href="https://www.instagram.com/digital_marketing_stealth/"
+                          target="_blank"
+                        >
+                          <i class="fa-brands fa-instagram"></i>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </footer>
+        <!-- ==== / footer end ==== -->
+      </div>
+    </div>
+    <!-- ==== scroll to top start ==== -->
+    <button
+      class="progress-wrap"
+      aria-label="scroll indicator"
+      title="go to top"
+    >
+      <span></span>
+      <svg
+        class="progress-circle svg-content"
+        width="100%"
+        height="100%"
+        viewBox="-1 -1 102 102"
+      >
+        <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+      </svg>
+    </button>
+    <!-- ==== / scroll to top end ==== -->
+
+    <!-- ==== js dependencies start ==== -->
+    <!-- jquery -->
+    <script src="/assets/vendor/jquery/jquery-3.7.0.min.js"></script>
+    <!-- bootstrap five js -->
+    <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- nice select js -->
+    <script src="/assets/vendor/nice-select/js/jquery.nice-select.min.js"></script>
+    <!-- magnific popup js -->
+    <script src="/assets/vendor/magnific-popup/js/jquery.magnific-popup.min.js"></script>
+    <!-- slick js -->
+    <script src="/assets/vendor/slick/js/slick.min.js"></script>
+    <!-- image loaded js -->
+    <script src="/assets/vendor/images-loaded/imagesloaded.pkgd.min.js"></script>
+    <!-- isotope js -->
+    <script src="/assets/vendor/isotope/isotope.pkgd.min.js"></script>
+    <!-- chroma js -->
+    <script src="/assets/vendor/gsap/chroma.min.js"></script>
+    <!-- splittext js -->
+    <script src="/assets/vendor/gsap/SplitText.min.js"></script>
+    <!-- scrollsmoother js -->
+    <script src="/assets/vendor/gsap/ScrollSmoother.min.js"></script>
+    <!-- scrollto js -->
+    <script src="/assets/vendor/gsap/ScrollToPlugin.min.js"></script>
+    <!-- scrolltrigger js -->
+    <script src="/assets/vendor/gsap/ScrollTrigger.min.js"></script>
+    <!-- gsap js -->
+    <script src="/assets/vendor/gsap/gsap.min.js"></script>
+    <!-- vanilla tilt js -->
+    <script src="/assets/vendor/vanilla-tilt/tilt.jquery.js"></script>
+    <!-- ==== / js dependencies end ==== -->
+    <!-- plugins js -->
+    <script src="/assets/js/plugins.js"></script>
+    <!-- main js -->
+    <script src="/assets/js/main.js"></script>
+
+    <!-- function for the shareable link of social media handles -->
+    <script>
+      // URL to be shared
+      const blogUrl =
+        "https://www.stealthdigital.in/blog/social-media-marketing-restaurants.html";
+
+      // Function for sharing on Facebook
+      function shareOnFacebook() {
+        const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
+          blogUrl
+        )}`;
+        window.open(facebookUrl, "_blank", "width=600,height=400");
+      }
+
+      // Function for sharing on LinkedIn
+      function shareOnLinkedIn() {
+        const linkedinUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(
+          blogUrl
+        )}`;
+        window.open(linkedinUrl, "_blank", "width=600,height=400");
+      }
+
+      // Function for Instagram (Copy to Clipboard)
+      function shareOnInstagram() {
+        if (navigator.clipboard) {
+          navigator.clipboard
+            .writeText(blogUrl)
+            .then(function () {
+              alert(
+                "Blog URL copied to clipboard. You can paste it in your Instagram bio or Stories."
+              );
+            })
+            .catch(function (err) {
+              console.error("Failed to copy text: ", err);
+              alert("Oops! Something went wrong while copying the URL.");
+            });
+        } else {
+          console.error("Clipboard API is not supported by this browser.");
+          alert(
+            "Your browser does not support the Clipboard API. Please copy the URL manually."
+          );
+        }
+      }
+    </script>
+  </body>
+</html>

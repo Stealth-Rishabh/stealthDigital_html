@@ -1,0 +1,1753 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- required meta -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- #favicon -->
+    <link
+      rel="shortcut icon"
+      href="assets/images/favicon.png"
+      type="image/x-icon"
+    />
+    <!-- #title -->
+    <title>Blogs | Stealth Digital</title>
+    <!-- #keywords -->
+    <meta name="keywords" content="creative, agency, portfolio" />
+    <!-- #description -->
+    <meta
+      name="description"
+      content="Creative Agency Portfolio HTML5 Template"
+    />
+
+    <link rel="canonical" href="https://www.stealthdigital.in/blog.html" />
+    <!-- ==== css dependencies start ==== -->
+    <!-- bootstrap five css -->
+    <link
+      rel="stylesheet"
+      href="assets/vendor/bootstrap/css/bootstrap.min.css"
+    />
+    <!-- glyphter css -->
+    <link rel="stylesheet" href="assets/vendor/glyyphter/css/xpovio.css" />
+    <!-- font awesome six css -->
+    <link rel="stylesheet" href="assets/vendor/font-awesome/css/all.css" />
+    <!-- nice select css -->
+    <link
+      rel="stylesheet"
+      href="assets/vendor/nice-select/css/nice-select.css"
+    />
+    <!-- magnific popup css -->
+    <link
+      rel="stylesheet"
+      href="assets/vendor/magnific-popup/css/magnific-popup.css"
+    />
+    <!-- slick css -->
+    <link rel="stylesheet" href="assets/vendor/slick/css/slick.css" />
+    <!-- ==== / css dependencies end ==== -->
+    <!-- main css -->
+    <link rel="stylesheet" href="assets/css/main.min.css" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Stealth Digital",
+        "url": "https://www.stealthdigital.in/",
+        "logo": "https://www.stealthdigital.in/assets/images/logo.png",
+        "sameAs": [
+          "https://www.facebook.com/StealthDigital.SD/",
+          "https://www.instagram.com/digital_marketing_stealth/",
+          "https://www.linkedin.com/company/stealth-digitaly/"
+        ]
+      }
+    </script>
+  </head>
+
+  <body>
+    <!--[if lte IE 9]>
+      <p class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="https://browsehappy.com/">upgrade your browser</a> to improve
+        your experience and security.
+      </p>
+    <![endif]-->
+    <div class="top-strip">
+      <div class="container">
+        <a href="tel:918700181135" class="top-strip-item">
+          <i class="fa-solid fa-phone-volume"></i> 918700181135
+        </a>
+
+        <a href="mailto:rishabh@stealthdigital.in" class="top-strip-item">
+          <i class="fa-solid fa-envelope"></i> rishabh@stealthdigital.in
+        </a>
+      </div>
+    </div>
+    <div class="my-app">
+      <!-- ==== preloader start ==== -->
+      <div id="preloader">
+        <div id="loader"></div>
+      </div>
+      <!-- ==== / preloader end ==== -->
+      <!-- ==== mouse cursor drag start ==== -->
+      <div class="mouseCursor cursor-outer"></div>
+      <div class="mouseCursor cursor-inner">
+        <span>Drag</span>
+      </div>
+      <!-- ==== / mouse cursor drag end ==== -->
+      <!-- ==== header start ==== -->
+      <header class="header">
+        <div class="primary-navbar secondary--navbar">
+          <div class="container">
+            <div class="row">
+              <div class="col-12">
+                <nav class="navbar p-0">
+                  <div class="navbar__logo">
+                    <a href="/" aria-label="go to home">
+                      <img
+                        src="assets/images/logo.png"
+                        alt="Stealth Digital Logo"
+                      />
+                    </a>
+                  </div>
+                  <div class="navbar__options">
+                    <div class="navbar__menu">
+                      <ul>
+                        <li class="navbar__item">
+                          <a href="/">Home</a>
+                        </li>
+                        <li class="navbar__item">
+                          <a href="about-us.html">About Us</a>
+                        </li>
+                        <li
+                          class="navbar__item navbar__item--has-children nav-fade"
+                        >
+                          <a
+                            href="javascript:void(0)"
+                            aria-label="dropdown menu"
+                            class="navbar__dropdown-label"
+                            >Services</a
+                          >
+                          <ul class="navbar__sub-menu">
+                            <li>
+                              <a href="search-engine-marketing.html"
+                                >Search Engine Marketing</a
+                              >
+                            </li>
+                            <li>
+                              <a href="search-engine-optimization.html"
+                                >Search Engine Optimization</a
+                              >
+                            </li>
+                            <li>
+                              <a href="social-media-marketing.html"
+                                >Social Media Marketing</a
+                              >
+                            </li>
+                            <li>
+                              <a href="content-marketing.html"
+                                >Content Marketing</a
+                              >
+                            </li>
+                            <li>
+                              <a href="website-design-and-development.html"
+                                >Website Design & Development</a
+                              >
+                            </li>
+                          </ul>
+                        </li>
+                        <li class="navbar__item"><a href="">Blogs</a></li>
+                        <li class="navbar__item">
+                          <a href="contact-us.html">Contact Us</a>
+                        </li>
+                      </ul>
+                    </div>
+                    <button
+                      class="open-offcanvas-nav d-flex"
+                      aria-label="toggle mobile menu"
+                      title="open offcanvas menu"
+                    ></button>
+                  </div>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <div class="offcanvas-nav">
+        <div class="offcanvas-menu">
+          <nav class="offcanvas-menu__wrapper">
+            <div class="offcanvas-menu__header nav-fade">
+              <div class="logo">
+                <a href="/">
+                  <img
+                    src="assets/images/logo.png"
+                    alt="Stealth Digital Logo"
+                    title="Stealth Digital"
+                  />
+                </a>
+              </div>
+              <a
+                href="javascript:void(0)"
+                aria-label="close offcanvas menu"
+                class="close-offcanvas-menu"
+              >
+                <i class="fa-light fa-xmark-large"></i>
+              </a>
+            </div>
+            <div class="offcanvas-menu__list">
+              <div class="navbar__menu">
+                <ul>
+                  <li class="navbar__item nav-fade">
+                    <a href="/">Home</a>
+                  </li>
+                  <li class="navbar__item navbar__item--has-children nav-fade">
+                    <a
+                      href="javascript:void(0)"
+                      aria-label="dropdown menu"
+                      class="navbar__dropdown-label"
+                      >Services</a
+                    >
+
+                    <ul class="navbar__sub-menu">
+                      <li>
+                        <a href="search-engine-marketing.html"
+                          >Search Engine Marketing</a
+                        >
+                      </li>
+                      <li>
+                        <a href="search-engine-optimization.html"
+                          >Search Engine Optimization</a
+                        >
+                      </li>
+                      <li>
+                        <a href="content-marketing.html">Content Marketing</a>
+                      </li>
+                      <li>
+                        <a href="social-media-marketing.html"
+                          >Social Media Marketing</a
+                        >
+                      </li>
+                      <li>
+                        <a href="website-design-and-development.html"
+                          >Website Design & Development</a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="navbar__item nav-fade">
+                    <a href="about-us.html">About Us</a>
+                  </li>
+                  <li class="navbar__item nav-fade">
+                    <a href="blog.html">Blogs</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="offcanvas-menu__options nav-fade">
+              <div class="offcanvas__mobile-options d-flex">
+                <a href="contact-us.html" class="btn btn--secondary"
+                  >Let's Talk</a
+                >
+              </div>
+            </div>
+            <div
+              style="
+                display: flex;
+                justify-content: space-between;
+                padding-left: 1.5rem;
+                flex-wrap: wrap;
+                gap: 2rem;
+              "
+            >
+              <a href="mailto:rishabh@stealthdigital.in"
+                >Email : rishabh@stealthdigital.in</a
+              >
+
+              <a href="tel:918700181135">Call Us : 918700181135</a>
+            </div>
+            <div class="offcanvas-menu__social social nav-fade">
+              <a
+                href="https://www.facebook.com/people/Stealth-Digital-SD/61560966751733/"
+                target="_blank"
+                aria-label="share us on facebook"
+              >
+                <i class="fa-brands fa-facebook-f"></i>
+              </a>
+
+              <a
+                href="https://www.linkedin.com/company/stealth-digitaly/"
+                target="_blank"
+                aria-label="share us on linkedin"
+              >
+                <i class="fa-brands fa-linkedin-in"></i>
+              </a>
+              <a
+                href="https://www.instagram.com/digital_marketing_stealth/"
+                target="_blank"
+                aria-label="share us on instagram"
+              >
+                <i class="fa-brands fa-instagram"></i>
+              </a>
+            </div>
+          </nav>
+        </div>
+      </div>
+      <!-- ==== / header end ==== -->
+      <div id="smooth-wrapper">
+        <div id="smooth-content">
+          <!-- ==== main start ==== -->
+          <main>
+            <!-- ==== banner start ==== -->
+            <section
+              class="cmn-banner bg-img"
+              data-background="assets/images/banner/cmn-banner-bg.png"
+            >
+              <div class="container">
+                <div class="row gaper align-items-center">
+                  <div class="col-12 col-lg-5 col-xl-7">
+                    <div class="text-center text-lg-start">
+                      <h2 class="title title-anim">Blogs</h2>
+                      <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                          <li class="breadcrumb-item">
+                            <a href="/">
+                              <i class="fa-solid fa-house"></i>
+                              Home
+                            </a>
+                          </li>
+                          <li
+                            class="breadcrumb-item active"
+                            aria-current="page"
+                          >
+                            <i class="fa-solid fa-book me-1"></i>
+                            Blogs
+                          </li>
+                        </ol>
+                      </nav>
+                    </div>
+                  </div>
+                  <div class="col-12 col-lg-7 col-xl-5">
+                    <div class="text-center text-lg-start">
+                      <p class="primary-text">
+                        Browse through our latest blog posts and articles, where
+                        our team shares insights, tips and knowledge on digital
+                        marketing, web development and design.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <!-- ==== / banner end ==== -->
+            <!-- ==== blog section start ==== -->
+            <section class="section blog-main fade-wrapper">
+              <div class="container">
+                <div class="row gaper">
+                  <div class="col-12 col-xl-10 m-auto">
+                    <div class="blog-main__content">
+                      <div class="blog-main__single fade-top">
+                        <div class="thumb">
+                          <div class="thumb-link">
+                            <a href="/blog/seo-for-skin-care-clinic.html">
+                              <img
+                                src="assets/images/blog/blog-skin-care.webp"
+                                alt="Image"
+                              />
+                            </a>
+                          </div>
+                          <div class="meta">
+                            <div class="meta__left">
+                              <p>
+                                <strong>Written by :</strong>
+                                Stealth Digital
+                              </p>
+                              <span></span>
+                              <p>10/09/2024</p>
+                            </div>
+                            <div class="meta__right">
+                              <a href="">SEO</a>
+                              <a href="">Marketing</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="content">
+                          <h4 class="h4">
+                            <a href="/blog/seo-for-skin-care-clinic.html">
+                              From Zero to Hero: Step-by-Step SEO for Skin Care
+                              Clinics
+                            </a>
+                          </h4>
+                          <p>
+                            Discover how to boost your skincare clinic's
+                            visibility with effective SEO strategies. Learn how
+                            Stealth Digital can help attract more patients,
+                            establish credibility, and grow your business
+                            online.
+                          </p>
+                          <div class="cta">
+                            <a href="/blog/seo-for-skin-care-clinic.html">
+                              <i class="fa-sharp fa-regular fa-arrow-right"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="blog-main__single fade-top">
+                        <div class="thumb">
+                          <div class="thumb-link">
+                            <a href="/blog/seo-for-restaurant.html">
+                              <img
+                                src="assets/images/blog/blog-seo-res.webp"
+                                alt="Image"
+                              />
+                            </a>
+                          </div>
+                          <div class="meta">
+                            <div class="meta__left">
+                              <p>
+                                <strong>Written by :</strong>
+                                Stealth Digital
+                              </p>
+                              <span></span>
+                              <p>16/08/2024</p>
+                            </div>
+                            <div class="meta__right">
+                              <a href="">SEO</a>
+                              <a href="">Marketing</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="content">
+                          <h4 class="h4">
+                            <a href="/blog/seo-for-restaurant.html">
+                              Choosing the Right SEO Agency for Your Restaurant
+                              Business: Key Factors to Consider
+                            </a>
+                          </h4>
+                          <p>
+                            Learn how to grow your restaurant business with
+                            effective SEO strategies. Discover key factors to
+                            consider when choosing an SEO agency in Delhi NCR
+                            and how Stealth Digital can help your restaurant
+                            achieve online success.
+                          </p>
+                          <div class="cta">
+                            <a href="/blog/seo-for-restaurant.html">
+                              <i class="fa-sharp fa-regular fa-arrow-right"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="blog-main__single fade-top">
+                        <div class="thumb">
+                          <div class="thumb-link">
+                            <a
+                              href="/blog/social-media-for-skin-care-business.html"
+                            >
+                              <img
+                                src="assets/images/blog/blog-smm-skin-care-clinic.webp"
+                                alt="Social Media for Skincare Business"
+                              />
+                            </a>
+                          </div>
+                          <div class="meta">
+                            <div class="meta__left">
+                              <p>
+                                <strong>Written by :</strong>
+                                Stealth Digital
+                              </p>
+                              <span></span>
+                              <p>01/10/2024</p>
+                            </div>
+                            <div class="meta__right">
+                              <a href="">Social Media</a>
+                              <a href="">Skincare</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="content">
+                          <h4 class="h4">
+                            <a
+                              href="/blog/social-media-for-skin-care-business.html"
+                            >
+                              How Can Social Media Help Your Skincare Business
+                              Grow Faster?
+                            </a>
+                          </h4>
+                          <p>
+                            Discover how to leverage social media for your
+                            skincare business growth. Learn key strategies to
+                            boost engagement, increase brand awareness, and
+                            drive sales through effective social media marketing
+                            with Stealth Digital.
+                          </p>
+                          <div class="cta">
+                            <a
+                              href="blog/social-media-for-skin-care-business.html"
+                            >
+                              <i class="fa-sharp fa-regular fa-arrow-right"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                      <!-- 4th blog -->
+                      <div class="blog-main__single fade-top">
+                        <div class="thumb">
+                          <div class="thumb-link">
+                            <a href="/blog/social-media-business-growth.html">
+                              <img
+                                src="assets/images/blog/blog-social-media-business-growth.webp"
+                                alt="How Stealth Digital Can Help Your Business Thrive on Social Media"
+                              />
+                            </a>
+                          </div>
+                          <div class="meta">
+                            <div class="meta__left">
+                              <p>
+                                <strong>Written by :</strong>
+                                Stealth Digital
+                              </p>
+                              <span></span>
+                              <p>15/10/2024</p>
+                            </div>
+                            <div class="meta__right">
+                              <a href="">Social Media</a>
+                              <a href="">Business Growth</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="content">
+                          <h4 class="h4">
+                            <a href="/blog/social-media-business-growth.html">
+                              How Stealth Digital Can Help Your Business Thrive
+                              on Social Media ?
+                            </a>
+                          </h4>
+                          <p>
+                            Explore how social media can boost your business
+                            growth with Stealth Digital. Discover strategies for
+                            increasing engagement, brand identity, and sales
+                            across social platforms.
+                          </p>
+                          <div class="cta">
+                            <a href="/blog/social-media-business-growth.html">
+                              <i class="fa-sharp fa-regular fa-arrow-right"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                      <!-- 5th blog -->
+                      <div class="blog-main__single fade-top">
+                        <div class="thumb">
+                          <div class="thumb-link">
+                            <a href="/blog/sem-for-business-growth.html">
+                              <img
+                                src="assets/images/blog/blog-sem-business-growth.webp"
+                                alt="Stealth Digital SEM Strategies: How Search Engine Marketing Drives Success"
+                              />
+                            </a>
+                          </div>
+                          <div class="meta">
+                            <div class="meta__left">
+                              <p>
+                                <strong>Written by :</strong>
+                                Stealth Digital
+                              </p>
+                              <span></span>
+                              <p>15/10/2024</p>
+                            </div>
+                            <div class="meta__right">
+                              <a href="">Search Engine Marketing</a>
+                              <a href="">Business Growth</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="content">
+                          <h4 class="h4">
+                            <a href="/blog/sem-for-business-growth.html">
+                              Stealth Digital SEM Strategies: How Search Engine
+                              Marketing Drives Success?
+                            </a>
+                          </h4>
+                          <p>
+                            Discover the power of Search Engine Marketing (SEM)
+                            with Stealth Digital. Learn how our SEM strategies
+                            can drive success for your business by increasing
+                            online visibility, generating quality leads, and
+                            boosting conversions.
+                          </p>
+                          <div class="cta">
+                            <a href="/blog/sem-for-business-growth.html">
+                              <i class="fa-sharp fa-regular fa-arrow-right"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                      <!-- Add this new blog entry after the existing blog entries -->
+                      <div class="blog-main__single fade-top">
+                        <div class="thumb">
+                          <div class="thumb-link">
+                            <a
+                              href="/blog/what-is-sem-and-how-it-grows-your-business.html"
+                            >
+                              <img
+                                src="assets/images/blog/blog-what-is-sem.webp"
+                                alt="Stealth Digital Explains: What is SEM and How It Can Grow Your Business"
+                              />
+                            </a>
+                          </div>
+                          <div class="meta">
+                            <div class="meta__left">
+                              <p>
+                                <strong>Written by :</strong>
+                                Stealth Digital
+                              </p>
+                              <span></span>
+                              <p>20/10/2024</p>
+                            </div>
+                            <div class="meta__right">
+                              <a href="">Search Engine Marketing</a>
+                              <a href="">Business Growth</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="content">
+                          <h4 class="h4">
+                            <a
+                              href="/blog/what-is-sem-and-how-it-grows-your-business.html"
+                            >
+                              Stealth Digital Explains: What is SEM and How It
+                              Can Grow Your Business
+                            </a>
+                          </h4>
+                          <p>
+                            Discover the power of Search Engine Marketing (SEM)
+                            with Stealth Digital. Learn what SEM is and how it
+                            can significantly improve your company's online
+                            visibility, attract more customers, and boost sales
+                            in today's technology-driven business world.
+                          </p>
+                          <div class="cta">
+                            <a
+                              href="/blog/what-is-sem-and-how-it-grows-your-business.html"
+                            >
+                              <i class="fa-sharp fa-regular fa-arrow-right"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                      <!-- Add this new blog entry after the existing blog entries -->
+                      <div class="blog-main__single fade-top">
+                        <div class="thumb">
+                          <div class="thumb-link">
+                            <a
+                              href="/blog/why-every-business-needs-digital-marketing-services.html"
+                            >
+                              <img
+                                src="assets/images/blog/blog-digital-marketing-services.webp"
+                                alt="Why Every Business Needs Digital Marketing Services – Insights from Stealth Digital"
+                              />
+                            </a>
+                          </div>
+                          <div class="meta">
+                            <div class="meta__left">
+                              <p>
+                                <strong>Written by :</strong>
+                                Stealth Digital
+                              </p>
+                              <span></span>
+                              <p>25/10/2024</p>
+                            </div>
+                            <div class="meta__right">
+                              <a href="">Digital Marketing</a>
+                              <a href="">Business Growth</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="content">
+                          <h4 class="h4">
+                            <a
+                              href="/blog/why-every-business-needs-digital-marketing-services.html"
+                            >
+                              Why Every Business Needs Digital Marketing
+                              Services – Insights from Stealth Digital
+                            </a>
+                          </h4>
+                          <p>
+                            Discover why digital marketing services are
+                            essential for business growth in today's online
+                            world. Learn about the power of digital marketing,
+                            its cost-effectiveness, measurable results, and how
+                            Stealth Digital can help your business thrive in the
+                            digital landscape.
+                          </p>
+                          <div class="cta">
+                            <a
+                              href="/blog/why-every-business-needs-digital-marketing-services.html"
+                            >
+                              <i class="fa-sharp fa-regular fa-arrow-right"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="blog-main__single fade-top">
+                        <div class="thumb">
+                          <div class="thumb-link">
+                            <a
+                              href="/blog/digital-marketing-services-small-large-businesses.html"
+                            >
+                              <img
+                                src="assets/images/blog/blog-digital-marketing-guide.webp"
+                                alt="Digital Marketing Services for Small and Large Businesses – Stealth Digital Guide"
+                              />
+                            </a>
+                          </div>
+                          <div class="meta">
+                            <div class="meta__left">
+                              <p>
+                                <strong>Written by :</strong>
+                                Stealth Digital
+                              </p>
+                              <span></span>
+                              <p>30/10/2024</p>
+                            </div>
+                            <div class="meta__right">
+                              <a href="">Digital Marketing</a>
+                              <a href="">Business Growth</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="content">
+                          <h4 class="h4">
+                            <a
+                              href="/blog/digital-marketing-services-small-large-businesses.html"
+                            >
+                              Digital Marketing Services for Small and Large
+                              Businesses – Stealth Digital Guide
+                            </a>
+                          </h4>
+                          <p>
+                            Discover how Stealth Digital's tailored digital
+                            marketing services help small and large businesses
+                            in Delhi NCR achieve growth and enhance online
+                            visibility. Learn about our comprehensive range of
+                            services including SEO, PPC, social media marketing,
+                            and more.
+                          </p>
+                          <div class="cta">
+                            <a
+                              href="/blog/digital-marketing-services-small-large-businesses.html"
+                            >
+                              <i class="fa-sharp fa-regular fa-arrow-right"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <!-- Add this new blog entry after the previous one -->
+                      <div class="blog-main__single fade-top">
+                        <div class="thumb">
+                          <div class="thumb-link">
+                            <a
+                              href="/blog/real-estate-website-development.html"
+                            >
+                              <img
+                                src="assets/images/blog/blog-real-estate-website-development.webp"
+                                alt="Why Real Estate Businesses Need Top-Notch Website Development Services"
+                              />
+                            </a>
+                          </div>
+                          <div class="meta">
+                            <div class="meta__left">
+                              <a
+                                href="/blog/real-estate-website-development.html"
+                                >Real Estate Website Development</a
+                              >
+                            </div>
+                            <h4 class="h4">
+                              Why Real Estate Businesses Need Top-Notch Website
+                              Development Services
+                            </h4>
+                            <p>
+                              An effective web presence is essential for
+                              everyone in real estate. A well-designed website
+                              can make or break a career, regardless of business
+                              size. In today's tech era, most buyers and
+                              investors research properties online before
+                              contacting realtors.
+                            </p>
+                            <div class="cta">
+                              <a
+                                href="/blog/real-estate-website-development.html"
+                              >
+                                <i
+                                  class="fa-sharp fa-regular fa-arrow-right"
+                                ></i>
+                              </a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="blog-main__single fade-top">
+                        <div class="thumb">
+                          <div class="thumb-link">
+                            <a
+                              href="/blog/professional-website-development-services-delhi-ncr.html"
+                            >
+                              <img
+                                src="assets/images/blog/blog-professional-website-development-services-delhi-ncr.webp"
+                                alt="Professional Website Development Services for Your Business in Delhi NCR"
+                              />
+                            </a>
+                          </div>
+                          <div class="meta">
+                            <div class="meta__left">
+                              <p>
+                                <strong>Written by:</strong> Stealth Digital
+                              </p>
+                              <span></span>
+                              <p>08/11/2024</p>
+                            </div>
+                            <div class="meta__right">
+                              <a href="">Website Development</a>
+                              <a href="">Delhi NCR</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="content">
+                          <h4 class="h4">
+                            <a
+                              href="/blog/professional-website-development-services-delhi-ncr.html"
+                            >
+                              Professional Website Development Services for Your
+                              Business in Delhi NCR
+                            </a>
+                          </h4>
+                          <p>
+                            In the current technology environment, one must
+                            possess a sleek and professional website to expand
+                            and excel your business. Your website is usually the
+                            first point of contact with new potential customers
+                            making it very important to create a good
+                            impression.
+                          </p>
+                          <div class="cta">
+                            <a
+                              href="/blog/professional-website-development-services-delhi-ncr.html"
+                            >
+                              <i class="fa-sharp fa-regular fa-arrow-right"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                      <!-- New blog entry added here -->
+                      <div class="blog-main__single fade-top">
+                        <div class="thumb">
+                          <div class="thumb-link">
+                            <a
+                              href="/blog/maximise-your-reach-with-seo-strategies.html"
+                            >
+                              <img
+                                src="assets/images/blog/blog-seo-strategies.webp"
+                                alt="Maximise Your Reach with Our Proven SEO Strategies"
+                              />
+                            </a>
+                          </div>
+                          <div class="meta">
+                            <div class="meta__left">
+                              <p>
+                                <strong>Written by:</strong> Stealth Digital
+                              </p>
+                              <span></span>
+                              <p>20/11/2024</p>
+                            </div>
+                            <div class="meta__right">
+                              <a href="">SEO</a>
+                              <a href="">Digital Marketing</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="content">
+                          <h4 class="h4">
+                            <a
+                              href="/blog/maximise-your-reach-with-seo-strategies.html"
+                            >
+                              Maximise Your Reach with Our Proven SEO Strategies
+                            </a>
+                          </h4>
+                          <p>
+                            In the current digital age where almost everyone has
+                            access to the internet, it is not sufficient for a
+                            business just to have a website. It also needs to be
+                            successful and have easy reach. Search engine
+                            optimization (SEO) presents itself as the enduring
+                            foundation for the establishment of such visibility.
+                            It helps to ensure that one's brand is presented to
+                            prospective customers at the very moment when such
+                            customers are in need of solutions. Engaging the
+                            appropriate SEO services can make all the difference
+                            especially in the case of a place such as Delhi NCR
+                            which has a very large and complex market that needs
+                            local know-how and many strategists. This is the
+                            reason why Stealth Digital's SEO services in Delhi
+                            NCR will take your business to the next level.
+                          </p>
+                          <div class="cta">
+                            <a
+                              href="/blog/maximise-your-reach-with-seo-strategies.html"
+                            >
+                              <i class="fa-sharp fa-regular fa-arrow-right"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                      <!-- New blog entry added here -->
+                      <div class="blog-main__single fade-top">
+                        <div class="thumb">
+                          <div class="thumb-link">
+                            <a
+                              href="/blog/best-ppc-services-agency-delhi-ncr.html"
+                            >
+                              <img
+                                src="assets/images/blog/blog-ppc-services.webp"
+                                alt="Best PPC Services Agency in Delhi NCR for Every Business Need"
+                              />
+                            </a>
+                          </div>
+                          <div class="meta">
+                            <div class="meta__left">
+                              <p>
+                                <strong>Written by:</strong> Stealth Digital
+                              </p>
+                              <span></span>
+                              <p>25/11/2024</p>
+                            </div>
+                            <div class="meta__right">
+                              <a href="">PPC</a>
+                              <a href="">Digital Marketing</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="content">
+                          <h4 class="h4">
+                            <a
+                              href="/blog/best-ppc-services-agency-delhi-ncr.html"
+                            >
+                              Best PPC Services Agency in Delhi NCR for Every
+                              Business Need
+                            </a>
+                          </h4>
+                          <p>
+                            PPC (Pay-Per-Click) advertising turns out to be the
+                            most impactful and result-oriented strategy when it
+                            comes to driving instant traffic, generating quality
+                            leads, and optimising returns on investments.
+                            Whether it is a budding enterprise looking to grow
+                            in its locality or an existing firm seeking to
+                            expand its reach, the search for the best PPC
+                            services agency in Delhi NCR can be very important.
+                          </p>
+                          <div class="cta">
+                            <a
+                              href="/blog/best-ppc-services-agency-delhi-ncr.html"
+                            >
+                              <i class="fa-sharp fa-regular fa-arrow-right"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                      <!-- New blog entry -->
+                      <div class="blog-main__single fade-top">
+                        <div class="thumb">
+                          <div class="thumb-link">
+                            <a
+                              href="/blog/ppc-boost-small-business-advertising.html"
+                            >
+                              <img
+                                src="assets/images/blog/blog-ppc-small-business.webp"
+                                alt="8 Powerful Ways PPC Can Boost Your Small Business Advertising"
+                              />
+                            </a>
+                          </div>
+                          <div class="meta">
+                            <div class="meta__left">
+                              <p>
+                                <strong>Written by:</strong> Stealth Digital
+                              </p>
+                              <span></span>
+                              <p>09/12/2024</p>
+                            </div>
+                            <div class="meta__right">
+                              <a href="">PPC</a>
+                              <a href="">Small Business</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="content">
+                          <h4 class="h4">
+                            <a
+                              href="/blog/ppc-boost-small-business-advertising.html"
+                            >
+                              8 Powerful Ways PPC Can Boost Your Small Business
+                              Advertising
+                            </a>
+                          </h4>
+                          <p>
+                            In the present market, especially considering the
+                            level of competition in the digital space, it has
+                            become mandatory for small businesses to implement
+                            focused and effective advertising strategies. The
+                            use of Pay-Per-Click advertisements has become very
+                            popular to businesses of all sizes as it has enabled
+                            them to attract a given population, obtain leads,
+                            and make the best use of the resources allocated to
+                            marketing.
+                          </p>
+                          <div class="cta">
+                            <a
+                              href="/blog/ppc-boost-small-business-advertising.html"
+                            >
+                              <i class="fa-sharp fa-regular fa-arrow-right"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                      <!-- New blog entry for Digital Marketing Services for Restaurants -->
+                      <div class="blog-main__single fade-top">
+                        <div class="thumb">
+                          <div class="thumb-link">
+                            <a
+                              href="/blog/digital-marketing-services-for-restaurants.html"
+                            >
+                              <img
+                                src="assets/images/blog/blog-digital-marketing-restaurants.webp"
+                                alt="Digital Marketing Services for Restaurants: 7 Key Strategies to Grow Your Customer Base"
+                              />
+                            </a>
+                          </div>
+                          <div class="meta">
+                            <div class="meta__left">
+                              <p>
+                                <strong>Written by:</strong> Stealth Digital
+                              </p>
+                              <span></span>
+                              <p>12/01/2025</p>
+                            </div>
+                            <div class="meta__right">
+                              <a href="">Digital Marketing</a>
+                              <a href="">Restaurants</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="content">
+                          <h4 class="h4">
+                            <a
+                              href="/blog/digital-marketing-services-for-restaurants.html"
+                            >
+                              Digital Marketing Services for Restaurants: 7 Key
+                              Strategies to Grow Your Customer Base
+                            </a>
+                          </h4>
+                          <p>
+                            In the modern high-speed digital environment, it
+                            would be wise for restaurant owners to take part in
+                            the rich digital marketing strategies to get ahead
+                            of other competitors. It has become a norm today
+                            where most people search for most of their dining
+                            options online. It would thus be necessary for
+                            restaurant owners to adopt the effectiveness of
+                            digital marketing strategies to attract customers
+                            and sell them the business.
+                          </p>
+                          <div class="cta">
+                            <a
+                              href="/blog/digital-marketing-services-for-restaurants.html"
+                            >
+                              <i class="fa-sharp fa-regular fa-arrow-right"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                      <!-- New blog entry for Social Media Restaurant Marketing -->
+                      <div class="blog-main__single fade-top">
+                        <div class="thumb">
+                          <div class="thumb-link">
+                            <a
+                              href="/blog/social-media-marketing-restaurants.html"
+                            >
+                              <img
+                                src="assets/images/blog/blog-social-media-restaurants.webp"
+                                alt="How Social Media Can Help Your Restaurant Stand Out in a Crowded Market"
+                              />
+                            </a>
+                          </div>
+                          <div class="meta">
+                            <div class="meta__left">
+                              <p>
+                                <strong>Written by:</strong> Stealth Digital
+                              </p>
+                              <span></span>
+                              <p>27/01/2025</p>
+                            </div>
+                            <div class="meta__right">
+                              <a href="">Social Media</a>
+                              <a href="">Restaurants</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="content">
+                          <h4 class="h4">
+                            <a
+                              href="/blog/social-media-marketing-restaurants.html"
+                            >
+                              How Social Media Can Help Your Restaurant Stand
+                              Out in a Crowded Market
+                            </a>
+                          </h4>
+                          <p>
+                            Mastering the restaurant business in the present day
+                            bets on something much bigger than just good food
+                            and top-class service. Especially in bustling
+                            metropolitan areas such as Delhi NCR, restaurants
+                            find themselves pampered for choice, with a
+                            restaurant available in every corner. While good
+                            quality food remains the foundation of any
+                            restaurant's success, establishing a strong online
+                            presence has become equally crucial.
+                          </p>
+                          <div class="cta">
+                            <a
+                              href="/blog/social-media-marketing-restaurants.html"
+                            >
+                              <i class="fa-sharp fa-regular fa-arrow-right"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                      <!-- New blog entry for Mobile-First Strategy -->
+                      <div class="blog-main__single fade-top">
+                        <div class="thumb">
+                          <div class="thumb-link">
+                            <a
+                              href="/blog/mobile-first-strategy-digital-marketing.html"
+                            >
+                              <img
+                                src="assets/images/blog/blog-mobile-first-strategy.webp"
+                                alt="Why Your Business Needs a Mobile-First Strategy for Digital Marketing in 2025"
+                              />
+                            </a>
+                          </div>
+                          <div class="meta">
+                            <div class="meta__left">
+                              <p>
+                                <strong>Written by:</strong> Stealth Digital
+                              </p>
+                              <span></span>
+                              <p>12/02/2025</p>
+                            </div>
+                            <div class="meta__right">
+                              <a href="">Digital Marketing</a>
+                              <a href="">Mobile Strategy</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="content">
+                          <h4 class="h4">
+                            <a
+                              href="/blog/mobile-first-strategy-digital-marketing.html"
+                            >
+                              Why Your Business Needs a Mobile-First Strategy
+                              for Digital Marketing in 2025
+                            </a>
+                          </h4>
+                          <p>
+                            Mobile devices perform virtually all online
+                            functions in this digital age, a mobile-first
+                            strategy has become essential for any business. Now
+                            that smartphones have become the means for
+                            commercial success, companies placing emphasis on
+                            their mobile optimization will fare better than
+                            those who do not. As smartphone and tablet
+                            dependence rises, providing a mobile-friendly
+                            experience should become the priority for any
+                            organization aiming to be competitive.
+                          </p>
+                          <div class="cta">
+                            <a
+                              href="/blog/mobile-first-strategy-digital-marketing.html"
+                            >
+                              <i class="fa-sharp fa-regular fa-arrow-right"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                      <!-- New blog entry for School Local SEO -->
+                      <div class="blog-main__single fade-top">
+                        <div class="thumb">
+                          <div class="thumb-link">
+                            <a href="/blog/local-seo-for-schools.html">
+                              <img
+                                src="assets/images/blog/blog-school-local-seo.webp"
+                                alt="Increase Your School's Visibility & Admissions with Local SEO"
+                              />
+                            </a>
+                          </div>
+                          <div class="meta">
+                            <div class="meta__left">
+                              <p>
+                                <strong>Written by:</strong> Stealth Digital
+                              </p>
+                              <span></span>
+                              <p>24/02/2025</p>
+                            </div>
+                            <div class="meta__right">
+                              <a href="">Local SEO</a>
+                              <a href="">Education</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="content">
+                          <h4 class="h4">
+                            <a href="/blog/local-seo-for-schools.html">
+                              Increase Your School's Visibility & Admissions
+                              with Local SEO
+                            </a>
+                          </h4>
+                          <p>
+                            In today's digital era, parents and students rely
+                            heavily on online searches to find the best
+                            educational institutions. Having a strong online
+                            presence is crucial for schools to attract more
+                            admissions. This is where Local SEO Services play a
+                            vital role. By optimizing your school's website for
+                            local search queries, you can increase visibility,
+                            enhance credibility, and improve enrollment rates.
+                          </p>
+                          <div class="cta">
+                            <a href="/blog/local-seo-for-schools.html">
+                              <i class="fa-sharp fa-regular fa-arrow-right"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                      <!-- New blog entry for Real Estate Lead Generation -->
+                      <div class="blog-main__single fade-top">
+                        <div class="thumb">
+                          <div class="thumb-link">
+                            <a href="/blog/real-estate-lead-generation.html">
+                              <img
+                                src="assets/images/blog/blog-real-estate-lead-generation.webp"
+                                alt="5 Proven Ways to Generate More Leads for Your Real Estate Business"
+                              />
+                            </a>
+                          </div>
+                          <div class="meta">
+                            <div class="meta__left">
+                              <p>
+                                <strong>Written by:</strong> Stealth Digital
+                              </p>
+                              <span></span>
+                              <p>03/03/2025</p>
+                            </div>
+                            <div class="meta__right">
+                              <a href="">Real Estate</a>
+                              <a href="">Lead Generation</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="content">
+                          <h4 class="h4">
+                            <a href="/blog/real-estate-lead-generation.html">
+                              5 Proven Ways to Generate More Leads for Your Real
+                              Estate Business
+                            </a>
+                          </h4>
+                          <p>
+                            Generating high-quality leads is crucial to success
+                            in the real estate industry. With increasing
+                            competition, real estate businesses must adopt
+                            effective strategies to attract potential buyers and
+                            sellers. Below are five proven ways to generate more
+                            leads for your real estate business.
+                          </p>
+                          <div class="cta">
+                            <a href="/blog/real-estate-lead-generation.html">
+                              <i class="fa-sharp fa-regular fa-arrow-right"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                      <!-- New blog entry for Social Media Engagement -->
+                      <div class="blog-main__single fade-top">
+                        <div class="thumb">
+                          <div class="thumb-link">
+                            <a
+                              href="/blog/improve-social-media-engagement.html"
+                            >
+                              <img
+                                src="assets/images/blog/blog-social-media-engagement.webp"
+                                alt="How to Improve Social Media Engagement for Your Business: Top Tips"
+                              />
+                            </a>
+                          </div>
+                          <div class="meta">
+                            <div class="meta__left">
+                              <p>
+                                <strong>Written by:</strong> Stealth Digital
+                              </p>
+                              <span></span>
+                              <p>06/03/2025</p>
+                            </div>
+                            <div class="meta__right">
+                              <a href="">Social Media</a>
+                              <a href="">Digital Marketing</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="content">
+                          <h4 class="h4">
+                            <a
+                              href="/blog/improve-social-media-engagement.html"
+                            >
+                              How to Improve Social Media Engagement for Your
+                              Business: Top Tips
+                            </a>
+                          </h4>
+                          <p>
+                            In today's digital era, social media has become a
+                            crucial platform for businesses to connect with
+                            their audience, build brand awareness, and drive
+                            conversions. However, simply having a presence on
+                            social platforms is not enough—you need to actively
+                            engage with your audience to maximize the impact. If
+                            you are looking for expert guidance, Stealth Digital
+                            offers top-notch Social Media Services in Delhi NCR
+                            to help businesses grow their online presence
+                            effectively.
+                          </p>
+                          <div class="cta">
+                            <a
+                              href="/blog/improve-social-media-engagement.html"
+                            >
+                              <i class="fa-sharp fa-regular fa-arrow-right"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                      <!-- New blog entry for Organic Traffic Growth -->
+                      <div class="blog-main__single fade-top">
+                        <div class="thumb">
+                          <div class="thumb-link">
+                            <a href="/blog/grow-organic-traffic-2025.html">
+                              <img
+                                src="assets/images/blog/blog-organic-traffic-growth.webp"
+                                alt="How to Grow Organic Traffic in 2025: Essential Tips for Website Success"
+                              />
+                            </a>
+                          </div>
+                          <div class="meta">
+                            <div class="meta__left">
+                              <p>
+                                <strong>Written by:</strong> Stealth Digital
+                              </p>
+                              <span></span>
+                              <p>17/03/2025</p>
+                            </div>
+                            <div class="meta__right">
+                              <a href="">SEO</a>
+                              <a href="">Website Traffic</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="content">
+                          <h4 class="h4">
+                            <a href="/blog/grow-organic-traffic-2025.html">
+                              How to Grow Organic Traffic in 2025: Essential
+                              Tips for Website Success
+                            </a>
+                          </h4>
+                          <p>
+                            In the ever-evolving digital landscape, increasing
+                            organic traffic is essential for businesses looking
+                            to strengthen their online presence. With
+                            competition growing rapidly, having a strategic
+                            approach is key to attracting and retaining
+                            visitors. Whether you own a startup or a
+                            well-established business, leveraging expert Web
+                            Development Services in Delhi NCR, optimizing SEO
+                            strategies, and investing in user-friendly design
+                            can make all the difference.
+                          </p>
+                          <div class="cta">
+                            <a href="/blog/grow-organic-traffic-2025.html">
+                              <i class="fa-sharp fa-regular fa-arrow-right"></i>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="pagination-wrapper">
+                        <ul class="pagination">
+                          <!-- Pagination will be generated here dynamically -->
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <!-- ==== blog section start ==== -->
+          </main>
+          <!-- ==== / main end ==== -->
+          <!-- ==== footer start ==== -->
+          <footer
+            class="footer section pb-0"
+            data-background="assets/images/footer/footer-bg.png"
+          >
+            <div class="container">
+              <div class="row gaper">
+                <div class="col-12 col-lg-5 col-xl-6">
+                  <div class="footer__single">
+                    <a href="/" class="logo">
+                      <img
+                        src="assets/images/logo.png"
+                        alt="Stealth Digital Logo"
+                      />
+                    </a>
+                    <div class="footer__single-meta">
+                      <a
+                        href="https://maps.app.goo.gl/V4wAodQUjrUmepMMA"
+                        target="_blank"
+                      >
+                        <i class="fa-sharp fa-solid fa-location-dot"></i>
+                        304, Best Sky Tower, Netaji Subhash Place, Pitampura,
+                        Delhi, 110034
+                      </a>
+                      <a href="tel:918700181135">
+                        <i class="fa-sharp fa-solid fa-phone-volume"></i>
+                        918700181135
+                      </a>
+                      <a href="mailto:rishabh@stealthdigital.in">
+                        <i class="fa-sharp fa-solid fa-envelope"></i>
+                        rishabh@stealthdigital.in
+                      </a>
+                    </div>
+                    <div class="footer__cta text-start">
+                      <a href="contact-us.html" class="btn btn--secondary"
+                        >Book an appointment</a
+                      >
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-12 col-lg-2 col-xl-2">
+                  <div class="footer__single">
+                    <div class="footer__single-intro">
+                      <h5>Discover</h5>
+                    </div>
+                    <div class="footer__single-content">
+                      <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="about-us.html">About Us</a></li>
+                        <li>
+                          <a href="search-engine-marketing.html">Services</a>
+                        </li>
+                        <li><a href="blog.html">Blogs</a></li>
+                        <li><a href="contact-us.html">Contact Us</a></li>
+                        <li>
+                          <a href="privacy-policy.html">Privacy Policy</a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-12 col-lg-5 col-xl-4">
+                  <div class="footer__single">
+                    <div class="footer__single-intro">
+                      <h5>Subscribe to Our Newsletter</h5>
+                    </div>
+                    <div class="footer__single-content">
+                      <p>
+                        Stay updated with the latest digital marketing trends
+                        and strategies. Subscribe to our newsletter for insights
+                        and tips.
+                      </p>
+                      <div class="footer__single-form">
+                        <form id="newsletterForm" action="#" method="post">
+                          <div class="input-email">
+                            <input
+                              type="email"
+                              name="subscribe-news"
+                              id="subscribeNews"
+                              placeholder="Enter Your Email"
+                              required
+                            />
+                            <button type="submit" class="subscribe">
+                              <i class="fa-sharp fa-solid fa-paper-plane"></i>
+                            </button>
+                          </div>
+                          <!-- Thank you message -->
+                          <div
+                            id="thankYouMessage"
+                            style="
+                              display: none;
+
+                              margin-top: 10px;
+                            "
+                          >
+                            Thank you for subscribing !
+                          </div>
+                        </form>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-12">
+                  <div class="footer__copyright">
+                    <div class="row align-items-center gaper">
+                      <div class="col-12 col-lg-8">
+                        <div
+                          class="footer__copyright-text text-center text-lg-start"
+                        >
+                          <p>
+                            Copyright &copy;
+                            <span id="copyYear"></span>
+                            by Stealth Digital. All Rights Reserved
+                          </p>
+                        </div>
+                      </div>
+                      <div class="col-12 col-lg-4">
+                        <div
+                          class="social justify-content-center justify-content-lg-end"
+                        >
+                          <a
+                            href="https://www.facebook.com/people/Stealth-Digital-SD/61560966751733/"
+                            target="_blank"
+                          >
+                            <i class="fa-brands fa-facebook-f"></i>
+                          </a>
+                          <!-- <a href="https://www.twitter.com/" target="_blank">
+                                    <i class="fa-brands fa-twitter"></i>
+                                  </a> -->
+                          <a
+                            href="https://www.linkedin.com/company/stealth-digitaly/"
+                            target="_blank"
+                          >
+                            <i class="fa-brands fa-linkedin-in"></i>
+                          </a>
+                          <a
+                            href="https://www.instagram.com/digital_marketing_stealth/"
+                            target="_blank"
+                          >
+                            <i class="fa-brands fa-instagram"></i>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </footer>
+
+          <script type="application/ld+json">
+            {
+              "@context": "https://schema.org",
+              "@type": "ProfessionalService",
+              "name": "Stealth Digital",
+              "image": "https://www.stealthdigital.in/assets/images/logo.png",
+              "url": "https://www.stealthdigital.in/",
+              "telephone": "+91-87001 81135",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "304, Best Sky Tower, Netaji Subhash Place",
+                "addressLocality": "Delhi",
+                "postalCode": "110034",
+                "addressCountry": "IN"
+              },
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 28.6922865,
+                "longitude": 77.14901069999999
+              },
+              "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday"
+                ],
+                "opens": "09:30",
+                "closes": "19:00"
+              },
+              "sameAs": [
+                "https://www.facebook.com/StealthDigital.SD/",
+                "https://www.instagram.com/digital_marketing_stealth/",
+                "https://www.linkedin.com/company/stealth-digitaly/"
+              ]
+            }
+          </script>
+          <!-- ==== / footer end ==== -->
+        </div>
+      </div>
+      <!-- ==== scroll to top start ==== -->
+      <button
+        class="progress-wrap"
+        aria-label="scroll indicator"
+        title="go to top"
+      >
+        <span></span>
+        <svg
+          class="progress-circle svg-content"
+          width="100%"
+          height="100%"
+          viewBox="-1 -1 102 102"
+        >
+          <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+        </svg>
+      </button>
+      <!-- ==== / scroll to top end ==== -->
+    </div>
+    <!-- ==== js dependencies start ==== -->
+    <!-- jquery -->
+    <script src="assets/vendor/jquery/jquery-3.7.0.min.js"></script>
+    <!-- bootstrap five js -->
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- nice select js -->
+    <script src="assets/vendor/nice-select/js/jquery.nice-select.min.js"></script>
+    <!-- magnific popup js -->
+    <script src="assets/vendor/magnific-popup/js/jquery.magnific-popup.min.js"></script>
+    <!-- slick js -->
+    <script src="assets/vendor/slick/js/slick.min.js"></script>
+    <!-- image loaded js -->
+    <script src="assets/vendor/images-loaded/imagesloaded.pkgd.min.js"></script>
+    <!-- isotope js -->
+    <script src="assets/vendor/isotope/isotope.pkgd.min.js"></script>
+    <!-- chroma js -->
+    <script src="assets/vendor/gsap/chroma.min.js"></script>
+    <!-- splittext js -->
+    <script src="assets/vendor/gsap/SplitText.min.js"></script>
+    <!-- scrollsmoother js -->
+    <script src="assets/vendor/gsap/ScrollSmoother.min.js"></script>
+    <!-- scrollto js -->
+    <script src="assets/vendor/gsap/ScrollToPlugin.min.js"></script>
+    <!-- scrolltrigger js -->
+    <script src="assets/vendor/gsap/ScrollTrigger.min.js"></script>
+    <!-- gsap js -->
+    <script src="assets/vendor/gsap/gsap.min.js"></script>
+    <!-- vanilla tilt js -->
+    <script src="assets/vendor/vanilla-tilt/tilt.jquery.js"></script>
+    <!-- ==== / js dependencies end ==== -->
+    <!-- plugins js -->
+    <script src="assets/js/plugins.js"></script>
+    <!-- main js -->
+    <script src="assets/js/main.js"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        // Select all blog entries
+        const blogs = Array.from(
+          document.querySelectorAll(".blog-main__single")
+        );
+        const parent = blogs[0].parentNode; // Get the parent container
+        const blogsPerPage = 10;
+
+        // Reverse the array to get latest first (create a copy to avoid mutation)
+        const reversedBlogs = [...blogs].reverse();
+
+        // Re-insert the reversed blogs into the DOM to correct the order
+        parent.innerHTML = ""; // Clear existing content
+        reversedBlogs.forEach((blog) => parent.appendChild(blog));
+
+        // Calculate total number of pages
+        const totalPages = Math.ceil(reversedBlogs.length / blogsPerPage);
+
+        // Get current page from URL parameter or default to 1
+        const urlParams = new URLSearchParams(window.location.search);
+        const currentPage = parseInt(urlParams.get("page")) || 1;
+
+        // Calculate start and end index for current page
+        const startIndex = (currentPage - 1) * blogsPerPage;
+        const endIndex = startIndex + blogsPerPage;
+
+        // Hide all blogs first
+        reversedBlogs.forEach((blog) => (blog.style.display = "none"));
+
+        // Show only blogs for the current page without reversing
+        const blogsToShow = reversedBlogs.slice(startIndex, endIndex);
+        blogsToShow.forEach((blog) => {
+          blog.style.display = "block";
+          blog.classList.add("fade-top"); // Ensure fade-top class for animation
+        });
+
+        // Generate pagination HTML dynamically
+        const paginationUl = document.querySelector(".pagination");
+        paginationUl.innerHTML = ""; // Clear existing pagination
+
+        // Add previous button if not on the first page
+        if (currentPage > 1) {
+          const prevLi = document.createElement("li");
+          prevLi.innerHTML = `
+            <button class="prev-page" aria-label="Previous Page">
+              <i class="fa-sharp fa-regular fa-arrow-left"></i>
+            </button>
+          `;
+          prevLi.querySelector("button").addEventListener("click", () => {
+            window.location.href = `blog.html?page=${currentPage - 1}`;
+          });
+          paginationUl.appendChild(prevLi);
+        }
+
+        // Generate page numbers
+        for (let i = 1; i <= totalPages; i++) {
+          const li = document.createElement("li");
+          li.innerHTML = `
+            <a href="blog.html?page=${i}" class="page-link ${
+            currentPage === i ? "active" : ""
+          }" aria-label="Go to page ${i}">
+              ${i.toString().padStart(2, "0")}
+            </a>
+          `;
+          paginationUl.appendChild(li);
+        }
+
+        // Add next button if not on the last page
+        if (currentPage < totalPages) {
+          const nextLi = document.createElement("li");
+          nextLi.innerHTML = `
+            <button class="next-page" aria-label="Next Page">
+              <i class="fa-sharp fa-regular fa-arrow-right"></i>
+            </button>
+          `;
+          nextLi.querySelector("button").addEventListener("click", () => {
+            window.location.href = `blog.html?page=${currentPage + 1}`;
+          });
+          paginationUl.appendChild(nextLi);
+        }
+      });
+    </script>
+  </body>
+</html>
